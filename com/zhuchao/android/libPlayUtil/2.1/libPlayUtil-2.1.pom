@@ -9,6 +9,12 @@
   <dependencies>
     <dependency>
       <groupId>OctopusFramework</groupId>
+      <artifactId>libFilesManager</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>OctopusFramework</groupId>
       <artifactId>libDecodeCore</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
@@ -22,6 +28,12 @@
     <dependency>
       <groupId>OctopusFramework</groupId>
       <artifactId>libDialog</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>OctopusFramework</groupId>
+      <artifactId>libDataBaseUtil</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
