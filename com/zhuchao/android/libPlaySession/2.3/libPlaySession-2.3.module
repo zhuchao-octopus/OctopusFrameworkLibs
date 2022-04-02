@@ -1,0 +1,102 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libPlaySession",
+    "version": "2.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libPlaySession-2.3.aar",
+          "url": "libPlaySession-2.3.aar",
+          "size": 61844,
+          "sha512": "60b328d5616aac990a9d420588703bee594e099b505540cac713e8224671d188e5167f2014f475779d66a7283bfef30b60733f5767007026c80ba60b80d28281",
+          "sha256": "bfc0c600946ae35a71a78e8fcfc74913c0030f628b34c9b4d2a1abf38acacd14",
+          "sha1": "5e035c37b7f9b8c1e232fe28763e6c958c605a97",
+          "md5": "cc3de98737fd6d4c7d0323dcb60ff6d7"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.8"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayUtil",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libNetUtil",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libVideo",
+          "version": {
+            "requires": "1.3"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libPlaySession-2.3.aar",
+          "url": "libPlaySession-2.3.aar",
+          "size": 61844,
+          "sha512": "60b328d5616aac990a9d420588703bee594e099b505540cac713e8224671d188e5167f2014f475779d66a7283bfef30b60733f5767007026c80ba60b80d28281",
+          "sha256": "bfc0c600946ae35a71a78e8fcfc74913c0030f628b34c9b4d2a1abf38acacd14",
+          "sha1": "5e035c37b7f9b8c1e232fe28763e6c958c605a97",
+          "md5": "cc3de98737fd6d4c7d0323dcb60ff6d7"
+        }
+      ]
+    }
+  ]
+}

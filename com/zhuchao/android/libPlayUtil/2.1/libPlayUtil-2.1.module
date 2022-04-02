@@ -1,0 +1,74 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libPlayUtil",
+    "version": "2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libPlayUtil-2.1.aar",
+          "url": "libPlayUtil-2.1.aar",
+          "size": 14521,
+          "sha512": "17134077430d1ca06460b2f576971c948fb789f0b1c304cf0796ea26032370836980b2a1f94741e1dc6d2eef27c61f9f8490db81320eb5b49101b42966767e64",
+          "sha256": "3d2862ff9dd1d265b630b632b7fdf8aad71ed0e78e8fb571d5a8e8f0a8b39178",
+          "sha1": "b88565cbab23532d48cf1ffcfe07aaf8160bd85a",
+          "md5": "2c00a2e8f822a8ca48f0a1f6a585240d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDecodeCore",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libPlayUtil-2.1.aar",
+          "url": "libPlayUtil-2.1.aar",
+          "size": 14521,
+          "sha512": "17134077430d1ca06460b2f576971c948fb789f0b1c304cf0796ea26032370836980b2a1f94741e1dc6d2eef27c61f9f8490db81320eb5b49101b42966767e64",
+          "sha256": "3d2862ff9dd1d265b630b632b7fdf8aad71ed0e78e8fb571d5a8e8f0a8b39178",
+          "sha1": "b88565cbab23532d48cf1ffcfe07aaf8160bd85a",
+          "md5": "2c00a2e8f822a8ca48f0a1f6a585240d"
+        }
+      ]
+    }
+  ]
+}

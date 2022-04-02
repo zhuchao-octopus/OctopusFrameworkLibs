@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libNotifer",
+    "version": "2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libNotifer-2.0.aar",
+          "url": "libNotifer-2.0.aar",
+          "size": 4647,
+          "sha512": "22b7d79fdfd8d88c15de2cf2e450accb756f4ba8b1d0ee42660930187afdd49b1721ecc242426a2d1612ebe6835c19eaf2009ecc6bf11dcd6dab3f3dbb5ce4fd",
+          "sha256": "55d09ca4e6313affe64e0d46fc2977bf5a1137d407fcc1bc890e993e553fdf4c",
+          "sha1": "ab16be330304e71f4dcc2e90d2e0b01bc39cba80",
+          "md5": "2f12a81a90c4feeb1083c53d17110b4c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libNotifer-2.0.aar",
+          "url": "libNotifer-2.0.aar",
+          "size": 4647,
+          "sha512": "22b7d79fdfd8d88c15de2cf2e450accb756f4ba8b1d0ee42660930187afdd49b1721ecc242426a2d1612ebe6835c19eaf2009ecc6bf11dcd6dab3f3dbb5ce4fd",
+          "sha256": "55d09ca4e6313affe64e0d46fc2977bf5a1137d407fcc1bc890e993e553fdf4c",
+          "sha1": "ab16be330304e71f4dcc2e90d2e0b01bc39cba80",
+          "md5": "2f12a81a90c4feeb1083c53d17110b4c"
+        }
+      ]
+    }
+  ]
+}

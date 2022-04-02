@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFileUtils",
+    "version": "1.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libFileUtils-1.3.aar",
+          "url": "libFileUtils-1.3.aar",
+          "size": 48967,
+          "sha512": "bcdde333254493c918db4794c94534c8f397a58590e13f9f0cf709379dd2d9b0246d4dd7ca18766cef5795329ff07b98d3413fbc106d2ed5e864c4a25f2e7402",
+          "sha256": "4f55ee7e284eee69db7238d8511dd7b491a628f0e904116162afd51b6d51ae08",
+          "sha1": "3592f130bac8525c94ca2fbabaa7df09a8bd57f4",
+          "md5": "5a1c5b42cd9567a290e8ed9b4eed13af"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFileUtils-1.3.aar",
+          "url": "libFileUtils-1.3.aar",
+          "size": 48967,
+          "sha512": "bcdde333254493c918db4794c94534c8f397a58590e13f9f0cf709379dd2d9b0246d4dd7ca18766cef5795329ff07b98d3413fbc106d2ed5e864c4a25f2e7402",
+          "sha256": "4f55ee7e284eee69db7238d8511dd7b491a628f0e904116162afd51b6d51ae08",
+          "sha1": "3592f130bac8525c94ca2fbabaa7df09a8bd57f4",
+          "md5": "5a1c5b42cd9567a290e8ed9b4eed13af"
+        }
+      ]
+    }
+  ]
+}

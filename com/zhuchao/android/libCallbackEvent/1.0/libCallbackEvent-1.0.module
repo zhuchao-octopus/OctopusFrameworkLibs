@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libCallbackEvent",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libCallbackEvent-1.0.aar",
+          "url": "libCallbackEvent-1.0.aar",
+          "size": 2835,
+          "sha512": "50e99fada74db26d773a2ab0292e898fd59b88553d08b583a1720531e0b6fdafdb74e5a91e3f2ef6ad4b24c3c1a2b9cca694c09e25071fc302cb3c541996785d",
+          "sha256": "bd54114ef154e5a915075655dba6080752890c20484819beee15756fd2c79ba1",
+          "sha1": "26c43195f2d8dc9aa359d2e38141b0626fb0e8cb",
+          "md5": "e4b31badad346c9396ddf907e5ed7546"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libCallbackEvent-1.0.aar",
+          "url": "libCallbackEvent-1.0.aar",
+          "size": 2835,
+          "sha512": "50e99fada74db26d773a2ab0292e898fd59b88553d08b583a1720531e0b6fdafdb74e5a91e3f2ef6ad4b24c3c1a2b9cca694c09e25071fc302cb3c541996785d",
+          "sha256": "bd54114ef154e5a915075655dba6080752890c20484819beee15756fd2c79ba1",
+          "sha1": "26c43195f2d8dc9aa359d2e38141b0626fb0e8cb",
+          "md5": "e4b31badad346c9396ddf907e5ed7546"
+        }
+      ]
+    }
+  ]
+}

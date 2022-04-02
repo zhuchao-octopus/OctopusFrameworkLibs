@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libDataBaseUtil",
+    "version": "2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libDataBaseUtil-2.1.aar",
+          "url": "libDataBaseUtil-2.1.aar",
+          "size": 7810,
+          "sha512": "d427de0b84a3e7b63d8dc67aa9d211ff5dc45b5b620e08b979a7154045652029f176e5a4a3011e3906ca8e35b9596310402621e9be937eed650d2e2d72cafb7b",
+          "sha256": "3845740a6d92ccba71c97513a0317e4bd1a17d5b3534b3d41aa0001767cde97b",
+          "sha1": "1bf9a2d814934ee0f8afcba16f52c08db6df69c8",
+          "md5": "1358aeee5c3a436e8aa7e195d84ad90d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libDataBaseUtil-2.1.aar",
+          "url": "libDataBaseUtil-2.1.aar",
+          "size": 7810,
+          "sha512": "d427de0b84a3e7b63d8dc67aa9d211ff5dc45b5b620e08b979a7154045652029f176e5a4a3011e3906ca8e35b9596310402621e9be937eed650d2e2d72cafb7b",
+          "sha256": "3845740a6d92ccba71c97513a0317e4bd1a17d5b3534b3d41aa0001767cde97b",
+          "sha1": "1bf9a2d814934ee0f8afcba16f52c08db6df69c8",
+          "md5": "1358aeee5c3a436e8aa7e195d84ad90d"
+        }
+      ]
+    }
+  ]
+}
