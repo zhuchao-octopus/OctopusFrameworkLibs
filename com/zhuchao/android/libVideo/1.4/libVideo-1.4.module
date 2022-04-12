@@ -26,11 +26,11 @@
         {
           "name": "libVideo-1.4.aar",
           "url": "libVideo-1.4.aar",
-          "size": 27138,
-          "sha512": "274aaadfaccf23f66af247358dd3967da0e397ad671d2b0f44575b49880460e1c285650d833ca3534681aaaeab880306d701e8c3e1199f841a9ef1a3fb0aa5b6",
-          "sha256": "9b801cc655aeeab2de1a902f5f4c200989914b25e3f526f98a111f62b9d3e874",
-          "sha1": "dc78cc3054efe6ec02a5a7979d530df5a4499afc",
-          "md5": "eee962e5beaaecd074eaa27638458ab1"
+          "size": 33418,
+          "sha512": "7f5e27457fc6b7f63164cd245314f8a60acf9660ba5841d6f8e5e208b2cb00457ba1dc0efc220f74b6e2525a83beebc920a14c5c7f2c795494e97ec72d3b1359",
+          "sha256": "1c68b7ba64655e6bc0478fd733cdf3986112afeb29227bde4b66fa626727175c",
+          "sha1": "e3cb922007242c08c1c80e903b0fdec396043294",
+          "md5": "bf18be112f0b9afcd7045ebe63b8da15"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "libVideo-1.4.aar",
           "url": "libVideo-1.4.aar",
-          "size": 27138,
-          "sha512": "274aaadfaccf23f66af247358dd3967da0e397ad671d2b0f44575b49880460e1c285650d833ca3534681aaaeab880306d701e8c3e1199f841a9ef1a3fb0aa5b6",
-          "sha256": "9b801cc655aeeab2de1a902f5f4c200989914b25e3f526f98a111f62b9d3e874",
-          "sha1": "dc78cc3054efe6ec02a5a7979d530df5a4499afc",
-          "md5": "eee962e5beaaecd074eaa27638458ab1"
+          "size": 33418,
+          "sha512": "7f5e27457fc6b7f63164cd245314f8a60acf9660ba5841d6f8e5e208b2cb00457ba1dc0efc220f74b6e2525a83beebc920a14c5c7f2c795494e97ec72d3b1359",
+          "sha256": "1c68b7ba64655e6bc0478fd733cdf3986112afeb29227bde4b66fa626727175c",
+          "sha1": "e3cb922007242c08c1c80e903b0fdec396043294",
+          "md5": "bf18be112f0b9afcd7045ebe63b8da15"
         }
       ]
     }

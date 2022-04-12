@@ -26,11 +26,11 @@
         {
           "name": "libPlayUtil-2.2.aar",
           "url": "libPlayUtil-2.2.aar",
-          "size": 2864,
-          "sha512": "f1652983ebe2ed9854f1470aaeef8a1834fd677c0539aadb5c847ca4c083d3a37a1605f9f7786b9b30da4dc153760e4945024633b65c06409e4d66f9aeab0a4c",
-          "sha256": "d4e5f2434f19485a95fcd6c488e7bb890bcd684bdfdf3fc23e2495b35dfb567a",
-          "sha1": "05dbd9e7e131882d0bc19247ea8102764b98a422",
-          "md5": "8d062040e58f5b6d38a031a64d394c19"
+          "size": 22775,
+          "sha512": "1ac5882b73996ab42312a5e2179960734242fed09301cbcf628dab93b86d849cb879c7087f931c28246c0ea4422b10bc0bdd910b3a5e7e023d68c8512b974e48",
+          "sha256": "83f64a386eca0f6e4244e637e1727e6dc0db01bdb59555db281577a603267c73",
+          "sha1": "2ebf575c6349ddf2988e1e2010a996d138d3f9c8",
+          "md5": "1413e4df1a0e5539b97b11bc68ea7d71"
         }
       ]
     },
@@ -62,11 +62,11 @@
         {
           "name": "libPlayUtil-2.2.aar",
           "url": "libPlayUtil-2.2.aar",
-          "size": 2864,
-          "sha512": "f1652983ebe2ed9854f1470aaeef8a1834fd677c0539aadb5c847ca4c083d3a37a1605f9f7786b9b30da4dc153760e4945024633b65c06409e4d66f9aeab0a4c",
-          "sha256": "d4e5f2434f19485a95fcd6c488e7bb890bcd684bdfdf3fc23e2495b35dfb567a",
-          "sha1": "05dbd9e7e131882d0bc19247ea8102764b98a422",
-          "md5": "8d062040e58f5b6d38a031a64d394c19"
+          "size": 22775,
+          "sha512": "1ac5882b73996ab42312a5e2179960734242fed09301cbcf628dab93b86d849cb879c7087f931c28246c0ea4422b10bc0bdd910b3a5e7e023d68c8512b974e48",
+          "sha256": "83f64a386eca0f6e4244e637e1727e6dc0db01bdb59555db281577a603267c73",
+          "sha1": "2ebf575c6349ddf2988e1e2010a996d138d3f9c8",
+          "md5": "1413e4df1a0e5539b97b11bc68ea7d71"
         }
       ]
     }

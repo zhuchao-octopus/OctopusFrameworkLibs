@@ -1,0 +1,102 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libVideo",
+    "version": "1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libVideo-1.5.aar",
+          "url": "libVideo-1.5.aar",
+          "size": 29087,
+          "sha512": "c36eb5e3f5b59c43a6a501ff7e7db55cd3e84c1c9c99a50619e9e41fc049f0d7c1fdefa8c6320271e52fa1bf5dcbde534e1041e582f5d5ff5e3c155b8857101a",
+          "sha256": "0d6d3ee6112de98cc02bf4e0191c6931ef81300acd5a40bac7f9469e2bbbd250",
+          "sha1": "8c553028804a67efe9c0432d45b9ff735ed8327e",
+          "md5": "af2d1c2f32fce736a3d3de6724fb3166"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.bumptech.glide",
+          "module": "glide",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayUtil",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libNetUtil",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDataBaseUtil",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libVideo-1.5.aar",
+          "url": "libVideo-1.5.aar",
+          "size": 29087,
+          "sha512": "c36eb5e3f5b59c43a6a501ff7e7db55cd3e84c1c9c99a50619e9e41fc049f0d7c1fdefa8c6320271e52fa1bf5dcbde534e1041e582f5d5ff5e3c155b8857101a",
+          "sha256": "0d6d3ee6112de98cc02bf4e0191c6931ef81300acd5a40bac7f9469e2bbbd250",
+          "sha1": "8c553028804a67efe9c0432d45b9ff735ed8327e",
+          "md5": "af2d1c2f32fce736a3d3de6724fb3166"
+        }
+      ]
+    }
+  ]
+}

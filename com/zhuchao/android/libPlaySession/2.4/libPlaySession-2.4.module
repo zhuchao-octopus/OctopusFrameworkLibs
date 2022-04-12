@@ -26,11 +26,11 @@
         {
           "name": "libPlaySession-2.4.aar",
           "url": "libPlaySession-2.4.aar",
-          "size": 62182,
-          "sha512": "d54197e01a5b98edb6c477e2ea678ce6733afd8e1577c0528cf99e0da1af6150f474a618953f89f978048d8bcf3636e0f1b68d309a89bcb66282915f678cb15c",
-          "sha256": "9f7a09d340fc68d1f59150928b51561424fcd6ed1c1860463e1c879c49c872db",
-          "sha1": "fd90a892953c0c9f10689bcf548c283a0668eda0",
-          "md5": "5fa5ec2dce39ad3d233c11a40e5fb431"
+          "size": 62807,
+          "sha512": "5f48f97d612f86e0a0c2aa8016398bdcc94840d387b629c526300c49c5b69f95d5fa9c3f52b1ee82e2d26506e55a05bc25d6f369266fc7f68edd50a44ef22f8d",
+          "sha256": "793a66eb13edd3f77b35920cc7516acebc9544c5ce39f1278fe32a70961d766c",
+          "sha1": "6e387cade1e812c16808bb41fa8508693497ad62",
+          "md5": "1d76bc5f44a8f43ff1517f1655f62958"
         }
       ]
     },
@@ -68,14 +68,14 @@
           "group": "com.zhuchao.android",
           "module": "libVideo",
           "version": {
-            "requires": "1.4"
+            "requires": "1.5"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.3"
+            "requires": "1.4"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libPlaySession-2.4.aar",
           "url": "libPlaySession-2.4.aar",
-          "size": 62182,
-          "sha512": "d54197e01a5b98edb6c477e2ea678ce6733afd8e1577c0528cf99e0da1af6150f474a618953f89f978048d8bcf3636e0f1b68d309a89bcb66282915f678cb15c",
-          "sha256": "9f7a09d340fc68d1f59150928b51561424fcd6ed1c1860463e1c879c49c872db",
-          "sha1": "fd90a892953c0c9f10689bcf548c283a0668eda0",
-          "md5": "5fa5ec2dce39ad3d233c11a40e5fb431"
+          "size": 62807,
+          "sha512": "5f48f97d612f86e0a0c2aa8016398bdcc94840d387b629c526300c49c5b69f95d5fa9c3f52b1ee82e2d26506e55a05bc25d6f369266fc7f68edd50a44ef22f8d",
+          "sha256": "793a66eb13edd3f77b35920cc7516acebc9544c5ce39f1278fe32a70961d766c",
+          "sha1": "6e387cade1e812c16808bb41fa8508693497ad62",
+          "md5": "1d76bc5f44a8f43ff1517f1655f62958"
         }
       ]
     }
