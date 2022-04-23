@@ -11,4 +11,12 @@
   <artifactId>libDataBaseUtil</artifactId>
   <version>2.1</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>com.zhuchao.android</groupId>
+      <artifactId>libFileUtils</artifactId>
+      <version>1.4</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
 </project>

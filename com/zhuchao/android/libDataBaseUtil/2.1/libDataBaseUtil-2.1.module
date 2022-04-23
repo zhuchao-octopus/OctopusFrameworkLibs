@@ -26,11 +26,11 @@
         {
           "name": "libDataBaseUtil-2.1.aar",
           "url": "libDataBaseUtil-2.1.aar",
-          "size": 7810,
-          "sha512": "d427de0b84a3e7b63d8dc67aa9d211ff5dc45b5b620e08b979a7154045652029f176e5a4a3011e3906ca8e35b9596310402621e9be937eed650d2e2d72cafb7b",
-          "sha256": "3845740a6d92ccba71c97513a0317e4bd1a17d5b3534b3d41aa0001767cde97b",
-          "sha1": "1bf9a2d814934ee0f8afcba16f52c08db6df69c8",
-          "md5": "1358aeee5c3a436e8aa7e195d84ad90d"
+          "size": 19444,
+          "sha512": "5bc0149f11b474fd6308902bee764283bc51265d128b76c52923b2836962023457c44b9d967a79aa0f293065c855c77b0d2c8ff2c6170bfbd8952dfd1afdec8c",
+          "sha256": "cfba8219e2d76048f22833af4e1cd5358566eacab5d3ad09e2b7212567e0a012",
+          "sha1": "ae8a9cf2a14bae9d732a239d2dbdb302272e3243",
+          "md5": "f10e8511ff9f0c74f10fe029c5298963"
         }
       ]
     },
@@ -42,15 +42,24 @@
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-runtime"
       },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        }
+      ],
       "files": [
         {
           "name": "libDataBaseUtil-2.1.aar",
           "url": "libDataBaseUtil-2.1.aar",
-          "size": 7810,
-          "sha512": "d427de0b84a3e7b63d8dc67aa9d211ff5dc45b5b620e08b979a7154045652029f176e5a4a3011e3906ca8e35b9596310402621e9be937eed650d2e2d72cafb7b",
-          "sha256": "3845740a6d92ccba71c97513a0317e4bd1a17d5b3534b3d41aa0001767cde97b",
-          "sha1": "1bf9a2d814934ee0f8afcba16f52c08db6df69c8",
-          "md5": "1358aeee5c3a436e8aa7e195d84ad90d"
+          "size": 19444,
+          "sha512": "5bc0149f11b474fd6308902bee764283bc51265d128b76c52923b2836962023457c44b9d967a79aa0f293065c855c77b0d2c8ff2c6170bfbd8952dfd1afdec8c",
+          "sha256": "cfba8219e2d76048f22833af4e1cd5358566eacab5d3ad09e2b7212567e0a012",
+          "sha1": "ae8a9cf2a14bae9d732a239d2dbdb302272e3243",
+          "md5": "f10e8511ff9f0c74f10fe029c5298963"
         }
       ]
     }

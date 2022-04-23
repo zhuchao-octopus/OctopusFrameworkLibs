@@ -26,11 +26,11 @@
         {
           "name": "libNetUtil-2.0.aar",
           "url": "libNetUtil-2.0.aar",
-          "size": 49770,
-          "sha512": "e467eb30104d8d8a4f2bc0fda596d258b1ed1e69588e9f6cffbf027dcd8eb27a09d7b89bcf8f1e3237119434083a10b593b341bcc0fb83544e74e8484709c929",
-          "sha256": "c04c87026fd03d6164921f25c0a1ba4bc99cad542d99272604c7095df1cb4338",
-          "sha1": "f67b1790799e46e15225f6fd18435a2e47727a3f",
-          "md5": "71460c2529a959121e79cde40da71c29"
+          "size": 47544,
+          "sha512": "ce92030f238972e3593f8878735d695309567e931333bc54e89d1ec322cbe126ec1861d0f499309804934f6e2dc93f4dd6f7274fb3625cfef27df86f97c4d71f",
+          "sha256": "9e11148f03361a16c589d0e4b734387677ce95562da08cfe9e2f46347889e444",
+          "sha1": "a914739794f544868fbee6fde987318638d2ab63",
+          "md5": "c22a9af230350e984397384c3ffc3461"
         }
       ]
     },
@@ -58,13 +58,6 @@
           }
         },
         {
-          "group": "me.jessyan",
-          "module": "progressmanager",
-          "version": {
-            "requires": "1.5.0"
-          }
-        },
-        {
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
@@ -79,24 +72,10 @@
           }
         },
         {
-          "group": "com.squareup.okio",
-          "module": "okio",
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
           "version": {
-            "requires": "2.8.0"
-          }
-        },
-        {
-          "group": "com.google.code.findbugs",
-          "module": "jsr305",
-          "version": {
-            "requires": "3.0.2"
-          }
-        },
-        {
-          "group": "org.conscrypt",
-          "module": "conscrypt-openjdk-uber",
-          "version": {
-            "requires": "1.1.3"
+            "requires": "4.9.1"
           }
         }
       ],
@@ -104,11 +83,11 @@
         {
           "name": "libNetUtil-2.0.aar",
           "url": "libNetUtil-2.0.aar",
-          "size": 49770,
-          "sha512": "e467eb30104d8d8a4f2bc0fda596d258b1ed1e69588e9f6cffbf027dcd8eb27a09d7b89bcf8f1e3237119434083a10b593b341bcc0fb83544e74e8484709c929",
-          "sha256": "c04c87026fd03d6164921f25c0a1ba4bc99cad542d99272604c7095df1cb4338",
-          "sha1": "f67b1790799e46e15225f6fd18435a2e47727a3f",
-          "md5": "71460c2529a959121e79cde40da71c29"
+          "size": 47544,
+          "sha512": "ce92030f238972e3593f8878735d695309567e931333bc54e89d1ec322cbe126ec1861d0f499309804934f6e2dc93f4dd6f7274fb3625cfef27df86f97c4d71f",
+          "sha256": "9e11148f03361a16c589d0e4b734387677ce95562da08cfe9e2f46347889e444",
+          "sha1": "a914739794f544868fbee6fde987318638d2ab63",
+          "md5": "c22a9af230350e984397384c3ffc3461"
         }
       ]
     }

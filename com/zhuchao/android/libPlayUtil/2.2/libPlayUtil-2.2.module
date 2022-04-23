@@ -26,11 +26,11 @@
         {
           "name": "libPlayUtil-2.2.aar",
           "url": "libPlayUtil-2.2.aar",
-          "size": 22775,
-          "sha512": "1ac5882b73996ab42312a5e2179960734242fed09301cbcf628dab93b86d849cb879c7087f931c28246c0ea4422b10bc0bdd910b3a5e7e023d68c8512b974e48",
-          "sha256": "83f64a386eca0f6e4244e637e1727e6dc0db01bdb59555db281577a603267c73",
-          "sha1": "2ebf575c6349ddf2988e1e2010a996d138d3f9c8",
-          "md5": "1413e4df1a0e5539b97b11bc68ea7d71"
+          "size": 32354,
+          "sha512": "6faa2567d88e683ecaf8d15136758759e4f42cb3fa5829fddd04363363bf696eaf9a4b1c8f1a9b4d2399167eee589d400321612ad78b2de14475e36f4e9ea52a",
+          "sha256": "5fb6bfa201b333958fd3bb796f61fba904fb3ca89eb5e56e4e49f04abf3bf8e0",
+          "sha1": "2c4bcfa0cd67d49fb993cab2256f10f60551c6f6",
+          "md5": "46b31c7c74c607a000736c0670fe053c"
         }
       ]
     },
@@ -43,6 +43,13 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        },
         {
           "group": "com.zhuchao.android",
           "module": "libDecodeCore",
@@ -62,11 +69,11 @@
         {
           "name": "libPlayUtil-2.2.aar",
           "url": "libPlayUtil-2.2.aar",
-          "size": 22775,
-          "sha512": "1ac5882b73996ab42312a5e2179960734242fed09301cbcf628dab93b86d849cb879c7087f931c28246c0ea4422b10bc0bdd910b3a5e7e023d68c8512b974e48",
-          "sha256": "83f64a386eca0f6e4244e637e1727e6dc0db01bdb59555db281577a603267c73",
-          "sha1": "2ebf575c6349ddf2988e1e2010a996d138d3f9c8",
-          "md5": "1413e4df1a0e5539b97b11bc68ea7d71"
+          "size": 32354,
+          "sha512": "6faa2567d88e683ecaf8d15136758759e4f42cb3fa5829fddd04363363bf696eaf9a4b1c8f1a9b4d2399167eee589d400321612ad78b2de14475e36f4e9ea52a",
+          "sha256": "5fb6bfa201b333958fd3bb796f61fba904fb3ca89eb5e56e4e49f04abf3bf8e0",
+          "sha1": "2c4bcfa0cd67d49fb993cab2256f10f60551c6f6",
+          "md5": "46b31c7c74c607a000736c0670fe053c"
         }
       ]
     }

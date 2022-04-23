@@ -26,11 +26,11 @@
         {
           "name": "libFileUtils-1.4.aar",
           "url": "libFileUtils-1.4.aar",
-          "size": 54996,
-          "sha512": "42ba696dcbcdf7e57aa766aaf03af85b255664203f7848e74801c0672e04d7a982d7fea57f1720cd3a62dc709072769bd5577c0581648aff06f691c715f20ca7",
-          "sha256": "dcea672732001a7b7fb8a3d6b7989c11b113796990aefaa0153e211ae20cf27a",
-          "sha1": "4ffd8277c17a188f4a6e887f0c14d9d68650c5c5",
-          "md5": "7e41d19dafda5286b6103239bd16d318"
+          "size": 65621,
+          "sha512": "d19187ecf430307c3f15deeb5b23285287108a4a4b5c5a35d66f85eb2a33c3991c42bfb7ef32725157baafae1721082d1a62df26cba47fe9fcbb1c31c1755e37",
+          "sha256": "3e161f575e9a5effbe627cff7dbfa974839dfef29b78a1838870bfe35b21b176",
+          "sha1": "1484aa87b63f79d69e7f7e039e58b690ab8cbdb9",
+          "md5": "76b3255da1b65eaeafd07ccaf3e4c212"
         }
       ]
     },
@@ -56,17 +56,24 @@
           "version": {
             "requires": "1.0"
           }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOSUtils",
+          "version": {
+            "requires": "1.0"
+          }
         }
       ],
       "files": [
         {
           "name": "libFileUtils-1.4.aar",
           "url": "libFileUtils-1.4.aar",
-          "size": 54996,
-          "sha512": "42ba696dcbcdf7e57aa766aaf03af85b255664203f7848e74801c0672e04d7a982d7fea57f1720cd3a62dc709072769bd5577c0581648aff06f691c715f20ca7",
-          "sha256": "dcea672732001a7b7fb8a3d6b7989c11b113796990aefaa0153e211ae20cf27a",
-          "sha1": "4ffd8277c17a188f4a6e887f0c14d9d68650c5c5",
-          "md5": "7e41d19dafda5286b6103239bd16d318"
+          "size": 65621,
+          "sha512": "d19187ecf430307c3f15deeb5b23285287108a4a4b5c5a35d66f85eb2a33c3991c42bfb7ef32725157baafae1721082d1a62df26cba47fe9fcbb1c31c1755e37",
+          "sha256": "3e161f575e9a5effbe627cff7dbfa974839dfef29b78a1838870bfe35b21b176",
+          "sha1": "1484aa87b63f79d69e7f7e039e58b690ab8cbdb9",
+          "md5": "76b3255da1b65eaeafd07ccaf3e4c212"
         }
       ]
     }

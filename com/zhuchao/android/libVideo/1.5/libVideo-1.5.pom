@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libPlayUtil</artifactId>
-      <version>2.2</version>
+      <version>2.3</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

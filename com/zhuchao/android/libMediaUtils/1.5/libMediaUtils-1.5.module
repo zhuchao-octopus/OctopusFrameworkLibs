@@ -1,0 +1,102 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libMediaUtils",
+    "version": "1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libMediaUtils-1.5.aar",
+          "url": "libMediaUtils-1.5.aar",
+          "size": 27891,
+          "sha512": "4d30aa7667ef75478c51a3e6c77ba71211929fc59fb544a57e37620e4d7759788338e9510b10763f29466c7e86e5fceb00a78f3516c0b7b85afb0af1c968a84f",
+          "sha256": "269f7d19e0ccb5cf8be69e69fe2ffb84bfc819970d990303b9a04b6d7a36526b",
+          "sha1": "e26e16057d8b80beaf1b0d2c4ce3fd0072e15276",
+          "md5": "796bcaf60a117ed422e46ec0525cfc11"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOSUtils",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayerUtils",
+          "version": {
+            "requires": "2.3"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libNetUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDataBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libMediaUtils-1.5.aar",
+          "url": "libMediaUtils-1.5.aar",
+          "size": 27891,
+          "sha512": "4d30aa7667ef75478c51a3e6c77ba71211929fc59fb544a57e37620e4d7759788338e9510b10763f29466c7e86e5fceb00a78f3516c0b7b85afb0af1c968a84f",
+          "sha256": "269f7d19e0ccb5cf8be69e69fe2ffb84bfc819970d990303b9a04b6d7a36526b",
+          "sha1": "e26e16057d8b80beaf1b0d2c4ce3fd0072e15276",
+          "md5": "796bcaf60a117ed422e46ec0525cfc11"
+        }
+      ]
+    }
+  ]
+}

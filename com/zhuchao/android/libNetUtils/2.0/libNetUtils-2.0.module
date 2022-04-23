@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libNetUtils",
+    "version": "2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libNetUtils-2.0.aar",
+          "url": "libNetUtils-2.0.aar",
+          "size": 41795,
+          "sha512": "ca715837d4a8ee504b43087b23cc7fe743ebca4dbc43d49b0e60b4a6e6cac3204bc4108e45cd7cbabac343453f7916f46167f4f9e876fa651c9de1e043a2b538",
+          "sha256": "b2593363dd07b5917959037165646977be889cf883ba104a58be2652a854128e",
+          "sha1": "ff7ca7ac269ba1f653d83d76189770185c2bc019",
+          "md5": "413afcadac86d78c283f83f478f8b089"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.8"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-bom",
+          "version": {
+            "requires": "4.9.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.3"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "4.9.3"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOSUtils",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libNetUtils-2.0.aar",
+          "url": "libNetUtils-2.0.aar",
+          "size": 41795,
+          "sha512": "ca715837d4a8ee504b43087b23cc7fe743ebca4dbc43d49b0e60b4a6e6cac3204bc4108e45cd7cbabac343453f7916f46167f4f9e876fa651c9de1e043a2b538",
+          "sha256": "b2593363dd07b5917959037165646977be889cf883ba104a58be2652a854128e",
+          "sha1": "ff7ca7ac269ba1f653d83d76189770185c2bc019",
+          "md5": "413afcadac86d78c283f83f478f8b089"
+        }
+      ]
+    }
+  ]
+}

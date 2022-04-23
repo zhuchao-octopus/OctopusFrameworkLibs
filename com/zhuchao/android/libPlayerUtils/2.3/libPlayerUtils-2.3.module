@@ -1,0 +1,88 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libPlayerUtils",
+    "version": "2.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libPlayerUtils-2.3.aar",
+          "url": "libPlayerUtils-2.3.aar",
+          "size": 31955,
+          "sha512": "1393689da53231b693bb82529adc98beaafe52a5783d0ca11c53aeb9a8a102d3104cc36e1bf7b196e949a0d079ae2a964322302d379348e9dbb926f4d35d169d",
+          "sha256": "28946ee7534eba775c7ece1b475fc585a0aaa003de3e47768ad38e53e80f5665",
+          "sha1": "23185931cb1ec81add5141eaf01579cced973742",
+          "md5": "8cb4a1353ccc4670738cafcca280250e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOSUtils",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDecodeCore",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libPlayerUtils-2.3.aar",
+          "url": "libPlayerUtils-2.3.aar",
+          "size": 31955,
+          "sha512": "1393689da53231b693bb82529adc98beaafe52a5783d0ca11c53aeb9a8a102d3104cc36e1bf7b196e949a0d079ae2a964322302d379348e9dbb926f4d35d169d",
+          "sha256": "28946ee7534eba775c7ece1b475fc585a0aaa003de3e47768ad38e53e80f5665",
+          "sha1": "23185931cb1ec81add5141eaf01579cced973742",
+          "md5": "8cb4a1353ccc4670738cafcca280250e"
+        }
+      ]
+    }
+  ]
+}
