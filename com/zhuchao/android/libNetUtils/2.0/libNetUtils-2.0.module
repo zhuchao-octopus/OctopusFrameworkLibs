@@ -22,39 +22,26 @@
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-api"
       },
-      "files": [
-        {
-          "name": "libNetUtils-2.0.aar",
-          "url": "libNetUtils-2.0.aar",
-          "size": 41795,
-          "sha512": "ca715837d4a8ee504b43087b23cc7fe743ebca4dbc43d49b0e60b4a6e6cac3204bc4108e45cd7cbabac343453f7916f46167f4f9e876fa651c9de1e043a2b538",
-          "sha256": "b2593363dd07b5917959037165646977be889cf883ba104a58be2652a854128e",
-          "sha1": "ff7ca7ac269ba1f653d83d76189770185c2bc019",
-          "md5": "413afcadac86d78c283f83f478f8b089"
-        }
-      ]
-    },
-    {
-      "name": "releaseVariantReleaseRuntimePublication",
-      "attributes": {
-        "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-runtime"
-      },
       "dependencies": [
         {
           "group": "com.zhuchao.android",
           "module": "libCallbackEvent",
           "version": {
-            "requires": "1.0"
+            "requires": "1.2"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.4"
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libGosUtils",
+          "version": {
+            "requires": "1.1"
           }
         },
         {
@@ -88,12 +75,80 @@
           "version": {
             "requires": "4.9.3"
           }
+        }
+      ],
+      "files": [
+        {
+          "name": "libNetUtils-2.0.aar",
+          "url": "libNetUtils-2.0.aar",
+          "size": 40730,
+          "sha512": "ceb75fe2fb59045e3efcae1a6a83c9ea53babb4c35e783f4e2a7cf36aabac36331e137fd60dada69e7ae68bbf3775708d0d3e123d6b103289f8162967a52cb64",
+          "sha256": "b948c4e7e4d2d4c9acec2e00c0fa39b9bd65c657c28aacc3fa48816ecb9c9c75",
+          "sha1": "acaa2343511d909e0fcd70de45b7225ee70b60c8",
+          "md5": "1f764c5086e87f76401fe8093c044c4b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libOSUtils",
+          "module": "libFileUtils",
           "version": {
-            "requires": "1.0"
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libGosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.8.8"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-bom",
+          "version": {
+            "requires": "4.9.3"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.3"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "4.9.3"
           }
         }
       ],
@@ -101,11 +156,11 @@
         {
           "name": "libNetUtils-2.0.aar",
           "url": "libNetUtils-2.0.aar",
-          "size": 41795,
-          "sha512": "ca715837d4a8ee504b43087b23cc7fe743ebca4dbc43d49b0e60b4a6e6cac3204bc4108e45cd7cbabac343453f7916f46167f4f9e876fa651c9de1e043a2b538",
-          "sha256": "b2593363dd07b5917959037165646977be889cf883ba104a58be2652a854128e",
-          "sha1": "ff7ca7ac269ba1f653d83d76189770185c2bc019",
-          "md5": "413afcadac86d78c283f83f478f8b089"
+          "size": 40730,
+          "sha512": "ceb75fe2fb59045e3efcae1a6a83c9ea53babb4c35e783f4e2a7cf36aabac36331e137fd60dada69e7ae68bbf3775708d0d3e123d6b103289f8162967a52cb64",
+          "sha256": "b948c4e7e4d2d4c9acec2e00c0fa39b9bd65c657c28aacc3fa48816ecb9c9c75",
+          "sha1": "acaa2343511d909e0fcd70de45b7225ee70b60c8",
+          "md5": "1f764c5086e87f76401fe8093c044c4b"
         }
       ]
     }

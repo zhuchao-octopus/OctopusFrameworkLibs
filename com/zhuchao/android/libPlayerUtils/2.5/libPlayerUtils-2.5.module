@@ -1,0 +1,118 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libPlayerUtils",
+    "version": "2.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDecodeCore",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libPlayerUtils-2.5.aar",
+          "url": "libPlayerUtils-2.5.aar",
+          "size": 32168,
+          "sha512": "0a041305f6721cb4d6a10ece3031f223e31b8fe304a8b7e54d674ba594d4f772badaa7eca3544c291c8219bdb80d7f8a2c88a1c06186f04873d3cc4a7be8669c",
+          "sha256": "51829299a51a579d4b8b611c4dda59f32c453092e731fda31d1ae7f71bf9612e",
+          "sha1": "2859395a623347337ee67fe6d35eb699e0c65f74",
+          "md5": "b935e56fe1068f7746976f5e3e212fcf"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDecodeCore",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libPlayerUtils-2.5.aar",
+          "url": "libPlayerUtils-2.5.aar",
+          "size": 32168,
+          "sha512": "0a041305f6721cb4d6a10ece3031f223e31b8fe304a8b7e54d674ba594d4f772badaa7eca3544c291c8219bdb80d7f8a2c88a1c06186f04873d3cc4a7be8669c",
+          "sha256": "51829299a51a579d4b8b611c4dda59f32c453092e731fda31d1ae7f71bf9612e",
+          "sha1": "2859395a623347337ee67fe6d35eb699e0c65f74",
+          "md5": "b935e56fe1068f7746976f5e3e212fcf"
+        }
+      ]
+    }
+  ]
+}

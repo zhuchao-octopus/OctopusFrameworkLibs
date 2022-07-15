@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libGosUtils",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libGosUtils-1.1.aar",
+          "url": "libGosUtils-1.1.aar",
+          "size": 46837,
+          "sha512": "a189987150bf7623287366cdd3f34e445d2e5351626c6c0801488db64ad4bb4c668954acf943ba776737c76c02a70a3e1312f22c67fe993fa9324da1d7e2c34e",
+          "sha256": "b4dfa7f9de80fc1c3d04d64ea1ddd86a5609351e149aadd5dbbbc88fc9665705",
+          "sha1": "e183d22f9b61adfe01d45590b0402e913119b0f6",
+          "md5": "be4066e7f81bf0db94e567a7d72a1909"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libGosUtils-1.1.aar",
+          "url": "libGosUtils-1.1.aar",
+          "size": 46837,
+          "sha512": "a189987150bf7623287366cdd3f34e445d2e5351626c6c0801488db64ad4bb4c668954acf943ba776737c76c02a70a3e1312f22c67fe993fa9324da1d7e2c34e",
+          "sha256": "b4dfa7f9de80fc1c3d04d64ea1ddd86a5609351e149aadd5dbbbc88fc9665705",
+          "sha1": "e183d22f9b61adfe01d45590b0402e913119b0f6",
+          "md5": "be4066e7f81bf0db94e567a7d72a1909"
+        }
+      ]
+    }
+  ]
+}

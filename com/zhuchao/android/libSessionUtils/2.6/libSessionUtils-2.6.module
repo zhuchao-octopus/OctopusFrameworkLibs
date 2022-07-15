@@ -1,0 +1,132 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libSessionUtils",
+    "version": "2.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libMediaUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libSessionUtils-2.6.aar",
+          "url": "libSessionUtils-2.6.aar",
+          "size": 75267,
+          "sha512": "fcaedaca860e38f9e4eacc7af96382f315ae2db9473b0a9a383f4d6328eeda8d9635079750bc14f7c32bfdc2d6936f8eaf4e2e62a14ab1f105b6bfd6f4a20e8d",
+          "sha256": "ee6cd8897d1a6ddbee7234450fdd6bb3cb068acc85ad7123671876d144f582e7",
+          "sha1": "6c02af3d7d58db9eb4ae17d135d88b460925917f",
+          "md5": "3699e7f9779c2d150f3055545d7f86e3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libMediaUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libSessionUtils-2.6.aar",
+          "url": "libSessionUtils-2.6.aar",
+          "size": 75267,
+          "sha512": "fcaedaca860e38f9e4eacc7af96382f315ae2db9473b0a9a383f4d6328eeda8d9635079750bc14f7c32bfdc2d6936f8eaf4e2e62a14ab1f105b6bfd6f4a20e8d",
+          "sha256": "ee6cd8897d1a6ddbee7234450fdd6bb3cb068acc85ad7123671876d144f582e7",
+          "sha1": "6c02af3d7d58db9eb4ae17d135d88b460925917f",
+          "md5": "3699e7f9779c2d150f3055545d7f86e3"
+        }
+      ]
+    }
+  ]
+}

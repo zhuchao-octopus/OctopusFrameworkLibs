@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFileUtils",
+    "version": "1.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFileUtils-1.6.aar",
+          "url": "libFileUtils-1.6.aar",
+          "size": 70889,
+          "sha512": "8adcf5a1e0b49ef3a7c272f0d4e45f062986888163efb71a21b2126f20dac397914bdd98b23e756b44f44f0067edcff60e9a49a9c58295cdb0f59f5dbdeb93b3",
+          "sha256": "6f94b4609e3dc61b2d2e744c788720821dde42b8d28d2a7526e3b1c0d4d9d187",
+          "sha1": "45132a3a5b1ea9593f13ba81c277d2fe1e8ede31",
+          "md5": "a0588fffddf8418a7f5c416dc18823c1"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.3"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.3.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFileUtils-1.6.aar",
+          "url": "libFileUtils-1.6.aar",
+          "size": 70889,
+          "sha512": "8adcf5a1e0b49ef3a7c272f0d4e45f062986888163efb71a21b2126f20dac397914bdd98b23e756b44f44f0067edcff60e9a49a9c58295cdb0f59f5dbdeb93b3",
+          "sha256": "6f94b4609e3dc61b2d2e744c788720821dde42b8d28d2a7526e3b1c0d4d9d187",
+          "sha1": "45132a3a5b1ea9593f13ba81c277d2fe1e8ede31",
+          "md5": "a0588fffddf8418a7f5c416dc18823c1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libHoldPersistUtils",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libHoldPersistUtils-1.0.aar",
+          "url": "libHoldPersistUtils-1.0.aar",
+          "size": 200508,
+          "sha512": "d6b84c2926ba17af37ed40d01da5156980bf15e83eba4cfa3f7c91255d2777da6f07a6ba837857607cabd055f9791a890a5b6bbf5cc2b65cf8c2361d8f95713b",
+          "sha256": "2cc750bc431eb62c80342ef85f1f5759ad548970dbdba12cc825fd0adf160b9e",
+          "sha1": "2ce5a1efb1aeefc730cd0eeb9de119ca18f09916",
+          "md5": "a9f19ab6ece637c44e2ecfa3e8a824ca"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "1.7.0-RC2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libHoldPersistUtils-1.0.aar",
+          "url": "libHoldPersistUtils-1.0.aar",
+          "size": 200508,
+          "sha512": "d6b84c2926ba17af37ed40d01da5156980bf15e83eba4cfa3f7c91255d2777da6f07a6ba837857607cabd055f9791a890a5b6bbf5cc2b65cf8c2361d8f95713b",
+          "sha256": "2cc750bc431eb62c80342ef85f1f5759ad548970dbdba12cc825fd0adf160b9e",
+          "sha1": "2ce5a1efb1aeefc730cd0eeb9de119ca18f09916",
+          "md5": "a9f19ab6ece637c44e2ecfa3e8a824ca"
+        }
+      ]
+    }
+  ]
+}

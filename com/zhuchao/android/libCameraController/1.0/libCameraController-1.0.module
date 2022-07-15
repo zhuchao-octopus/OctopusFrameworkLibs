@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libCameraController",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libCameraController-1.0.aar",
+          "url": "libCameraController-1.0.aar",
+          "size": 1811450,
+          "sha512": "a34810d0e04d02b7e5b142cda44781324829def992ccf84c7cbd340d4fc3ec23766461e03a9697dd8e43b46a02c960607c53a8d9eecec4e22da98085aa8860b6",
+          "sha256": "366b7b0cf4a459970335c592ca508f58979a88bea9bc53f3d95c1dc37315d3ca",
+          "sha1": "c5b00b87f9b2017b3d9e7f14dac367468852b30a",
+          "md5": "a38f1d57c2c8b6d8fbdc89ef59b16dab"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.3"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.3.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.7.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libCameraController-1.0.aar",
+          "url": "libCameraController-1.0.aar",
+          "size": 1811450,
+          "sha512": "a34810d0e04d02b7e5b142cda44781324829def992ccf84c7cbd340d4fc3ec23766461e03a9697dd8e43b46a02c960607c53a8d9eecec4e22da98085aa8860b6",
+          "sha256": "366b7b0cf4a459970335c592ca508f58979a88bea9bc53f3d95c1dc37315d3ca",
+          "sha1": "c5b00b87f9b2017b3d9e7f14dac367468852b30a",
+          "md5": "a38f1d57c2c8b6d8fbdc89ef59b16dab"
+        }
+      ]
+    }
+  ]
+}

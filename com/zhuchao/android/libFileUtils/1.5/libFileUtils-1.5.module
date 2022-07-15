@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFileUtils",
+    "version": "1.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libFileUtils-1.5.aar",
+          "url": "libFileUtils-1.5.aar",
+          "size": 65368,
+          "sha512": "75afbede357236c4c1510d080abc3b30c106de289feb6a1a2333ceaa92c507435efea7d4f99923c6582cdbdbf035def440119b1f9fd3269529702195438a8aaf",
+          "sha256": "7a3a0fb220480f6ab8189e0b655e0d9ce431b4ac4f7ce3a828752401c406fc76",
+          "sha1": "fa6c38516c0c8e5f2f8e7cb15baee6852f9604b8",
+          "md5": "fb943642836bcefabe4cf3aa511fb721"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.3.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOSUtils",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFileUtils-1.5.aar",
+          "url": "libFileUtils-1.5.aar",
+          "size": 65368,
+          "sha512": "75afbede357236c4c1510d080abc3b30c106de289feb6a1a2333ceaa92c507435efea7d4f99923c6582cdbdbf035def440119b1f9fd3269529702195438a8aaf",
+          "sha256": "7a3a0fb220480f6ab8189e0b655e0d9ce431b4ac4f7ce3a828752401c406fc76",
+          "sha1": "fa6c38516c0c8e5f2f8e7cb15baee6852f9604b8",
+          "md5": "fb943642836bcefabe4cf3aa511fb721"
+        }
+      ]
+    }
+  ]
+}

@@ -21,7 +21,7 @@
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libCallbackEvent</artifactId>
-      <version>1.0</version>
+      <version>1.1</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -45,7 +45,7 @@
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libFileUtils</artifactId>
-      <version>1.4</version>
+      <version>1.5</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

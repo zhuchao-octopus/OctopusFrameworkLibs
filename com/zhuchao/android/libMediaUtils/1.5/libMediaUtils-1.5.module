@@ -26,11 +26,11 @@
         {
           "name": "libMediaUtils-1.5.aar",
           "url": "libMediaUtils-1.5.aar",
-          "size": 27891,
-          "sha512": "4d30aa7667ef75478c51a3e6c77ba71211929fc59fb544a57e37620e4d7759788338e9510b10763f29466c7e86e5fceb00a78f3516c0b7b85afb0af1c968a84f",
-          "sha256": "269f7d19e0ccb5cf8be69e69fe2ffb84bfc819970d990303b9a04b6d7a36526b",
-          "sha1": "e26e16057d8b80beaf1b0d2c4ce3fd0072e15276",
-          "md5": "796bcaf60a117ed422e46ec0525cfc11"
+          "size": 27874,
+          "sha512": "9cf569e4af9af9d249afd3810849e37c298d2f21a56c4a5ccedca32404e1f2abaa7b663fa9dc41d1366c9628ec071222f44678780dea4f567c460554ea1903ca",
+          "sha256": "1a7f56809440f4122d45d69acb1a80595c8a0835712404bdf2dfedc38c166961",
+          "sha1": "d47791f57d3c54b8d4ac43d2f4c2080c447e4de9",
+          "md5": "8ad56b62dd39adcb4646cd08b4a99cad"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libCallbackEvent",
           "version": {
-            "requires": "1.0"
+            "requires": "1.1"
           }
         },
         {
@@ -82,7 +82,7 @@
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.4"
+            "requires": "1.5"
           }
         }
       ],
@@ -90,11 +90,11 @@
         {
           "name": "libMediaUtils-1.5.aar",
           "url": "libMediaUtils-1.5.aar",
-          "size": 27891,
-          "sha512": "4d30aa7667ef75478c51a3e6c77ba71211929fc59fb544a57e37620e4d7759788338e9510b10763f29466c7e86e5fceb00a78f3516c0b7b85afb0af1c968a84f",
-          "sha256": "269f7d19e0ccb5cf8be69e69fe2ffb84bfc819970d990303b9a04b6d7a36526b",
-          "sha1": "e26e16057d8b80beaf1b0d2c4ce3fd0072e15276",
-          "md5": "796bcaf60a117ed422e46ec0525cfc11"
+          "size": 27874,
+          "sha512": "9cf569e4af9af9d249afd3810849e37c298d2f21a56c4a5ccedca32404e1f2abaa7b663fa9dc41d1366c9628ec071222f44678780dea4f567c460554ea1903ca",
+          "sha256": "1a7f56809440f4122d45d69acb1a80595c8a0835712404bdf2dfedc38c166961",
+          "sha1": "d47791f57d3c54b8d4ac43d2f4c2080c447e4de9",
+          "md5": "8ad56b62dd39adcb4646cd08b4a99cad"
         }
       ]
     }

@@ -1,0 +1,146 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libMediaUtils",
+    "version": "1.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libHoldPersistUtils",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayerUtils",
+          "version": {
+            "requires": "2.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libMediaUtils-1.6.aar",
+          "url": "libMediaUtils-1.6.aar",
+          "size": 27969,
+          "sha512": "7fc6a92744409507fce6445a0931b28c3af5255ab4ce57610abab46ae23ed0628bdd771094233d1fded0eaecdab7faa5ad03e5166dece26924b02f1b83b97fc5",
+          "sha256": "5835841e279147f9b5be26905bbbee29bc06f95856d2027c15624f2f59b571cb",
+          "sha1": "4830f57697bc3edef8464965ede9694293894be9",
+          "md5": "d6e2f1bc53c3af9861eb9e058ac6e691"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libHoldPersistUtils",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJosUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayerUtils",
+          "version": {
+            "requires": "2.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libMediaUtils-1.6.aar",
+          "url": "libMediaUtils-1.6.aar",
+          "size": 27969,
+          "sha512": "7fc6a92744409507fce6445a0931b28c3af5255ab4ce57610abab46ae23ed0628bdd771094233d1fded0eaecdab7faa5ad03e5166dece26924b02f1b83b97fc5",
+          "sha256": "5835841e279147f9b5be26905bbbee29bc06f95856d2027c15624f2f59b571cb",
+          "sha1": "4830f57697bc3edef8464965ede9694293894be9",
+          "md5": "d6e2f1bc53c3af9861eb9e058ac6e691"
+        }
+      ]
+    }
+  ]
+}

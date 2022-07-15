@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.4.aar",
           "url": "libSessionUtils-2.4.aar",
-          "size": 70489,
-          "sha512": "8e72e63c21dd226b351b00e2f0b86a0581780cf1af7e47ef5f4da1cfe08ff7daa76e8528aa0499841bef467cca8a592af62e9f50822b9ea8a7384cee032e7c72",
-          "sha256": "102a18439fabb49fa9da0290a890823dace52eec7f4026d3e342eecb6cdd172f",
-          "sha1": "47714b8817281e125dd274aff1a9146b79fbb81b",
-          "md5": "83cf236f9f48ea3bf306de037ded037a"
+          "size": 70716,
+          "sha512": "b55d541964a0fb5072d365918102e538c1cc67d8aa39f3643a2902bf99b008a7a72b6be36350ed0d2f0468ce8d9a0e948d74096c2e398cd8a4cd50b1928f666b",
+          "sha256": "9ecb73e4258f49609e940a7eb1d40b6be5926d7bbab4932d46be3a01727752bf",
+          "sha1": "73a7f4fa33d6f34fbc0492bc4e694ce9955edf25",
+          "md5": "88bea2c5b0a7adabe96237697a47417e"
         }
       ]
     },
@@ -68,7 +68,7 @@
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.4"
+            "requires": "1.5"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libSessionUtils-2.4.aar",
           "url": "libSessionUtils-2.4.aar",
-          "size": 70489,
-          "sha512": "8e72e63c21dd226b351b00e2f0b86a0581780cf1af7e47ef5f4da1cfe08ff7daa76e8528aa0499841bef467cca8a592af62e9f50822b9ea8a7384cee032e7c72",
-          "sha256": "102a18439fabb49fa9da0290a890823dace52eec7f4026d3e342eecb6cdd172f",
-          "sha1": "47714b8817281e125dd274aff1a9146b79fbb81b",
-          "md5": "83cf236f9f48ea3bf306de037ded037a"
+          "size": 70716,
+          "sha512": "b55d541964a0fb5072d365918102e538c1cc67d8aa39f3643a2902bf99b008a7a72b6be36350ed0d2f0468ce8d9a0e948d74096c2e398cd8a4cd50b1928f666b",
+          "sha256": "9ecb73e4258f49609e940a7eb1d40b6be5926d7bbab4932d46be3a01727752bf",
+          "sha1": "73a7f4fa33d6f34fbc0492bc4e694ce9955edf25",
+          "md5": "88bea2c5b0a7adabe96237697a47417e"
         }
       ]
     }

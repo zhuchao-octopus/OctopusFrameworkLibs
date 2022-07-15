@@ -26,11 +26,11 @@
         {
           "name": "libCallbackEvent-1.0.aar",
           "url": "libCallbackEvent-1.0.aar",
-          "size": 3603,
-          "sha512": "f48434857e8d9e6319a7c0ec79f188fa78ee44431983abbef11a007ffe3954161cb43e769c7b750cdd01a5b5c74b9015b948983edd43c0913bc84909bd8093ab",
-          "sha256": "d75fe3bd216447d5d24f0b69c4c9f7bcd55d886ff68191549497cc9aabf85b25",
-          "sha1": "c370f69d573f3fe5629c21d7eb1f7ffc23f9160b",
-          "md5": "f16cf16c41e487783d27bf47f5e3e48b"
+          "size": 3611,
+          "sha512": "98eb75364791a6b14e720b73ad9b3fb28547491a2ab684935cc09dd73a4276874c8719d8c03b4b16c394387c5bb34a49aaa3507dbcb4bdb38824fe6f7743a605",
+          "sha256": "3c20d0b3a36d4e661d1e054e4ac2a3ffa56e05a475dd0d87e20efc9b12f7818e",
+          "sha1": "0e4d7833dc0b8d6dbe0b5f2731d634db1477917b",
+          "md5": "7af1881fbf94709fe9f1e2e11db6f45d"
         }
       ]
     },
@@ -46,11 +46,11 @@
         {
           "name": "libCallbackEvent-1.0.aar",
           "url": "libCallbackEvent-1.0.aar",
-          "size": 3603,
-          "sha512": "f48434857e8d9e6319a7c0ec79f188fa78ee44431983abbef11a007ffe3954161cb43e769c7b750cdd01a5b5c74b9015b948983edd43c0913bc84909bd8093ab",
-          "sha256": "d75fe3bd216447d5d24f0b69c4c9f7bcd55d886ff68191549497cc9aabf85b25",
-          "sha1": "c370f69d573f3fe5629c21d7eb1f7ffc23f9160b",
-          "md5": "f16cf16c41e487783d27bf47f5e3e48b"
+          "size": 3611,
+          "sha512": "98eb75364791a6b14e720b73ad9b3fb28547491a2ab684935cc09dd73a4276874c8719d8c03b4b16c394387c5bb34a49aaa3507dbcb4bdb38824fe6f7743a605",
+          "sha256": "3c20d0b3a36d4e661d1e054e4ac2a3ffa56e05a475dd0d87e20efc9b12f7818e",
+          "sha1": "0e4d7833dc0b8d6dbe0b5f2731d634db1477917b",
+          "md5": "7af1881fbf94709fe9f1e2e11db6f45d"
         }
       ]
     }

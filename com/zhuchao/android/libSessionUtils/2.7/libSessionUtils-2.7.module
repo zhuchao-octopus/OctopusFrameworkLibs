@@ -1,0 +1,102 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libSessionUtils",
+    "version": "2.7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.7.aar",
+          "url": "libSessionUtils-2.7.aar",
+          "size": 85438,
+          "sha512": "aba83067a5b6c68c7b60feb4b20d8bd9af954fcd75649893970f61782c0643e83db486fd13b55cd9530c76afa12d86e8c4b4e422103cf7c5ecf3a7642a10b2b2",
+          "sha256": "7129ca33e69d58a13cbc03953e1cae2bfcd9597a8d7369495b738408c6bf2654",
+          "sha1": "7685e40d4c28ad52cb90fd04ded3e912a7c16cdc",
+          "md5": "3ed3659069aa25a3dde894fa148f81c5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libCallbackEvent",
+          "version": {
+            "requires": "1.3"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFileUtils",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJOSUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libMediaUtils",
+          "version": {
+            "requires": "1.7"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayerUtils",
+          "version": {
+            "requires": "2.6"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libSessionUtils-2.7.aar",
+          "url": "libSessionUtils-2.7.aar",
+          "size": 85438,
+          "sha512": "aba83067a5b6c68c7b60feb4b20d8bd9af954fcd75649893970f61782c0643e83db486fd13b55cd9530c76afa12d86e8c4b4e422103cf7c5ecf3a7642a10b2b2",
+          "sha256": "7129ca33e69d58a13cbc03953e1cae2bfcd9597a8d7369495b738408c6bf2654",
+          "sha1": "7685e40d4c28ad52cb90fd04ded3e912a7c16cdc",
+          "md5": "3ed3659069aa25a3dde894fa148f81c5"
+        }
+      ]
+    }
+  ]
+}

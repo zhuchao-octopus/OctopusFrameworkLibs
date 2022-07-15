@@ -1,0 +1,67 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libOpenFaceDetection",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libOpenFaceDetection-1.0.aar",
+          "url": "libOpenFaceDetection-1.0.aar",
+          "size": 50860370,
+          "sha512": "a1eb31c03695193e4b5cef62ad82a329466f7d8fb778b8ef3ec38aa0425c0f294ae01e9d9e3553067e49862bd0d4b2d80dc5211603c4d06d7d086b95129cec5f",
+          "sha256": "e656ab8cc030af8784de24c2b77e12fd6b44699951dbbc407b73b39028bba96c",
+          "sha1": "b43df5ff4a713895f87e50acc1f5b7a0414e8777",
+          "md5": "b3a7c325693c95db36aef4a7ebdb8459"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "OctopusFramework",
+          "module": "libOpenComputerVision",
+          "version": {
+            "requires": "unspecified"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenFaceDetection-1.0.aar",
+          "url": "libOpenFaceDetection-1.0.aar",
+          "size": 50860370,
+          "sha512": "a1eb31c03695193e4b5cef62ad82a329466f7d8fb778b8ef3ec38aa0425c0f294ae01e9d9e3553067e49862bd0d4b2d80dc5211603c4d06d7d086b95129cec5f",
+          "sha256": "e656ab8cc030af8784de24c2b77e12fd6b44699951dbbc407b73b39028bba96c",
+          "sha1": "b43df5ff4a713895f87e50acc1f5b7a0414e8777",
+          "md5": "b3a7c325693c95db36aef4a7ebdb8459"
+        }
+      ]
+    }
+  ]
+}
