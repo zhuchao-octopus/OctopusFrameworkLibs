@@ -26,11 +26,11 @@
         {
           "name": "libCameraController-1.0.aar",
           "url": "libCameraController-1.0.aar",
-          "size": 1811450,
-          "sha512": "a34810d0e04d02b7e5b142cda44781324829def992ccf84c7cbd340d4fc3ec23766461e03a9697dd8e43b46a02c960607c53a8d9eecec4e22da98085aa8860b6",
-          "sha256": "366b7b0cf4a459970335c592ca508f58979a88bea9bc53f3d95c1dc37315d3ca",
-          "sha1": "c5b00b87f9b2017b3d9e7f14dac367468852b30a",
-          "md5": "a38f1d57c2c8b6d8fbdc89ef59b16dab"
+          "size": 1811574,
+          "sha512": "725c80abc7d6b65b7e5d3b55a35bb06fdd05570a70c06c700700b3a5eb6b33e05de82bec547b7aeb4de37540f62cb56080a9b457cd3438c1ccd9689a594e8435",
+          "sha256": "13effa57af370b27e920711edb4cd7352db4dc4603d9e33acf3b43b699afb662",
+          "sha1": "a6b3304b7f103850b52f9230001fc3f706c9bf2d",
+          "md5": "7ad975cc6f9a44cecb610f9c964a5fa7"
         }
       ]
     },
@@ -69,11 +69,11 @@
         {
           "name": "libCameraController-1.0.aar",
           "url": "libCameraController-1.0.aar",
-          "size": 1811450,
-          "sha512": "a34810d0e04d02b7e5b142cda44781324829def992ccf84c7cbd340d4fc3ec23766461e03a9697dd8e43b46a02c960607c53a8d9eecec4e22da98085aa8860b6",
-          "sha256": "366b7b0cf4a459970335c592ca508f58979a88bea9bc53f3d95c1dc37315d3ca",
-          "sha1": "c5b00b87f9b2017b3d9e7f14dac367468852b30a",
-          "md5": "a38f1d57c2c8b6d8fbdc89ef59b16dab"
+          "size": 1811574,
+          "sha512": "725c80abc7d6b65b7e5d3b55a35bb06fdd05570a70c06c700700b3a5eb6b33e05de82bec547b7aeb4de37540f62cb56080a9b457cd3438c1ccd9689a594e8435",
+          "sha256": "13effa57af370b27e920711edb4cd7352db4dc4603d9e33acf3b43b699afb662",
+          "sha1": "a6b3304b7f103850b52f9230001fc3f706c9bf2d",
+          "md5": "7ad975cc6f9a44cecb610f9c964a5fa7"
         }
       ]
     }

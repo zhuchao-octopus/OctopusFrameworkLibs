@@ -27,21 +27,21 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.9.0"
+            "requires": "2.9.1"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "5.0.0-alpha.7"
+            "requires": "5.0.0-alpha.8"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.7"
+            "requires": "5.0.0-alpha.8"
           }
         }
       ],
@@ -49,11 +49,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 43796,
-          "sha512": "8f1a8ea9daccd1538c01e6bf8e0c84256fffd72deee58ad51e719f3ba57e626c449e4c31c6b2c147436af72d215b79ee18d88f88de2697a4b4abb74bab3433de",
-          "sha256": "3efd855003d238e60a23735f6b9e1080d717c61896cb03e9b36fc837b548b474",
-          "sha1": "3faef0c43836fcb2d32541b92f87a17df8ce766d",
-          "md5": "c7c9086e9589f1a2458a9e97334ecde9"
+          "size": 43923,
+          "sha512": "f045a7c1ec04a384fd5ad663e807c90dd8c3a2d88976a6482b2dfbe8e88935470374da9651beb139dcd3e03f3972830f172eec42a46cdc3cc1a6f7aaf937f017",
+          "sha256": "e002d14df7f73903a76ebac701735fa9079215bee7eba8e03d7c6f6ebcb190bb",
+          "sha1": "f99c9ffd77afd1a2aada7de87759ca9bfeb3af33",
+          "md5": "e2b66fc6fde1236dedd524800c455130"
         }
       ]
     },
@@ -70,35 +70,35 @@
           "group": "com.zhuchao.android",
           "module": "libCallbackEvent",
           "version": {
-            "requires": "1.3"
+            "requires": "1.4"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.6"
+            "requires": "1.7"
           }
         },
         {
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.9.0"
+            "requires": "2.9.1"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "5.0.0-alpha.7"
+            "requires": "5.0.0-alpha.8"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.7"
+            "requires": "5.0.0-alpha.8"
           }
         }
       ],
@@ -106,11 +106,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 43796,
-          "sha512": "8f1a8ea9daccd1538c01e6bf8e0c84256fffd72deee58ad51e719f3ba57e626c449e4c31c6b2c147436af72d215b79ee18d88f88de2697a4b4abb74bab3433de",
-          "sha256": "3efd855003d238e60a23735f6b9e1080d717c61896cb03e9b36fc837b548b474",
-          "sha1": "3faef0c43836fcb2d32541b92f87a17df8ce766d",
-          "md5": "c7c9086e9589f1a2458a9e97334ecde9"
+          "size": 43923,
+          "sha512": "f045a7c1ec04a384fd5ad663e807c90dd8c3a2d88976a6482b2dfbe8e88935470374da9651beb139dcd3e03f3972830f172eec42a46cdc3cc1a6f7aaf937f017",
+          "sha256": "e002d14df7f73903a76ebac701735fa9079215bee7eba8e03d7c6f6ebcb190bb",
+          "sha1": "f99c9ffd77afd1a2aada7de87759ca9bfeb3af33",
+          "md5": "e2b66fc6fde1236dedd524800c455130"
         }
       ]
     }

@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "libOpenComputerVision-1.0.aar",
           "url": "libOpenComputerVision-1.0.aar",
-          "size": 55815796,
-          "sha512": "a55f38984ffbd068d7ba5f6e6d858052e1dc831f484eb9e6fbf726aed6ae841589b8f0256742253a46c939afcc8035c13f8fcef98ddd6d944eeab4cf09a9669f",
-          "sha256": "110b07b65a40f8e235415baf5a114d59732f75786eea9b78d843b2478d990c40",
-          "sha1": "6166c4c74d265bab85a588c6d546bf176205504f",
-          "md5": "b64db7c74e1c042aefd77e4854594ac0"
+          "size": 55816938,
+          "sha512": "a17645ab2f9dfa5633d85990a8e48b5df6ff19bec4986fdcdeecb47e69344a902454d429818084241a39bed4510c041c21d5731bf1ff4f4be8839aa697fea82a",
+          "sha256": "9a25e755d47fa2de7c90a1be81878330cace8bad7f7685c762f74cc1e47597c6",
+          "sha1": "d6d5872ea8dbfe68450eec18aa06183d0564d063",
+          "md5": "032957f0aed0204ab89687b2c298facd"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         }
       ],
@@ -64,11 +64,11 @@
         {
           "name": "libOpenComputerVision-1.0.aar",
           "url": "libOpenComputerVision-1.0.aar",
-          "size": 55815796,
-          "sha512": "a55f38984ffbd068d7ba5f6e6d858052e1dc831f484eb9e6fbf726aed6ae841589b8f0256742253a46c939afcc8035c13f8fcef98ddd6d944eeab4cf09a9669f",
-          "sha256": "110b07b65a40f8e235415baf5a114d59732f75786eea9b78d843b2478d990c40",
-          "sha1": "6166c4c74d265bab85a588c6d546bf176205504f",
-          "md5": "b64db7c74e1c042aefd77e4854594ac0"
+          "size": 55816938,
+          "sha512": "a17645ab2f9dfa5633d85990a8e48b5df6ff19bec4986fdcdeecb47e69344a902454d429818084241a39bed4510c041c21d5731bf1ff4f4be8839aa697fea82a",
+          "sha256": "9a25e755d47fa2de7c90a1be81878330cace8bad7f7685c762f74cc1e47597c6",
+          "sha1": "d6d5872ea8dbfe68450eec18aa06183d0564d063",
+          "md5": "032957f0aed0204ab89687b2c298facd"
         }
       ]
     }

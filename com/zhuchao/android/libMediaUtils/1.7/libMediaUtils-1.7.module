@@ -26,11 +26,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 29114,
-          "sha512": "ec85a34d9c5d130e3be2c06a20df1b22601ecb7e5f5d252b4f8e1b0f9408c82d576b1eaf14bf20d409808e9f5eb20873685ba3a7799f89a8d1e276c4368b0bdf",
-          "sha256": "862cd1cee6638d6664e64927e1712c7c25c01c3bd8ee3669a9c0bf77d98f0bb9",
-          "sha1": "c2e5d8ae54e7d0644353f854e26bddbfec75ffee",
-          "md5": "a641e67c3ed59453ecef4afa0e64c805"
+          "size": 29209,
+          "sha512": "c0dda6c0b4a3d8a503d41498d8308a398bcaac2901a41c2160c684f7d7cf51545917bbc2ce47d46ee665225e013ae9a8cf33297718b50c8a4f4364a9992b88b1",
+          "sha256": "f4801b55936543b1c79f76818a8a994a8099f97eeba403a992ab66a361aa8956",
+          "sha1": "8295bf84c22be81afdde901bec282a9e99c893ba",
+          "md5": "d60b96e0c4276e36fdf6489828eb94c9"
         }
       ]
     },
@@ -47,14 +47,14 @@
           "group": "com.zhuchao.android",
           "module": "libCallbackEvent",
           "version": {
-            "requires": "1.3"
+            "requires": "1.4"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.6"
+            "requires": "1.7"
           }
         },
         {
@@ -75,7 +75,7 @@
           "group": "com.zhuchao.android",
           "module": "libJOSUtils",
           "version": {
-            "requires": "1.1"
+            "requires": "1.2"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 29114,
-          "sha512": "ec85a34d9c5d130e3be2c06a20df1b22601ecb7e5f5d252b4f8e1b0f9408c82d576b1eaf14bf20d409808e9f5eb20873685ba3a7799f89a8d1e276c4368b0bdf",
-          "sha256": "862cd1cee6638d6664e64927e1712c7c25c01c3bd8ee3669a9c0bf77d98f0bb9",
-          "sha1": "c2e5d8ae54e7d0644353f854e26bddbfec75ffee",
-          "md5": "a641e67c3ed59453ecef4afa0e64c805"
+          "size": 29209,
+          "sha512": "c0dda6c0b4a3d8a503d41498d8308a398bcaac2901a41c2160c684f7d7cf51545917bbc2ce47d46ee665225e013ae9a8cf33297718b50c8a4f4364a9992b88b1",
+          "sha256": "f4801b55936543b1c79f76818a8a994a8099f97eeba403a992ab66a361aa8956",
+          "sha1": "8295bf84c22be81afdde901bec282a9e99c893ba",
+          "md5": "d60b96e0c4276e36fdf6489828eb94c9"
         }
       ]
     }

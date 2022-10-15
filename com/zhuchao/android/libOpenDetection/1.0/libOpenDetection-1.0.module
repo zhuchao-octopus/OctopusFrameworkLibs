@@ -26,11 +26,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 50879495,
-          "sha512": "39015deb96be9cbf8369e645f867ee742f2b77cf23580512f9bdcfb74ef34818e97d33e4b399026b0158146532a6bdc1d211b9f9a4d3d0af4426a6a253620460",
-          "sha256": "a10c9c35a35ba6063b069890f9eafd94091a7ce3122ba0bf0726a64f5985a9ab",
-          "sha1": "05ea30c4ad541a34979cfdd73a6afd16a3e18963",
-          "md5": "b87b5b3b9059c2cd96436bc23704d949"
+          "size": 50880067,
+          "sha512": "48ce0ffaf5e38dd32889e1263e554dd2d23d289f0847fa17906da1a818f27bc32284e1984613b20ef5fa82d6ce614f4cba12cecac2d648182767839688a8f15d",
+          "sha256": "ce0f360828502bf17f712038a2ea76cc8184ecf983f75fe44ef3c6a635476872",
+          "sha1": "e8d9b929dbfa9a976587621d53de8fc2ce8b5902",
+          "md5": "33d375e0fa92c27ba5ef3431f8e5e84a"
         }
       ]
     },
@@ -54,21 +54,21 @@
           "group": "com.zhuchao.android",
           "module": "libCallbackEvent",
           "version": {
-            "requires": "1.3"
+            "requires": "1.4"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.6"
+            "requires": "1.7"
           }
         },
         {
           "group": "androidx.annotation",
           "module": "annotation",
           "version": {
-            "requires": "1.3.0"
+            "requires": "1.4.0-alpha02"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 50879495,
-          "sha512": "39015deb96be9cbf8369e645f867ee742f2b77cf23580512f9bdcfb74ef34818e97d33e4b399026b0158146532a6bdc1d211b9f9a4d3d0af4426a6a253620460",
-          "sha256": "a10c9c35a35ba6063b069890f9eafd94091a7ce3122ba0bf0726a64f5985a9ab",
-          "sha1": "05ea30c4ad541a34979cfdd73a6afd16a3e18963",
-          "md5": "b87b5b3b9059c2cd96436bc23704d949"
+          "size": 50880067,
+          "sha512": "48ce0ffaf5e38dd32889e1263e554dd2d23d289f0847fa17906da1a818f27bc32284e1984613b20ef5fa82d6ce614f4cba12cecac2d648182767839688a8f15d",
+          "sha256": "ce0f360828502bf17f712038a2ea76cc8184ecf983f75fe44ef3c6a635476872",
+          "sha1": "e8d9b929dbfa9a976587621d53de8fc2ce8b5902",
+          "md5": "33d375e0fa92c27ba5ef3431f8e5e84a"
         }
       ]
     }

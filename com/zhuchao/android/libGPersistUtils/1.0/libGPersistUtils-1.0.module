@@ -27,7 +27,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "libGPersistUtils-1.0.aar",
           "url": "libGPersistUtils-1.0.aar",
-          "size": 200508,
-          "sha512": "f89149dbacf0bc692822a83109af2b88ba443339b717831f663207de689bfb0f8c81f77729ae88c96fc2bcfc5e088aa32f9a110cd24067d75149c910b66377b5",
-          "sha256": "b2e9c1812a4f2e7d05d96f628c10fc55b9f962d424cc1b1f064a135aba3b3438",
-          "sha1": "518388747527523718b3b5198f6e5730c301ba9a",
-          "md5": "4689f52a37ba420abc11d29a309851be"
+          "size": 201858,
+          "sha512": "5dd61b5ad1558d7966e895cd91ff49d9aa7a36de94aa07747754d988bf5f495403ed45faf33b40cd4d4c252c31967d01e7c64172e40f3270800e5c18d194034e",
+          "sha256": "8c9d2a0347d45381893cf2f0d9a5589fa3000a8af035e2d9d71f6941d0a82d54",
+          "sha1": "cb46f963342786e39f798589abfc92b4c728060a",
+          "md5": "31188abab82511d70d863a0e367af92a"
         }
       ]
     },
@@ -56,14 +56,14 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.6.21"
+            "requires": "1.7.10"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.6"
+            "requires": "1.7"
           }
         },
         {
@@ -85,11 +85,11 @@
         {
           "name": "libGPersistUtils-1.0.aar",
           "url": "libGPersistUtils-1.0.aar",
-          "size": 200508,
-          "sha512": "f89149dbacf0bc692822a83109af2b88ba443339b717831f663207de689bfb0f8c81f77729ae88c96fc2bcfc5e088aa32f9a110cd24067d75149c910b66377b5",
-          "sha256": "b2e9c1812a4f2e7d05d96f628c10fc55b9f962d424cc1b1f064a135aba3b3438",
-          "sha1": "518388747527523718b3b5198f6e5730c301ba9a",
-          "md5": "4689f52a37ba420abc11d29a309851be"
+          "size": 201858,
+          "sha512": "5dd61b5ad1558d7966e895cd91ff49d9aa7a36de94aa07747754d988bf5f495403ed45faf33b40cd4d4c252c31967d01e7c64172e40f3270800e5c18d194034e",
+          "sha256": "8c9d2a0347d45381893cf2f0d9a5589fa3000a8af035e2d9d71f6941d0a82d54",
+          "sha1": "cb46f963342786e39f798589abfc92b4c728060a",
+          "md5": "31188abab82511d70d863a0e367af92a"
         }
       ]
     }
