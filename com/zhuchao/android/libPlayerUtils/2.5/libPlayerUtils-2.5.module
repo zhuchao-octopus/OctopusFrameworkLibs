@@ -22,45 +22,15 @@
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-api"
       },
-      "dependencies": [
-        {
-          "group": "com.zhuchao.android",
-          "module": "libDecodeCore",
-          "version": {
-            "requires": "2.1"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libCallbackEvent",
-          "version": {
-            "requires": "1.2"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libFileUtils",
-          "version": {
-            "requires": "1.6"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libJosUtils",
-          "version": {
-            "requires": "1.1"
-          }
-        }
-      ],
       "files": [
         {
           "name": "libPlayerUtils-2.5.aar",
           "url": "libPlayerUtils-2.5.aar",
-          "size": 32168,
-          "sha512": "0a041305f6721cb4d6a10ece3031f223e31b8fe304a8b7e54d674ba594d4f772badaa7eca3544c291c8219bdb80d7f8a2c88a1c06186f04873d3cc4a7be8669c",
-          "sha256": "51829299a51a579d4b8b611c4dda59f32c453092e731fda31d1ae7f71bf9612e",
-          "sha1": "2859395a623347337ee67fe6d35eb699e0c65f74",
-          "md5": "b935e56fe1068f7746976f5e3e212fcf"
+          "size": 212758,
+          "sha512": "62661def4f1ab8559d548c7ec0d9d0c2d1933b2596a0054490b91097ef76338e12ca3992eb702725e04cb403685d5f2c4ae240dbad50d35f7bf873a5a1f79e02",
+          "sha256": "2c08596ddfc7e4b5d1954a9a3d45d24e5c86b37ddbb6da14a85b4da35cce1a28",
+          "sha1": "885b740309014b0585ca5d3bef937817b7c684d7",
+          "md5": "cc7c6988dd55fb62d069ec21d319280f"
         }
       ]
     },
@@ -77,28 +47,35 @@
           "group": "com.zhuchao.android",
           "module": "libDecodeCore",
           "version": {
-            "requires": "2.1"
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libCallbackEvent",
           "version": {
-            "requires": "1.2"
+            "requires": "1.4"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libFileUtils",
           "version": {
-            "requires": "1.6"
+            "requires": "1.7"
           }
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libJosUtils",
+          "module": "libJOSUtils",
           "version": {
-            "requires": "1.1"
+            "requires": "1.2"
           }
         }
       ],
@@ -106,11 +83,11 @@
         {
           "name": "libPlayerUtils-2.5.aar",
           "url": "libPlayerUtils-2.5.aar",
-          "size": 32168,
-          "sha512": "0a041305f6721cb4d6a10ece3031f223e31b8fe304a8b7e54d674ba594d4f772badaa7eca3544c291c8219bdb80d7f8a2c88a1c06186f04873d3cc4a7be8669c",
-          "sha256": "51829299a51a579d4b8b611c4dda59f32c453092e731fda31d1ae7f71bf9612e",
-          "sha1": "2859395a623347337ee67fe6d35eb699e0c65f74",
-          "md5": "b935e56fe1068f7746976f5e3e212fcf"
+          "size": 212758,
+          "sha512": "62661def4f1ab8559d548c7ec0d9d0c2d1933b2596a0054490b91097ef76338e12ca3992eb702725e04cb403685d5f2c4ae240dbad50d35f7bf873a5a1f79e02",
+          "sha256": "2c08596ddfc7e4b5d1954a9a3d45d24e5c86b37ddbb6da14a85b4da35cce1a28",
+          "sha1": "885b740309014b0585ca5d3bef937817b7c684d7",
+          "md5": "cc7c6988dd55fb62d069ec21d319280f"
         }
       ]
     }

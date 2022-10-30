@@ -14,6 +14,12 @@
   <dependencies>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
+      <artifactId>libDecodeCore</artifactId>
+      <version>1.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.zhuchao.android</groupId>
       <artifactId>libINetUtils</artifactId>
       <version>2.0</version>
       <scope>runtime</scope>

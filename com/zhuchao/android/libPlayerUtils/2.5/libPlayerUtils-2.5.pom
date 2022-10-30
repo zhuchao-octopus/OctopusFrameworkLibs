@@ -15,26 +15,32 @@
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libDecodeCore</artifactId>
-      <version>2.1</version>
-      <scope>compile</scope>
+      <version>1.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.zhuchao.android</groupId>
+      <artifactId>libINetUtils</artifactId>
+      <version>2.0</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libCallbackEvent</artifactId>
-      <version>1.2</version>
-      <scope>compile</scope>
+      <version>1.4</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libFileUtils</artifactId>
-      <version>1.6</version>
-      <scope>compile</scope>
+      <version>1.7</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
-      <artifactId>libJosUtils</artifactId>
-      <version>1.1</version>
-      <scope>compile</scope>
+      <artifactId>libJOSUtils</artifactId>
+      <version>1.2</version>
+      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
