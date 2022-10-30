@@ -27,10 +27,10 @@
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
           "size": 52820,
-          "sha512": "4130d3a764393c02ec45849fdd3c0a487e532ffae83caffe5a161f62646ea94acb88a7c8e5f3d5d5aa27961f6aac300f63356cc442f781a01b4acc318398a527",
-          "sha256": "1c4e964218617a96647812855001b65a2904a0e837c7dced15f15bab439edd93",
-          "sha1": "418908724d6033a66e85826db5d85c4e64e27870",
-          "md5": "efe679a4025867e1dd8f2d7708e6272b"
+          "sha512": "7771ff00063a812ebeb950683941fa1897124ee0c924a26d57174e038d26cecb78ad4159b2666e76759b9063d66c82d9e99b8fc1942abc93fdbcdefb5f2de9ff",
+          "sha256": "31b9d62f2fdd038fddf8a7f6ff7030f8d5c97889e2024599ccb7f55d064ae7a8",
+          "sha1": "6b7c9281302c49f7c5ae3101e978e4034ac14a98",
+          "md5": "b570517f1d81c521b53733fc023be07c"
         }
       ]
     },
@@ -63,10 +63,10 @@
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
           "size": 52820,
-          "sha512": "4130d3a764393c02ec45849fdd3c0a487e532ffae83caffe5a161f62646ea94acb88a7c8e5f3d5d5aa27961f6aac300f63356cc442f781a01b4acc318398a527",
-          "sha256": "1c4e964218617a96647812855001b65a2904a0e837c7dced15f15bab439edd93",
-          "sha1": "418908724d6033a66e85826db5d85c4e64e27870",
-          "md5": "efe679a4025867e1dd8f2d7708e6272b"
+          "sha512": "7771ff00063a812ebeb950683941fa1897124ee0c924a26d57174e038d26cecb78ad4159b2666e76759b9063d66c82d9e99b8fc1942abc93fdbcdefb5f2de9ff",
+          "sha256": "31b9d62f2fdd038fddf8a7f6ff7030f8d5c97889e2024599ccb7f55d064ae7a8",
+          "sha1": "6b7c9281302c49f7c5ae3101e978e4034ac14a98",
+          "md5": "b570517f1d81c521b53733fc023be07c"
         }
       ]
     }
