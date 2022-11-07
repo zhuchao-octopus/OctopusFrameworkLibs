@@ -35,11 +35,11 @@
         {
           "name": "libFileUtils-1.7.aar",
           "url": "libFileUtils-1.7.aar",
-          "size": 75964,
-          "sha512": "71232bc8a40b14337322a446d994cd55f41e2cdb2b6f69ab18c7cbfb91a08f656f9f029362608ba9a6a28f168632ed113035dd7d5a33f349789319364918f92a",
-          "sha256": "5b1c13cd57a43cf5b31685b66385d30f0cbd40f5722e36cbf6d55f6a5099133e",
-          "sha1": "f9c32f8593c204c0bf2234a7e7023235ec11e03d",
-          "md5": "1cf3531138005f7314ff70c02d08ca47"
+          "size": 76031,
+          "sha512": "2983e1aa383c8da244cfb81c3066fe26f3fc15f3f9c806a03937a5bd736c14bbd0227ce176b2b9d8d40d67e18e5f2d77f9b78716fe70a894ebf640e586dcaafd",
+          "sha256": "20c61d5b71dbc7f9451a594611725f3b4aa2b18234bcd0e407bbf730e93f9a8a",
+          "sha1": "32cfd54c9bd33122a73123da40d7015955cdf331",
+          "md5": "4f8a2189c0e35c4a61a7ab25b2d17415"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "libFileUtils-1.7.aar",
           "url": "libFileUtils-1.7.aar",
-          "size": 75964,
-          "sha512": "71232bc8a40b14337322a446d994cd55f41e2cdb2b6f69ab18c7cbfb91a08f656f9f029362608ba9a6a28f168632ed113035dd7d5a33f349789319364918f92a",
-          "sha256": "5b1c13cd57a43cf5b31685b66385d30f0cbd40f5722e36cbf6d55f6a5099133e",
-          "sha1": "f9c32f8593c204c0bf2234a7e7023235ec11e03d",
-          "md5": "1cf3531138005f7314ff70c02d08ca47"
+          "size": 76031,
+          "sha512": "2983e1aa383c8da244cfb81c3066fe26f3fc15f3f9c806a03937a5bd736c14bbd0227ce176b2b9d8d40d67e18e5f2d77f9b78716fe70a894ebf640e586dcaafd",
+          "sha256": "20c61d5b71dbc7f9451a594611725f3b4aa2b18234bcd0e407bbf730e93f9a8a",
+          "sha1": "32cfd54c9bd33122a73123da40d7015955cdf331",
+          "md5": "4f8a2189c0e35c4a61a7ab25b2d17415"
         }
       ]
     }

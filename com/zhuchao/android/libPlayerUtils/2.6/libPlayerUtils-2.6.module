@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 212758,
-          "sha512": "62661def4f1ab8559d548c7ec0d9d0c2d1933b2596a0054490b91097ef76338e12ca3992eb702725e04cb403685d5f2c4ae240dbad50d35f7bf873a5a1f79e02",
-          "sha256": "2c08596ddfc7e4b5d1954a9a3d45d24e5c86b37ddbb6da14a85b4da35cce1a28",
-          "sha1": "885b740309014b0585ca5d3bef937817b7c684d7",
-          "md5": "cc7c6988dd55fb62d069ec21d319280f"
+          "size": 212814,
+          "sha512": "66d9f743117ea67460cf234d683369bc4f500d0f03bafd616b30aa1c6344779d3919b928b6ff05b1be2570d4d537d8959b6f1694e342f5bc76ae19e7d454d9cc",
+          "sha256": "9b39b26f4b2eb0eea1cc8e80d9cd2cd8b84ed6f3faf74dc04ba221a5f3330882",
+          "sha1": "ec387220287bcba0d005cc8a9d341db3924ed8bd",
+          "md5": "c9b0c06827ccc7aaa5202633770cceb7"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libDecodeCore",
           "version": {
-            "requires": "1.1"
+            "requires": "1.2"
           }
         },
         {
@@ -83,11 +83,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 212758,
-          "sha512": "62661def4f1ab8559d548c7ec0d9d0c2d1933b2596a0054490b91097ef76338e12ca3992eb702725e04cb403685d5f2c4ae240dbad50d35f7bf873a5a1f79e02",
-          "sha256": "2c08596ddfc7e4b5d1954a9a3d45d24e5c86b37ddbb6da14a85b4da35cce1a28",
-          "sha1": "885b740309014b0585ca5d3bef937817b7c684d7",
-          "md5": "cc7c6988dd55fb62d069ec21d319280f"
+          "size": 212814,
+          "sha512": "66d9f743117ea67460cf234d683369bc4f500d0f03bafd616b30aa1c6344779d3919b928b6ff05b1be2570d4d537d8959b6f1694e342f5bc76ae19e7d454d9cc",
+          "sha256": "9b39b26f4b2eb0eea1cc8e80d9cd2cd8b84ed6f3faf74dc04ba221a5f3330882",
+          "sha1": "ec387220287bcba0d005cc8a9d341db3924ed8bd",
+          "md5": "c9b0c06827ccc7aaa5202633770cceb7"
         }
       ]
     }

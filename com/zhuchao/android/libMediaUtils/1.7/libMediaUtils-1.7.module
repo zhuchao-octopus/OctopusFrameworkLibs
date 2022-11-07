@@ -26,11 +26,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 29265,
-          "sha512": "97b1fcd2aba73381d3b55d5f0d85743d1adb463e7530c34c56f311fa5ea467503564515f9d408da1399a050e93a2685d8a691317d9029db2bac516ba1e529952",
-          "sha256": "6d590c809f887be32c6e431a43271e27f56bf6a9a4fe1a6509c3beb72ac2000a",
-          "sha1": "86ba1e7bcd1213eb4a74d8b97d2c5ec8f3722239",
-          "md5": "7dee1173ea5f2b909d53a8640719e9c9"
+          "size": 29275,
+          "sha512": "46578e4577a44ab34043faef7677766d2338a3323ca1b6fd4db4b9ad3bd9dee033dc003990bdd103a62cfc633287e926d3780f897db904d4759f8efe5ec63557",
+          "sha256": "d6264c9cb0e8d844a95b78bea7b9e4c4560eb9673ea0fc9be848461445802022",
+          "sha1": "5f7f67544807489e470ba50bdd6773af5ff06005",
+          "md5": "411812304d6efc7d4b45d7b839f482cd"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 29265,
-          "sha512": "97b1fcd2aba73381d3b55d5f0d85743d1adb463e7530c34c56f311fa5ea467503564515f9d408da1399a050e93a2685d8a691317d9029db2bac516ba1e529952",
-          "sha256": "6d590c809f887be32c6e431a43271e27f56bf6a9a4fe1a6509c3beb72ac2000a",
-          "sha1": "86ba1e7bcd1213eb4a74d8b97d2c5ec8f3722239",
-          "md5": "7dee1173ea5f2b909d53a8640719e9c9"
+          "size": 29275,
+          "sha512": "46578e4577a44ab34043faef7677766d2338a3323ca1b6fd4db4b9ad3bd9dee033dc003990bdd103a62cfc633287e926d3780f897db904d4759f8efe5ec63557",
+          "sha256": "d6264c9cb0e8d844a95b78bea7b9e4c4560eb9673ea0fc9be848461445802022",
+          "sha1": "5f7f67544807489e470ba50bdd6773af5ff06005",
+          "md5": "411812304d6efc7d4b45d7b839f482cd"
         }
       ]
     }
