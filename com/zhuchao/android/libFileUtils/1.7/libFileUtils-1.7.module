@@ -54,9 +54,9 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libCallbackEvent",
+          "module": "libEventInterface",
           "version": {
-            "requires": "1.4"
+            "requires": "1.5"
           }
         },
         {

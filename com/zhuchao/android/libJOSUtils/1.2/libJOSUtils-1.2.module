@@ -26,11 +26,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 51476,
-          "sha512": "a9111ef97e21d90568df337ccfb87220b0c5ef6e26b874b78b7df4a6b557419503bc04ebdfd64345b6b5f5346f4cf6f69e50e76afced96dc8ff0358c67728d97",
-          "sha256": "654bba07b0370b3bab038039168c76856ca425fb1b7cc5d8f2af6988aa8552dc",
-          "sha1": "55c90ed767df3a02ddaaf63b147dc69863118c74",
-          "md5": "069b920d189e0a68fd54f7b9d8e355e4"
+          "size": 52242,
+          "sha512": "3a2965290f999e7657fae0ccfd46784abbef39b05db4367b22921ebb7524c4cf329e40fddeda72b9adebf9927960fe16d9f2f4bc003bfb2d394af50215e0716d",
+          "sha256": "afdb6129184f8f0f2bada50d98929a12cc8f34b87d9bd88c873aeed3465ee381",
+          "sha1": "676f45beac9ed986986e8faa930df38ce6e8b0f0",
+          "md5": "6f2328f153c3beed0023a3e967742dc2"
         }
       ]
     },
@@ -45,9 +45,9 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libCallbackEvent",
+          "module": "libEventInterface",
           "version": {
-            "requires": "1.4"
+            "requires": "1.5"
           }
         },
         {
@@ -62,11 +62,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 51476,
-          "sha512": "a9111ef97e21d90568df337ccfb87220b0c5ef6e26b874b78b7df4a6b557419503bc04ebdfd64345b6b5f5346f4cf6f69e50e76afced96dc8ff0358c67728d97",
-          "sha256": "654bba07b0370b3bab038039168c76856ca425fb1b7cc5d8f2af6988aa8552dc",
-          "sha1": "55c90ed767df3a02ddaaf63b147dc69863118c74",
-          "md5": "069b920d189e0a68fd54f7b9d8e355e4"
+          "size": 52242,
+          "sha512": "3a2965290f999e7657fae0ccfd46784abbef39b05db4367b22921ebb7524c4cf329e40fddeda72b9adebf9927960fe16d9f2f4bc003bfb2d394af50215e0716d",
+          "sha256": "afdb6129184f8f0f2bada50d98929a12cc8f34b87d9bd88c873aeed3465ee381",
+          "sha1": "676f45beac9ed986986e8faa930df38ce6e8b0f0",
+          "md5": "6f2328f153c3beed0023a3e967742dc2"
         }
       ]
     }

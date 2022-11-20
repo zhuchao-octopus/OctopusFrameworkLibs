@@ -45,6 +45,13 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
+          "module": "libEventInterface",
+          "version": {
+            "requires": "1.5"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
           "module": "libDecodeCore",
           "version": {
             "requires": "1.2"
@@ -55,13 +62,6 @@
           "module": "libINetUtils",
           "version": {
             "requires": "2.0"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libCallbackEvent",
-          "version": {
-            "requires": "1.4"
           }
         },
         {

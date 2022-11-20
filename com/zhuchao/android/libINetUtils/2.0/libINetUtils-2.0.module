@@ -27,7 +27,7 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.9.1"
+            "requires": "2.10"
           }
         },
         {
@@ -50,10 +50,10 @@
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
           "size": 45562,
-          "sha512": "f7d5d3d18221b43904fd13624bc66ee8c920615cb438862f8fe978224245c3a810fcc845c798eba9ea9266911123d965b2b5c5150df9c7b925383de27bea25aa",
-          "sha256": "7bd5ce98b9fdd27409af18a736d839846d89a18ad7bd391a1ef68bc6881b63be",
-          "sha1": "a805d205ba25fa000f8e37eb967e507afddcee5a",
-          "md5": "cfd2403f15e9ad70f8adeb2648319cc5"
+          "sha512": "e1ec53be62deb3a7821b0379d4fd84fe7eb81e4cdea978202f4a0ea707668e634e30d5a093f530255a3353cc5b33153e0c5f78ef1975618ed603731809aeca7b",
+          "sha256": "f17fb660c86fc9fb0d7111351f8622067d9221a42987bba7aefd121b1328ea68",
+          "sha1": "9cd7c7daeaec4a32df683dbc8a955c568518f102",
+          "md5": "aaa2605cdecfe0afa491cc0913520205"
         }
       ]
     },
@@ -68,9 +68,9 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libCallbackEvent",
+          "module": "libEventInterface",
           "version": {
-            "requires": "1.4"
+            "requires": "1.5"
           }
         },
         {
@@ -84,7 +84,7 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.9.1"
+            "requires": "2.10"
           }
         },
         {
@@ -107,10 +107,10 @@
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
           "size": 45562,
-          "sha512": "f7d5d3d18221b43904fd13624bc66ee8c920615cb438862f8fe978224245c3a810fcc845c798eba9ea9266911123d965b2b5c5150df9c7b925383de27bea25aa",
-          "sha256": "7bd5ce98b9fdd27409af18a736d839846d89a18ad7bd391a1ef68bc6881b63be",
-          "sha1": "a805d205ba25fa000f8e37eb967e507afddcee5a",
-          "md5": "cfd2403f15e9ad70f8adeb2648319cc5"
+          "sha512": "e1ec53be62deb3a7821b0379d4fd84fe7eb81e4cdea978202f4a0ea707668e634e30d5a093f530255a3353cc5b33153e0c5f78ef1975618ed603731809aeca7b",
+          "sha256": "f17fb660c86fc9fb0d7111351f8622067d9221a42987bba7aefd121b1328ea68",
+          "sha1": "9cd7c7daeaec4a32df683dbc8a955c568518f102",
+          "md5": "aaa2605cdecfe0afa491cc0913520205"
         }
       ]
     }
