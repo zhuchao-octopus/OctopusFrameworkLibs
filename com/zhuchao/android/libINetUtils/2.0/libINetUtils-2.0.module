@@ -49,11 +49,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 45562,
-          "sha512": "e1ec53be62deb3a7821b0379d4fd84fe7eb81e4cdea978202f4a0ea707668e634e30d5a093f530255a3353cc5b33153e0c5f78ef1975618ed603731809aeca7b",
-          "sha256": "f17fb660c86fc9fb0d7111351f8622067d9221a42987bba7aefd121b1328ea68",
-          "sha1": "9cd7c7daeaec4a32df683dbc8a955c568518f102",
-          "md5": "aaa2605cdecfe0afa491cc0913520205"
+          "size": 45640,
+          "sha512": "5f04e903d42b58249fc3c2c76fef0f3b518632dee80effa1e07c65e259e3fdc8f535272fd4547ffa9b93c2ddff9d60874121150c92aa4c7bd8ba911e70d895ae",
+          "sha256": "16decc833decf3674e9ce9435a3006f947ae2d36e259f5df17409ea1d479aab8",
+          "sha1": "fabc70f3faa3c52de34c46475210c324d1fa2f30",
+          "md5": "9e5b326023813108e7a862c033c45a94"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 45562,
-          "sha512": "e1ec53be62deb3a7821b0379d4fd84fe7eb81e4cdea978202f4a0ea707668e634e30d5a093f530255a3353cc5b33153e0c5f78ef1975618ed603731809aeca7b",
-          "sha256": "f17fb660c86fc9fb0d7111351f8622067d9221a42987bba7aefd121b1328ea68",
-          "sha1": "9cd7c7daeaec4a32df683dbc8a955c568518f102",
-          "md5": "aaa2605cdecfe0afa491cc0913520205"
+          "size": 45640,
+          "sha512": "5f04e903d42b58249fc3c2c76fef0f3b518632dee80effa1e07c65e259e3fdc8f535272fd4547ffa9b93c2ddff9d60874121150c92aa4c7bd8ba911e70d895ae",
+          "sha256": "16decc833decf3674e9ce9435a3006f947ae2d36e259f5df17409ea1d479aab8",
+          "sha1": "fabc70f3faa3c52de34c46475210c324d1fa2f30",
+          "md5": "9e5b326023813108e7a862c033c45a94"
         }
       ]
     }

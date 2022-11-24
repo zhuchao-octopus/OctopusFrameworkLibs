@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 89882,
-          "sha512": "aacbb8e118ea2698081b94cb45a6175b96f07fe020d3c9a3ccd5612797e72f841ce18fd7c626ee19f2bb074d4f5470ac364d3c9b70aa6bdc616455b07bd36dad",
-          "sha256": "aec6652f4136b3fc7b59d6e4e14729b5bced0cd1a16357723c0455584f0b31ff",
-          "sha1": "12e2d8e9b9ed9b535dea74491fc60f59aff67f86",
-          "md5": "6f36f354d80a2f33b279dc74016acc90"
+          "size": 103293,
+          "sha512": "a8afbebd81b505ed9e86ccf381e21cd00f7d0a6e0b69d991bdab9c9c9c59afac06db01c7866650f159f0b5bf1026fb18296c04d1585bc397f9e1d048ee8f4459",
+          "sha256": "bf43a409cf046dbc8c5d8f2c6693d149a9ecae277883c4f55c4ed4502dbaa635",
+          "sha1": "ab0e57170a929afd276eb7ac9639ca896c380ffe",
+          "md5": "83a4cc73e179cfba02aea6d2ceefccd4"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 89882,
-          "sha512": "aacbb8e118ea2698081b94cb45a6175b96f07fe020d3c9a3ccd5612797e72f841ce18fd7c626ee19f2bb074d4f5470ac364d3c9b70aa6bdc616455b07bd36dad",
-          "sha256": "aec6652f4136b3fc7b59d6e4e14729b5bced0cd1a16357723c0455584f0b31ff",
-          "sha1": "12e2d8e9b9ed9b535dea74491fc60f59aff67f86",
-          "md5": "6f36f354d80a2f33b279dc74016acc90"
+          "size": 103293,
+          "sha512": "a8afbebd81b505ed9e86ccf381e21cd00f7d0a6e0b69d991bdab9c9c9c59afac06db01c7866650f159f0b5bf1026fb18296c04d1585bc397f9e1d048ee8f4459",
+          "sha256": "bf43a409cf046dbc8c5d8f2c6693d149a9ecae277883c4f55c4ed4502dbaa635",
+          "sha1": "ab0e57170a929afd276eb7ac9639ca896c380ffe",
+          "md5": "83a4cc73e179cfba02aea6d2ceefccd4"
         }
       ]
     }
