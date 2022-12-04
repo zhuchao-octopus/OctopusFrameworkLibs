@@ -35,11 +35,11 @@
         {
           "name": "libGPersistUtils-1.0.aar",
           "url": "libGPersistUtils-1.0.aar",
-          "size": 201858,
-          "sha512": "5dd61b5ad1558d7966e895cd91ff49d9aa7a36de94aa07747754d988bf5f495403ed45faf33b40cd4d4c252c31967d01e7c64172e40f3270800e5c18d194034e",
-          "sha256": "8c9d2a0347d45381893cf2f0d9a5589fa3000a8af035e2d9d71f6941d0a82d54",
-          "sha1": "cb46f963342786e39f798589abfc92b4c728060a",
-          "md5": "31188abab82511d70d863a0e367af92a"
+          "size": 201852,
+          "sha512": "f9a914da1a810b2f2d57d1f226fd0a987e024b819d430df2f9c88090e047a76fd04d80adceb01b989b3627c66ad768040225cf697f5a8bf6c5b6868efe8684c4",
+          "sha256": "0d1666881a4498a77e2c72148ed37e9e833a10c9811f3eb8ef3d34a346385753",
+          "sha1": "937ac2e19c277858c9fced97aca62592ce078b45",
+          "md5": "3cfa8e840a088f76d5c6b130dd1b621f"
         }
       ]
     },
@@ -61,9 +61,9 @@
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFileUtils",
+          "module": "libFBaseUitls",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
@@ -85,11 +85,11 @@
         {
           "name": "libGPersistUtils-1.0.aar",
           "url": "libGPersistUtils-1.0.aar",
-          "size": 201858,
-          "sha512": "5dd61b5ad1558d7966e895cd91ff49d9aa7a36de94aa07747754d988bf5f495403ed45faf33b40cd4d4c252c31967d01e7c64172e40f3270800e5c18d194034e",
-          "sha256": "8c9d2a0347d45381893cf2f0d9a5589fa3000a8af035e2d9d71f6941d0a82d54",
-          "sha1": "cb46f963342786e39f798589abfc92b4c728060a",
-          "md5": "31188abab82511d70d863a0e367af92a"
+          "size": 201852,
+          "sha512": "f9a914da1a810b2f2d57d1f226fd0a987e024b819d430df2f9c88090e047a76fd04d80adceb01b989b3627c66ad768040225cf697f5a8bf6c5b6868efe8684c4",
+          "sha256": "0d1666881a4498a77e2c72148ed37e9e833a10c9811f3eb8ef3d34a346385753",
+          "sha1": "937ac2e19c277858c9fced97aca62592ce078b45",
+          "md5": "3cfa8e840a088f76d5c6b130dd1b621f"
         }
       ]
     }

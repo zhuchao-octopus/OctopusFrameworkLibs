@@ -15,13 +15,13 @@
     <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libEventInterface</artifactId>
-      <version>1.5</version>
+      <version>1.6</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
-      <artifactId>libFileUtils</artifactId>
-      <version>1.7</version>
+      <artifactId>libFBaseUitls</artifactId>
+      <version>1.8</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

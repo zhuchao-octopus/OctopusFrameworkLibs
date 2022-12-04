@@ -26,11 +26,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 52767,
-          "sha512": "6abbc3c72d3ec63720da9a5f193be77e5fd90ee52fcabd71be5b0a949161e72e4149811d9aea3ed61af1e1f1db4d1635f4f7e0bb1410a959a71b1abf06490460",
-          "sha256": "0bb520dcaaab151a3bced1f686441062ce6f9264443e167a23d93ff248b5e538",
-          "sha1": "82bf8fd07dcf3ef3621feb205e787431f0d20b4a",
-          "md5": "6eb9e0397e49dbfaae825d525c8cce82"
+          "size": 53198,
+          "sha512": "156dfde2f08280ed709b7ab26dda77bc3568782e050c0ba16c6f90acec73ce5a1607bc86fb0073a186316f4e0fdee8b4b35095d5099e171f10a72e1a9547c9e3",
+          "sha256": "0ff853f0c28d16547c0a35fb72498eb0fe434cd7fef5097e2126c72c986a01ed",
+          "sha1": "d205bd66a38a2ba91b39f3acece74de80e5a38de",
+          "md5": "314266166d06cb8cbb140b016bffb0e6"
         }
       ]
     },
@@ -47,14 +47,14 @@
           "group": "com.zhuchao.android",
           "module": "libEventInterface",
           "version": {
-            "requires": "1.5"
+            "requires": "1.6"
           }
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFileUtils",
+          "module": "libFBaseUitls",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         }
       ],
@@ -62,11 +62,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 52767,
-          "sha512": "6abbc3c72d3ec63720da9a5f193be77e5fd90ee52fcabd71be5b0a949161e72e4149811d9aea3ed61af1e1f1db4d1635f4f7e0bb1410a959a71b1abf06490460",
-          "sha256": "0bb520dcaaab151a3bced1f686441062ce6f9264443e167a23d93ff248b5e538",
-          "sha1": "82bf8fd07dcf3ef3621feb205e787431f0d20b4a",
-          "md5": "6eb9e0397e49dbfaae825d525c8cce82"
+          "size": 53198,
+          "sha512": "156dfde2f08280ed709b7ab26dda77bc3568782e050c0ba16c6f90acec73ce5a1607bc86fb0073a186316f4e0fdee8b4b35095d5099e171f10a72e1a9547c9e3",
+          "sha256": "0ff853f0c28d16547c0a35fb72498eb0fe434cd7fef5097e2126c72c986a01ed",
+          "sha1": "d205bd66a38a2ba91b39f3acece74de80e5a38de",
+          "md5": "314266166d06cb8cbb140b016bffb0e6"
         }
       ]
     }

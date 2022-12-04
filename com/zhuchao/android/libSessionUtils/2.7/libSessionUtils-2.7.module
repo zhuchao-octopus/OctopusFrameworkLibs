@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 103293,
-          "sha512": "a8afbebd81b505ed9e86ccf381e21cd00f7d0a6e0b69d991bdab9c9c9c59afac06db01c7866650f159f0b5bf1026fb18296c04d1585bc397f9e1d048ee8f4459",
-          "sha256": "bf43a409cf046dbc8c5d8f2c6693d149a9ecae277883c4f55c4ed4502dbaa635",
-          "sha1": "ab0e57170a929afd276eb7ac9639ca896c380ffe",
-          "md5": "83a4cc73e179cfba02aea6d2ceefccd4"
+          "size": 108117,
+          "sha512": "7dd77eeb5c2c2a00a7ff1e7abeb5084c452d7572c9c40c677d2d1c7d203a2e16a5dc83340f4f6b8facddb6f42e642971d9ecf6401c041fd83f41e31295a41922",
+          "sha256": "42203d9d85f866974d9082c2beae8a12e2dd56525e42b84f4ec50d0520e4ae96",
+          "sha1": "153d6703beab5f7d20162972eb9bd67ef8fbeca8",
+          "md5": "e99e4d3dd17ec145d3c5aa0960cd621c"
         }
       ]
     },
@@ -47,14 +47,14 @@
           "group": "com.zhuchao.android",
           "module": "libEventInterface",
           "version": {
-            "requires": "1.5"
+            "requires": "1.6"
           }
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFileUtils",
+          "module": "libFBaseUitls",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 103293,
-          "sha512": "a8afbebd81b505ed9e86ccf381e21cd00f7d0a6e0b69d991bdab9c9c9c59afac06db01c7866650f159f0b5bf1026fb18296c04d1585bc397f9e1d048ee8f4459",
-          "sha256": "bf43a409cf046dbc8c5d8f2c6693d149a9ecae277883c4f55c4ed4502dbaa635",
-          "sha1": "ab0e57170a929afd276eb7ac9639ca896c380ffe",
-          "md5": "83a4cc73e179cfba02aea6d2ceefccd4"
+          "size": 108117,
+          "sha512": "7dd77eeb5c2c2a00a7ff1e7abeb5084c452d7572c9c40c677d2d1c7d203a2e16a5dc83340f4f6b8facddb6f42e642971d9ecf6401c041fd83f41e31295a41922",
+          "sha256": "42203d9d85f866974d9082c2beae8a12e2dd56525e42b84f4ec50d0520e4ae96",
+          "sha1": "153d6703beab5f7d20162972eb9bd67ef8fbeca8",
+          "md5": "e99e4d3dd17ec145d3c5aa0960cd621c"
         }
       ]
     }

@@ -14,26 +14,26 @@
   <dependencies>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
-      <artifactId>libEventInterface</artifactId>
-      <version>1.5</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.zhuchao.android</groupId>
       <artifactId>libDecodeCore</artifactId>
       <version>1.2</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
-      <artifactId>libINetUtils</artifactId>
-      <version>2.0</version>
+      <artifactId>libEventInterface</artifactId>
+      <version>1.6</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
-      <artifactId>libFileUtils</artifactId>
-      <version>1.7</version>
+      <artifactId>libFBaseUitls</artifactId>
+      <version>1.8</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.zhuchao.android</groupId>
+      <artifactId>libINetUtils</artifactId>
+      <version>2.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>

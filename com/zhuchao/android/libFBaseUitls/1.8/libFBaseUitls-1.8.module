@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFBaseUitls",
+    "version": "1.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.4.0-alpha02"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFBaseUitls-1.8.aar",
+          "url": "libFBaseUitls-1.8.aar",
+          "size": 85317,
+          "sha512": "b2fe5fa4e239dbbe31ee1d66795453c729b095d135680c692f53c06d756e41cab2f46098b0063e7c3cc7d1174cc4fbdbf772afb5fbe692368a4d42e9269bfc42",
+          "sha256": "0be9c06af8cc8eb8e05d9a875fc482b88383a6bce162e88dbc6b80de085534f7",
+          "sha1": "5509dc7065270aa2ea1ae2fd2b63f41b3cf3ac06",
+          "md5": "f69e18a4035a6139823e02624f82f14d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libEventInterface",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha01"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.4.0-alpha02"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFBaseUitls-1.8.aar",
+          "url": "libFBaseUitls-1.8.aar",
+          "size": 85317,
+          "sha512": "b2fe5fa4e239dbbe31ee1d66795453c729b095d135680c692f53c06d756e41cab2f46098b0063e7c3cc7d1174cc4fbdbf772afb5fbe692368a4d42e9269bfc42",
+          "sha256": "0be9c06af8cc8eb8e05d9a875fc482b88383a6bce162e88dbc6b80de085534f7",
+          "sha1": "5509dc7065270aa2ea1ae2fd2b63f41b3cf3ac06",
+          "md5": "f69e18a4035a6139823e02624f82f14d"
+        }
+      ]
+    }
+  ]
+}

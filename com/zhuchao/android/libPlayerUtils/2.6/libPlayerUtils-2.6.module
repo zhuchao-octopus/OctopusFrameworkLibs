@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 212814,
-          "sha512": "66d9f743117ea67460cf234d683369bc4f500d0f03bafd616b30aa1c6344779d3919b928b6ff05b1be2570d4d537d8959b6f1694e342f5bc76ae19e7d454d9cc",
-          "sha256": "9b39b26f4b2eb0eea1cc8e80d9cd2cd8b84ed6f3faf74dc04ba221a5f3330882",
-          "sha1": "ec387220287bcba0d005cc8a9d341db3924ed8bd",
-          "md5": "c9b0c06827ccc7aaa5202633770cceb7"
+          "size": 212746,
+          "sha512": "f3126a6b6576ee4490fc3dafefc28cca982845e854a202935139f849fb9e54409db6d0d9d13bd546761f592c83db25ec2932621b383ed085eb911f280bbe7016",
+          "sha256": "1024fdd107c5dc06cfd732bb3c4e127e6f59106edd108cf0a508802a3bb47cb4",
+          "sha1": "449e5997b081eab363d086d018007bc163ff3537",
+          "md5": "120b34992edf7882c53271887b1b339a"
         }
       ]
     },
@@ -45,13 +45,6 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libEventInterface",
-          "version": {
-            "requires": "1.5"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
           "module": "libDecodeCore",
           "version": {
             "requires": "1.2"
@@ -59,16 +52,23 @@
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libINetUtils",
+          "module": "libEventInterface",
           "version": {
-            "requires": "2.0"
+            "requires": "1.6"
           }
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFileUtils",
+          "module": "libFBaseUitls",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.0"
           }
         },
         {
@@ -83,11 +83,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 212814,
-          "sha512": "66d9f743117ea67460cf234d683369bc4f500d0f03bafd616b30aa1c6344779d3919b928b6ff05b1be2570d4d537d8959b6f1694e342f5bc76ae19e7d454d9cc",
-          "sha256": "9b39b26f4b2eb0eea1cc8e80d9cd2cd8b84ed6f3faf74dc04ba221a5f3330882",
-          "sha1": "ec387220287bcba0d005cc8a9d341db3924ed8bd",
-          "md5": "c9b0c06827ccc7aaa5202633770cceb7"
+          "size": 212746,
+          "sha512": "f3126a6b6576ee4490fc3dafefc28cca982845e854a202935139f849fb9e54409db6d0d9d13bd546761f592c83db25ec2932621b383ed085eb911f280bbe7016",
+          "sha256": "1024fdd107c5dc06cfd732bb3c4e127e6f59106edd108cf0a508802a3bb47cb4",
+          "sha1": "449e5997b081eab363d086d018007bc163ff3537",
+          "md5": "120b34992edf7882c53271887b1b339a"
         }
       ]
     }

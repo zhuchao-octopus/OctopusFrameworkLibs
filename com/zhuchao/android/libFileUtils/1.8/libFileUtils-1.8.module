@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFileUtils",
+    "version": "1.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.4.0-alpha02"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFileUtils-1.8.aar",
+          "url": "libFileUtils-1.8.aar",
+          "size": 81598,
+          "sha512": "4e81e3083c3436b7f0ddd8ba350ca79499e54e32596085e55911fff6c00505797d916e87248b21ba722e0b0e501aa1567b04938494fdfc7e537cd616a32e7c11",
+          "sha256": "7808a1b61f0fd1bcb7da9e3f78fccadef6aa94ae75a9a8ca9d7c92855708cae9",
+          "sha1": "58260e676bcef5fc0c16f19dab5400e58653ff05",
+          "md5": "590d8dd529762e87fa4655624cbf502e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libEventInterface",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha01"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.4.0-alpha02"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFileUtils-1.8.aar",
+          "url": "libFileUtils-1.8.aar",
+          "size": 81598,
+          "sha512": "4e81e3083c3436b7f0ddd8ba350ca79499e54e32596085e55911fff6c00505797d916e87248b21ba722e0b0e501aa1567b04938494fdfc7e537cd616a32e7c11",
+          "sha256": "7808a1b61f0fd1bcb7da9e3f78fccadef6aa94ae75a9a8ca9d7c92855708cae9",
+          "sha1": "58260e676bcef5fc0c16f19dab5400e58653ff05",
+          "md5": "590d8dd529762e87fa4655624cbf502e"
+        }
+      ]
+    }
+  ]
+}

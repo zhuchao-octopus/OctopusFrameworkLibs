@@ -41,7 +41,7 @@
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.8"
+            "requires": "5.0.0-alpha.10"
           }
         }
       ],
@@ -49,11 +49,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 45640,
-          "sha512": "5f04e903d42b58249fc3c2c76fef0f3b518632dee80effa1e07c65e259e3fdc8f535272fd4547ffa9b93c2ddff9d60874121150c92aa4c7bd8ba911e70d895ae",
-          "sha256": "16decc833decf3674e9ce9435a3006f947ae2d36e259f5df17409ea1d479aab8",
-          "sha1": "fabc70f3faa3c52de34c46475210c324d1fa2f30",
-          "md5": "9e5b326023813108e7a862c033c45a94"
+          "size": 46349,
+          "sha512": "fef35e85221096a502e59699f4946f2a99b8ffe6f6d730d8e9f28107d19950ee752c5d0698be07c1e9c689de37e28f5669b8eda9b7c9c4c288dd199c7b962cc1",
+          "sha256": "1af0551b746be97a143d60a6cdb7857806a643376c070c6a4bc5ce1c030e96c7",
+          "sha1": "8ced19590898ffbfd395a2c20768c7dea94620dc",
+          "md5": "ce04d5dc286aa8d93ad5abfbc40f6df1"
         }
       ]
     },
@@ -70,14 +70,14 @@
           "group": "com.zhuchao.android",
           "module": "libEventInterface",
           "version": {
-            "requires": "1.5"
+            "requires": "1.6"
           }
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFileUtils",
+          "module": "libFBaseUitls",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
@@ -98,7 +98,7 @@
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.8"
+            "requires": "5.0.0-alpha.10"
           }
         }
       ],
@@ -106,11 +106,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 45640,
-          "sha512": "5f04e903d42b58249fc3c2c76fef0f3b518632dee80effa1e07c65e259e3fdc8f535272fd4547ffa9b93c2ddff9d60874121150c92aa4c7bd8ba911e70d895ae",
-          "sha256": "16decc833decf3674e9ce9435a3006f947ae2d36e259f5df17409ea1d479aab8",
-          "sha1": "fabc70f3faa3c52de34c46475210c324d1fa2f30",
-          "md5": "9e5b326023813108e7a862c033c45a94"
+          "size": 46349,
+          "sha512": "fef35e85221096a502e59699f4946f2a99b8ffe6f6d730d8e9f28107d19950ee752c5d0698be07c1e9c689de37e28f5669b8eda9b7c9c4c288dd199c7b962cc1",
+          "sha256": "1af0551b746be97a143d60a6cdb7857806a643376c070c6a4bc5ce1c030e96c7",
+          "sha1": "8ced19590898ffbfd395a2c20768c7dea94620dc",
+          "md5": "ce04d5dc286aa8d93ad5abfbc40f6df1"
         }
       ]
     }
