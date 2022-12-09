@@ -35,11 +35,11 @@
         {
           "name": "libOpenComputerVision-1.0.aar",
           "url": "libOpenComputerVision-1.0.aar",
-          "size": 55816938,
-          "sha512": "a17645ab2f9dfa5633d85990a8e48b5df6ff19bec4986fdcdeecb47e69344a902454d429818084241a39bed4510c041c21d5731bf1ff4f4be8839aa697fea82a",
-          "sha256": "9a25e755d47fa2de7c90a1be81878330cace8bad7f7685c762f74cc1e47597c6",
-          "sha1": "d6d5872ea8dbfe68450eec18aa06183d0564d063",
-          "md5": "032957f0aed0204ab89687b2c298facd"
+          "size": 55821739,
+          "sha512": "c507c6fed47b7815dc2c69dff29b037362502035a1ebd7e24053527137408bfa887b67498ba81f77c81c800b858110a94784acfd799176ed1412a605ecf75f91",
+          "sha256": "aa434a9bddade8c87451d5124814d63361fe90b94195d76cb70fb0ad8c56c0d5",
+          "sha1": "efe51bdb480888c7f4d52a54e87d563534c0b242",
+          "md5": "05959c6c6d7a68eb7bfbac153f4932c1"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "libOpenComputerVision-1.0.aar",
           "url": "libOpenComputerVision-1.0.aar",
-          "size": 55816938,
-          "sha512": "a17645ab2f9dfa5633d85990a8e48b5df6ff19bec4986fdcdeecb47e69344a902454d429818084241a39bed4510c041c21d5731bf1ff4f4be8839aa697fea82a",
-          "sha256": "9a25e755d47fa2de7c90a1be81878330cace8bad7f7685c762f74cc1e47597c6",
-          "sha1": "d6d5872ea8dbfe68450eec18aa06183d0564d063",
-          "md5": "032957f0aed0204ab89687b2c298facd"
+          "size": 55821739,
+          "sha512": "c507c6fed47b7815dc2c69dff29b037362502035a1ebd7e24053527137408bfa887b67498ba81f77c81c800b858110a94784acfd799176ed1412a605ecf75f91",
+          "sha256": "aa434a9bddade8c87451d5124814d63361fe90b94195d76cb70fb0ad8c56c0d5",
+          "sha1": "efe51bdb480888c7f4d52a54e87d563534c0b242",
+          "md5": "05959c6c6d7a68eb7bfbac153f4932c1"
         }
       ]
     }

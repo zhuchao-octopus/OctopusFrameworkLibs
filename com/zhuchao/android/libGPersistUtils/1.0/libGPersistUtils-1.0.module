@@ -35,11 +35,11 @@
         {
           "name": "libGPersistUtils-1.0.aar",
           "url": "libGPersistUtils-1.0.aar",
-          "size": 201852,
-          "sha512": "f9a914da1a810b2f2d57d1f226fd0a987e024b819d430df2f9c88090e047a76fd04d80adceb01b989b3627c66ad768040225cf697f5a8bf6c5b6868efe8684c4",
-          "sha256": "0d1666881a4498a77e2c72148ed37e9e833a10c9811f3eb8ef3d34a346385753",
-          "sha1": "937ac2e19c277858c9fced97aca62592ce078b45",
-          "md5": "3cfa8e840a088f76d5c6b130dd1b621f"
+          "size": 204425,
+          "sha512": "156dbf9482ff9517d4b6ff81a2409866cf27ec5d3be2dfed5c5f6abe484d1a190f3b7550a601ccaba49d9b6b07b8c10bd1335f86143735d692b2fb1be8a42aff",
+          "sha256": "3e6ea06d3a5771e4a4d811aa47e7548be1fd881bc3194152a5308cd92e61bee5",
+          "sha1": "8a28d859dd78461b43f282da0a36d010d6f7bf72",
+          "md5": "0655bc4a3daa93b1e13d03268e62fe0c"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "libGPersistUtils-1.0.aar",
           "url": "libGPersistUtils-1.0.aar",
-          "size": 201852,
-          "sha512": "f9a914da1a810b2f2d57d1f226fd0a987e024b819d430df2f9c88090e047a76fd04d80adceb01b989b3627c66ad768040225cf697f5a8bf6c5b6868efe8684c4",
-          "sha256": "0d1666881a4498a77e2c72148ed37e9e833a10c9811f3eb8ef3d34a346385753",
-          "sha1": "937ac2e19c277858c9fced97aca62592ce078b45",
-          "md5": "3cfa8e840a088f76d5c6b130dd1b621f"
+          "size": 204425,
+          "sha512": "156dbf9482ff9517d4b6ff81a2409866cf27ec5d3be2dfed5c5f6abe484d1a190f3b7550a601ccaba49d9b6b07b8c10bd1335f86143735d692b2fb1be8a42aff",
+          "sha256": "3e6ea06d3a5771e4a4d811aa47e7548be1fd881bc3194152a5308cd92e61bee5",
+          "sha1": "8a28d859dd78461b43f282da0a36d010d6f7bf72",
+          "md5": "0655bc4a3daa93b1e13d03268e62fe0c"
         }
       ]
     }

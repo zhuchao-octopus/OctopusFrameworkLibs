@@ -26,11 +26,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 50880063,
-          "sha512": "e003dc35a468b6143ebc0628f618dda4972f294eba3c6ef6cb1ec8081c6ea5b2381bde49e0069d3fadf2f111fe8117bbd13e0b35d8331af61c1545b106aa561b",
-          "sha256": "0d430f9ce2b0e6649681f4e13ec5fb3a3c7b9dba030d29e3ae4349e50a1dc253",
-          "sha1": "88b85d05c19e116fc42e13cdc30e30817988c83a",
-          "md5": "a7f70956fdce894fc9c15902e33a3271"
+          "size": 50880224,
+          "sha512": "46218101d6c0f2f4b6bad2b3e1064748fcdd5f39119ed411771a7578db4c633cc03b30272efe9759b7abd30e3603ce7397d8e6ec5d9b6a2a2ac85724d6de4481",
+          "sha256": "ced310bb23f9757966e37492968a1ed0e08290191e20f3de6abba6476c1fcc88",
+          "sha1": "7053a84a0d177fd16533d147f829160ab45f25be",
+          "md5": "6ca407fd377d3baadb85e9630602cddf"
         }
       ]
     },
@@ -90,11 +90,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 50880063,
-          "sha512": "e003dc35a468b6143ebc0628f618dda4972f294eba3c6ef6cb1ec8081c6ea5b2381bde49e0069d3fadf2f111fe8117bbd13e0b35d8331af61c1545b106aa561b",
-          "sha256": "0d430f9ce2b0e6649681f4e13ec5fb3a3c7b9dba030d29e3ae4349e50a1dc253",
-          "sha1": "88b85d05c19e116fc42e13cdc30e30817988c83a",
-          "md5": "a7f70956fdce894fc9c15902e33a3271"
+          "size": 50880224,
+          "sha512": "46218101d6c0f2f4b6bad2b3e1064748fcdd5f39119ed411771a7578db4c633cc03b30272efe9759b7abd30e3603ce7397d8e6ec5d9b6a2a2ac85724d6de4481",
+          "sha256": "ced310bb23f9757966e37492968a1ed0e08290191e20f3de6abba6476c1fcc88",
+          "sha1": "7053a84a0d177fd16533d147f829160ab45f25be",
+          "md5": "6ca407fd377d3baadb85e9630602cddf"
         }
       ]
     }

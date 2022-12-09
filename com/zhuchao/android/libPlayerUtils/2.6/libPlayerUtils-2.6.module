@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 212746,
-          "sha512": "f3126a6b6576ee4490fc3dafefc28cca982845e854a202935139f849fb9e54409db6d0d9d13bd546761f592c83db25ec2932621b383ed085eb911f280bbe7016",
-          "sha256": "1024fdd107c5dc06cfd732bb3c4e127e6f59106edd108cf0a508802a3bb47cb4",
-          "sha1": "449e5997b081eab363d086d018007bc163ff3537",
-          "md5": "120b34992edf7882c53271887b1b339a"
+          "size": 213097,
+          "sha512": "19d78e7f1fe24918dd4028b85463d9e4d700fea171999ce6d59a12c368dc12c6d9b9d66392c1b3004814e13124529cb6b1df690c0c144bd295702528242744ad",
+          "sha256": "8092bee2e6fd3af909e7291089b0f5bde47edbe96dcc9a2f6a8e456671fba59f",
+          "sha1": "00d7de356f6f9002840a4d98b533e0104b281611",
+          "md5": "04324bf4f4dfd39c8f362e865024852e"
         }
       ]
     },
@@ -83,11 +83,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 212746,
-          "sha512": "f3126a6b6576ee4490fc3dafefc28cca982845e854a202935139f849fb9e54409db6d0d9d13bd546761f592c83db25ec2932621b383ed085eb911f280bbe7016",
-          "sha256": "1024fdd107c5dc06cfd732bb3c4e127e6f59106edd108cf0a508802a3bb47cb4",
-          "sha1": "449e5997b081eab363d086d018007bc163ff3537",
-          "md5": "120b34992edf7882c53271887b1b339a"
+          "size": 213097,
+          "sha512": "19d78e7f1fe24918dd4028b85463d9e4d700fea171999ce6d59a12c368dc12c6d9b9d66392c1b3004814e13124529cb6b1df690c0c144bd295702528242744ad",
+          "sha256": "8092bee2e6fd3af909e7291089b0f5bde47edbe96dcc9a2f6a8e456671fba59f",
+          "sha1": "00d7de356f6f9002840a4d98b533e0104b281611",
+          "md5": "04324bf4f4dfd39c8f362e865024852e"
         }
       ]
     }
