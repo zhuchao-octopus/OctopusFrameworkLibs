@@ -24,13 +24,6 @@
       },
       "dependencies": [
         {
-          "group": "com.google.code.gson",
-          "module": "gson",
-          "version": {
-            "requires": "2.10"
-          }
-        },
-        {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
@@ -49,11 +42,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 46765,
-          "sha512": "cac07923db36d928abc6c34cccef793b3b201bc37575e21def84c3736dac8283e5b4947ef98faa6ad1d205cb5c607f10de8d9a3561e18b361dde101dea643166",
-          "sha256": "967bb80a56c697b54d4e6ea4802b29d3645be37dbc81dc345830aa54ca0dd278",
-          "sha1": "36ae6e7ead4006624f47fc8d3c6b4ae5954671eb",
-          "md5": "29b3576b0315cae42cfaee0a72a80117"
+          "size": 46771,
+          "sha512": "cc4e77373f5e9e22d98c3bbf2b9f590ac6c680105cdbde49e28b63351f92ae7eb06c84542d88e5b1bd5b70c6c1b0676d76af9a5df2fefbeba8ef13fac8957563",
+          "sha256": "81e18f6e9239f1df5def95591cf3a0f0163c8b687214e3e149509f5dc9eb61b4",
+          "sha1": "b26802624a016a5a7f77170cc4b87eeb75d4befb",
+          "md5": "431ab05c326eb58db585787a5f82fd5c"
         }
       ]
     },
@@ -81,13 +74,6 @@
           }
         },
         {
-          "group": "com.google.code.gson",
-          "module": "gson",
-          "version": {
-            "requires": "2.10"
-          }
-        },
-        {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
@@ -106,11 +92,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 46765,
-          "sha512": "cac07923db36d928abc6c34cccef793b3b201bc37575e21def84c3736dac8283e5b4947ef98faa6ad1d205cb5c607f10de8d9a3561e18b361dde101dea643166",
-          "sha256": "967bb80a56c697b54d4e6ea4802b29d3645be37dbc81dc345830aa54ca0dd278",
-          "sha1": "36ae6e7ead4006624f47fc8d3c6b4ae5954671eb",
-          "md5": "29b3576b0315cae42cfaee0a72a80117"
+          "size": 46771,
+          "sha512": "cc4e77373f5e9e22d98c3bbf2b9f590ac6c680105cdbde49e28b63351f92ae7eb06c84542d88e5b1bd5b70c6c1b0676d76af9a5df2fefbeba8ef13fac8957563",
+          "sha256": "81e18f6e9239f1df5def95591cf3a0f0163c8b687214e3e149509f5dc9eb61b4",
+          "sha1": "b26802624a016a5a7f77170cc4b87eeb75d4befb",
+          "md5": "431ab05c326eb58db585787a5f82fd5c"
         }
       ]
     }

@@ -29,17 +29,24 @@
           "version": {
             "requires": "1.4.0-alpha02"
           }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10"
+          }
         }
       ],
       "files": [
         {
           "name": "libFBaseUitls-1.8.aar",
           "url": "libFBaseUitls-1.8.aar",
-          "size": 88830,
-          "sha512": "d575e0f7e2e18cc6c390f527ea5ada2ecd51dad0245c8d2188757cf45a4af3d35c1041a75a40e134d6722e506ddb024853a84fe40e6dca4ca45ae095cdb55ab9",
-          "sha256": "f99470c5b21aaf319d65a60e7a16f377dd39550bc5c50da5504cfe5b5c310511",
-          "sha1": "e521412372d77a20518933e2358e160ed556d369",
-          "md5": "03b6374f13e9bb7e859d3c252bffee6c"
+          "size": 91175,
+          "sha512": "d53a769a609d02809b85ea31789bf115c99f5a7cd2d9a3ca5a7120e3aad84aab50f8ad6687cd1431634411587209811dad7c85039a75071fdd2e9dd54c325303",
+          "sha256": "4ff112881fe269920145787231ad4fd7e51b524d0e7f61d3349252b5b0da85a6",
+          "sha1": "ead8c4c6e13c06924325524f4988c1b62c36da73",
+          "md5": "b18e1e951d936f79e78a7469000089db"
         }
       ]
     },
@@ -72,17 +79,24 @@
           "version": {
             "requires": "1.4.0-alpha02"
           }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10"
+          }
         }
       ],
       "files": [
         {
           "name": "libFBaseUitls-1.8.aar",
           "url": "libFBaseUitls-1.8.aar",
-          "size": 88830,
-          "sha512": "d575e0f7e2e18cc6c390f527ea5ada2ecd51dad0245c8d2188757cf45a4af3d35c1041a75a40e134d6722e506ddb024853a84fe40e6dca4ca45ae095cdb55ab9",
-          "sha256": "f99470c5b21aaf319d65a60e7a16f377dd39550bc5c50da5504cfe5b5c310511",
-          "sha1": "e521412372d77a20518933e2358e160ed556d369",
-          "md5": "03b6374f13e9bb7e859d3c252bffee6c"
+          "size": 91175,
+          "sha512": "d53a769a609d02809b85ea31789bf115c99f5a7cd2d9a3ca5a7120e3aad84aab50f8ad6687cd1431634411587209811dad7c85039a75071fdd2e9dd54c325303",
+          "sha256": "4ff112881fe269920145787231ad4fd7e51b524d0e7f61d3349252b5b0da85a6",
+          "sha1": "ead8c4c6e13c06924325524f4988c1b62c36da73",
+          "md5": "b18e1e951d936f79e78a7469000089db"
         }
       ]
     }

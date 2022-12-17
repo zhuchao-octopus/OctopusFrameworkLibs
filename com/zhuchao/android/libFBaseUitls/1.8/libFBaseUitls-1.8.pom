@@ -19,6 +19,12 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libEventInterface</artifactId>
       <version>1.6</version>

@@ -26,11 +26,11 @@
         {
           "name": "libEventInterface-1.6.aar",
           "url": "libEventInterface-1.6.aar",
-          "size": 6038,
-          "sha512": "7cfb2d2daebcc849ffeb50af21d23276e812938aa15803cf6fd10c0768ac2204b94e86156fdb14bd88e0cdf1d145379e025599519a27e3ae8b0a8c81e060709e",
-          "sha256": "313aa0c8b933ba51cf3923e706d7f57b5ab063f50f4a0b5f7eb1d86e6b177629",
-          "sha1": "dbcb73d8e912e0d541c16c724f6bc2f355082e14",
-          "md5": "89333cdfa313a2e4c455471fc9c8df0b"
+          "size": 6105,
+          "sha512": "b1106c72e15f688d0909a10e0918a1c44092fbb1d3bca381d378e79128e2d6f7e00e05f44ea0eba343c41e16a1eb0ff3887f0324e484f0f4f73f04eb9dd6ba7c",
+          "sha256": "c0e094aae65c75f3b0b8637f790f816042cb5dde181d61965a9271f927b3ba75",
+          "sha1": "ec958783ec8553e4b14710942d8a3d7bfd8652d6",
+          "md5": "3a962ea7b28efa3f9d47df9bf6cfc47d"
         }
       ]
     },
@@ -46,11 +46,11 @@
         {
           "name": "libEventInterface-1.6.aar",
           "url": "libEventInterface-1.6.aar",
-          "size": 6038,
-          "sha512": "7cfb2d2daebcc849ffeb50af21d23276e812938aa15803cf6fd10c0768ac2204b94e86156fdb14bd88e0cdf1d145379e025599519a27e3ae8b0a8c81e060709e",
-          "sha256": "313aa0c8b933ba51cf3923e706d7f57b5ab063f50f4a0b5f7eb1d86e6b177629",
-          "sha1": "dbcb73d8e912e0d541c16c724f6bc2f355082e14",
-          "md5": "89333cdfa313a2e4c455471fc9c8df0b"
+          "size": 6105,
+          "sha512": "b1106c72e15f688d0909a10e0918a1c44092fbb1d3bca381d378e79128e2d6f7e00e05f44ea0eba343c41e16a1eb0ff3887f0324e484f0f4f73f04eb9dd6ba7c",
+          "sha256": "c0e094aae65c75f3b0b8637f790f816042cb5dde181d61965a9271f927b3ba75",
+          "sha1": "ec958783ec8553e4b14710942d8a3d7bfd8652d6",
+          "md5": "3a962ea7b28efa3f9d47df9bf6cfc47d"
         }
       ]
     }
