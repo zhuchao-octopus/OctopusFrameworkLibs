@@ -42,11 +42,11 @@
         {
           "name": "libFBaseUitls-1.8.aar",
           "url": "libFBaseUitls-1.8.aar",
-          "size": 91175,
-          "sha512": "d53a769a609d02809b85ea31789bf115c99f5a7cd2d9a3ca5a7120e3aad84aab50f8ad6687cd1431634411587209811dad7c85039a75071fdd2e9dd54c325303",
-          "sha256": "4ff112881fe269920145787231ad4fd7e51b524d0e7f61d3349252b5b0da85a6",
-          "sha1": "ead8c4c6e13c06924325524f4988c1b62c36da73",
-          "md5": "b18e1e951d936f79e78a7469000089db"
+          "size": 93350,
+          "sha512": "49b6240af878eb5a4c29540ca1e3d45680032a54763f5b731ee8af8ecee4d132482efaffe9ff7f6a605345f18893912ccb8fa21ea0578f8399d0b7d77334407f",
+          "sha256": "9849f753b95c2262ea3084e182702a2fe74176a91c761677171733c968b835b4",
+          "sha1": "000535a8ba23f4b213990f352d70dfc529fff161",
+          "md5": "ef8e7724c6a7bc87621ab229dedaf214"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "libFBaseUitls-1.8.aar",
           "url": "libFBaseUitls-1.8.aar",
-          "size": 91175,
-          "sha512": "d53a769a609d02809b85ea31789bf115c99f5a7cd2d9a3ca5a7120e3aad84aab50f8ad6687cd1431634411587209811dad7c85039a75071fdd2e9dd54c325303",
-          "sha256": "4ff112881fe269920145787231ad4fd7e51b524d0e7f61d3349252b5b0da85a6",
-          "sha1": "ead8c4c6e13c06924325524f4988c1b62c36da73",
-          "md5": "b18e1e951d936f79e78a7469000089db"
+          "size": 93350,
+          "sha512": "49b6240af878eb5a4c29540ca1e3d45680032a54763f5b731ee8af8ecee4d132482efaffe9ff7f6a605345f18893912ccb8fa21ea0578f8399d0b7d77334407f",
+          "sha256": "9849f753b95c2262ea3084e182702a2fe74176a91c761677171733c968b835b4",
+          "sha1": "000535a8ba23f4b213990f352d70dfc529fff161",
+          "md5": "ef8e7724c6a7bc87621ab229dedaf214"
         }
       ]
     }

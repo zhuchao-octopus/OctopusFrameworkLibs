@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUitls",
           "version": {
-            "requires": "1.8"
+            "requires": "1.7"
           }
         },
         {
@@ -75,7 +75,7 @@
           "group": "com.zhuchao.android",
           "module": "libJOSUtils",
           "version": {
-            "requires": "1.2"
+            "requires": "1.1"
           }
         },
         {

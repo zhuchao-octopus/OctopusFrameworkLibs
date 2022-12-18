@@ -70,7 +70,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUitls",
           "version": {
-            "requires": "1.8"
+            "requires": "1.7"
           }
         },
         {

@@ -26,11 +26,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 50880224,
-          "sha512": "46218101d6c0f2f4b6bad2b3e1064748fcdd5f39119ed411771a7578db4c633cc03b30272efe9759b7abd30e3603ce7397d8e6ec5d9b6a2a2ac85724d6de4481",
-          "sha256": "ced310bb23f9757966e37492968a1ed0e08290191e20f3de6abba6476c1fcc88",
-          "sha1": "7053a84a0d177fd16533d147f829160ab45f25be",
-          "md5": "6ca407fd377d3baadb85e9630602cddf"
+          "size": 50880556,
+          "sha512": "2fc2e6a4a6181d934f3eb0f0fcdf66903db351afd04428cc5bce9cb4258e675de1f93ddfc35753d130b8a7bb6a856462b1d451d7809d537103b1ec34dbc122dc",
+          "sha256": "6e28c1f89cc84ec5adb7550398e59ad4382344e1e4ab77f43d23547cae92cad5",
+          "sha1": "a2e9bdadfc21fd57cec4245e8c30268fa43a67f5",
+          "md5": "276120e25c2bc1445f31d004ddb53746"
         }
       ]
     },
@@ -45,13 +45,6 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libOpenComputerVision",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
           "module": "libEventInterface",
           "version": {
             "requires": "1.6"
@@ -61,7 +54,14 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUitls",
           "version": {
-            "requires": "1.8"
+            "requires": "1.7"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOpenComputerVision",
+          "version": {
+            "requires": "1.0"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 50880224,
-          "sha512": "46218101d6c0f2f4b6bad2b3e1064748fcdd5f39119ed411771a7578db4c633cc03b30272efe9759b7abd30e3603ce7397d8e6ec5d9b6a2a2ac85724d6de4481",
-          "sha256": "ced310bb23f9757966e37492968a1ed0e08290191e20f3de6abba6476c1fcc88",
-          "sha1": "7053a84a0d177fd16533d147f829160ab45f25be",
-          "md5": "6ca407fd377d3baadb85e9630602cddf"
+          "size": 50880556,
+          "sha512": "2fc2e6a4a6181d934f3eb0f0fcdf66903db351afd04428cc5bce9cb4258e675de1f93ddfc35753d130b8a7bb6a856462b1d451d7809d537103b1ec34dbc122dc",
+          "sha256": "6e28c1f89cc84ec5adb7550398e59ad4382344e1e4ab77f43d23547cae92cad5",
+          "sha1": "a2e9bdadfc21fd57cec4245e8c30268fa43a67f5",
+          "md5": "276120e25c2bc1445f31d004ddb53746"
         }
       ]
     }
