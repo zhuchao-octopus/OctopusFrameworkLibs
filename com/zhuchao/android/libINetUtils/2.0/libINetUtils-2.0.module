@@ -68,9 +68,9 @@
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFBaseUitls",
+          "module": "libFBaseUtils",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {

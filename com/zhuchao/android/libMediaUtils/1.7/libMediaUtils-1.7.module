@@ -26,11 +26,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 32715,
-          "sha512": "90b051f2fbac3e1d630528f1caa8903a7cc1de521b67b60f908ccdb712344f5af25d4889e017a2a054d1b035ce0f2b15ed6e8559e0a1819bc53a6263949dd54e",
-          "sha256": "571df4e2173060a333167487c10245b7471575c40b01a86a2212667bd8512c9c",
-          "sha1": "3b161e974092230d063b32a6a3580aecf3925048",
-          "md5": "2382920c29f91415a38dc1161975ba4c"
+          "size": 32827,
+          "sha512": "06fa98f9f5b42163c0e58778f09b9dae3cecd53f5fb9793e6310b05eba98d803712740f6681c1a2d1f433f26e8ff274e9c7bc87fe8185db7e2ae54c8a643f5f0",
+          "sha256": "97579203afbf32b4a4d50a5b74256a6decb63cabdc1a6b433d80d00f3a23dcdc",
+          "sha1": "8caa33ab842a2123ad9f8d0debb3467892610122",
+          "md5": "234eaefaf491e6d4148e24cf4d1c2dcc"
         }
       ]
     },
@@ -52,9 +52,9 @@
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFBaseUitls",
+          "module": "libFBaseUtils",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
@@ -75,7 +75,7 @@
           "group": "com.zhuchao.android",
           "module": "libJOSUtils",
           "version": {
-            "requires": "1.1"
+            "requires": "1.2"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 32715,
-          "sha512": "90b051f2fbac3e1d630528f1caa8903a7cc1de521b67b60f908ccdb712344f5af25d4889e017a2a054d1b035ce0f2b15ed6e8559e0a1819bc53a6263949dd54e",
-          "sha256": "571df4e2173060a333167487c10245b7471575c40b01a86a2212667bd8512c9c",
-          "sha1": "3b161e974092230d063b32a6a3580aecf3925048",
-          "md5": "2382920c29f91415a38dc1161975ba4c"
+          "size": 32827,
+          "sha512": "06fa98f9f5b42163c0e58778f09b9dae3cecd53f5fb9793e6310b05eba98d803712740f6681c1a2d1f433f26e8ff274e9c7bc87fe8185db7e2ae54c8a643f5f0",
+          "sha256": "97579203afbf32b4a4d50a5b74256a6decb63cabdc1a6b433d80d00f3a23dcdc",
+          "sha1": "8caa33ab842a2123ad9f8d0debb3467892610122",
+          "md5": "234eaefaf491e6d4148e24cf4d1c2dcc"
         }
       ]
     }

@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 109560,
-          "sha512": "3740eb2f012e33d90e707123ade35a7d1bfd4c70d26e8c3dc5e942beacdd2b2d2c800bdb9ea64e5a0a67ddac4c7392d54239fce3ed326226c09acac9925fdf6f",
-          "sha256": "365446baacb9a63925248e6ea46e3b1adfb4138796854fa535a1a748adcca977",
-          "sha1": "5ce23b920b30e31c75d02968ad7a2d1fc56ea111",
-          "md5": "0b6374b512b012e2fe7c15627cbf3e24"
+          "size": 109545,
+          "sha512": "a7d6d5b099daeaabae4bc43a7530c297649eb3ff6b01b211ace6cea69cad2d489a8d282708cd96323aa2586b763b0aad4ab013619c0f3f671f7434459becbaa7",
+          "sha256": "6694edd391550869c31870c5707ccf91d3ace877ae02741d9757064dc1c9e02a",
+          "sha1": "1ed66ecb45f067ed7c7a5a35659f2193d83a7f6a",
+          "md5": "6b4bb26bb36bd8d7be7e83d536d69f00"
         }
       ]
     },
@@ -52,16 +52,16 @@
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libFBaseUitls",
+          "module": "libFBaseUtils",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libJOSUtils",
           "version": {
-            "requires": "1.1"
+            "requires": "1.2"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 109560,
-          "sha512": "3740eb2f012e33d90e707123ade35a7d1bfd4c70d26e8c3dc5e942beacdd2b2d2c800bdb9ea64e5a0a67ddac4c7392d54239fce3ed326226c09acac9925fdf6f",
-          "sha256": "365446baacb9a63925248e6ea46e3b1adfb4138796854fa535a1a748adcca977",
-          "sha1": "5ce23b920b30e31c75d02968ad7a2d1fc56ea111",
-          "md5": "0b6374b512b012e2fe7c15627cbf3e24"
+          "size": 109545,
+          "sha512": "a7d6d5b099daeaabae4bc43a7530c297649eb3ff6b01b211ace6cea69cad2d489a8d282708cd96323aa2586b763b0aad4ab013619c0f3f671f7434459becbaa7",
+          "sha256": "6694edd391550869c31870c5707ccf91d3ace877ae02741d9757064dc1c9e02a",
+          "sha1": "1ed66ecb45f067ed7c7a5a35659f2193d83a7f6a",
+          "md5": "6b4bb26bb36bd8d7be7e83d536d69f00"
         }
       ]
     }

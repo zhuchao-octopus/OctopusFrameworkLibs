@@ -20,7 +20,7 @@
     </dependency>
     <dependency>
       <groupId>com.zhuchao.android</groupId>
-      <artifactId>libFBaseUitls</artifactId>
+      <artifactId>libFBaseUtils</artifactId>
       <version>1.8</version>
       <scope>runtime</scope>
     </dependency>
