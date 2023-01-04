@@ -1,0 +1,104 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFBaseUtils",
+    "version": "1.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.4.0-alpha02"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFBaseUtils-1.8.aar",
+          "url": "libFBaseUtils-1.8.aar",
+          "size": 100621,
+          "sha512": "ad29ea9a39bb9e01c0f09a2e575fe35e0203b47002f745aebec6d3f28ec12405586ce342760fbf62a9487c0f05302e7a89000653813c2fa74d4c08799b2ba509",
+          "sha256": "3f236c9f757d6d538e4726e765c7b34b699d620f6d37df9be0eee314fdddd3b6",
+          "sha1": "1b317cf8153c0adf2300d541986bbd97f945ce64",
+          "md5": "ec511cd3f988185218c2a9e7acb4d7de"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libEventInterface",
+          "version": {
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.0-alpha01"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.4.0-alpha02"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFBaseUtils-1.8.aar",
+          "url": "libFBaseUtils-1.8.aar",
+          "size": 100621,
+          "sha512": "ad29ea9a39bb9e01c0f09a2e575fe35e0203b47002f745aebec6d3f28ec12405586ce342760fbf62a9487c0f05302e7a89000653813c2fa74d4c08799b2ba509",
+          "sha256": "3f236c9f757d6d538e4726e765c7b34b699d620f6d37df9be0eee314fdddd3b6",
+          "sha1": "1b317cf8153c0adf2300d541986bbd97f945ce64",
+          "md5": "ec511cd3f988185218c2a9e7acb4d7de"
+        }
+      ]
+    }
+  ]
+}
