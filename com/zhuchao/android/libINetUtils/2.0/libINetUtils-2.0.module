@@ -34,7 +34,7 @@
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.10"
+            "requires": "5.0.0-alpha.11"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 46771,
-          "sha512": "cc4e77373f5e9e22d98c3bbf2b9f590ac6c680105cdbde49e28b63351f92ae7eb06c84542d88e5b1bd5b70c6c1b0676d76af9a5df2fefbeba8ef13fac8957563",
-          "sha256": "81e18f6e9239f1df5def95591cf3a0f0163c8b687214e3e149509f5dc9eb61b4",
-          "sha1": "b26802624a016a5a7f77170cc4b87eeb75d4befb",
-          "md5": "431ab05c326eb58db585787a5f82fd5c"
+          "size": 46789,
+          "sha512": "0567fbb834c02372a6119b3daecc5a6f04485ab8731f8f66c69a2456057e9781d39188094a10fc1ff58156b8b0f91bce273125a780a3929591525c46e00a6455",
+          "sha256": "2bd4c976276ba3bb24893201a7b5e54dbaa02a2ee03ba663a25caa792a520f2a",
+          "sha1": "13ae325a671e914565c062e951f2f28341aeb2c7",
+          "md5": "09cec0082b562eeec8bc0c23dcfa072a"
         }
       ]
     },
@@ -84,7 +84,7 @@
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.10"
+            "requires": "5.0.0-alpha.11"
           }
         }
       ],
@@ -92,11 +92,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 46771,
-          "sha512": "cc4e77373f5e9e22d98c3bbf2b9f590ac6c680105cdbde49e28b63351f92ae7eb06c84542d88e5b1bd5b70c6c1b0676d76af9a5df2fefbeba8ef13fac8957563",
-          "sha256": "81e18f6e9239f1df5def95591cf3a0f0163c8b687214e3e149509f5dc9eb61b4",
-          "sha1": "b26802624a016a5a7f77170cc4b87eeb75d4befb",
-          "md5": "431ab05c326eb58db585787a5f82fd5c"
+          "size": 46789,
+          "sha512": "0567fbb834c02372a6119b3daecc5a6f04485ab8731f8f66c69a2456057e9781d39188094a10fc1ff58156b8b0f91bce273125a780a3929591525c46e00a6455",
+          "sha256": "2bd4c976276ba3bb24893201a7b5e54dbaa02a2ee03ba663a25caa792a520f2a",
+          "sha1": "13ae325a671e914565c062e951f2f28341aeb2c7",
+          "md5": "09cec0082b562eeec8bc0c23dcfa072a"
         }
       ]
     }
