@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 109590,
-          "sha512": "e2d3a1aab5a4c2262efdcc37732c5288faa17734beb7caa1aa37d36c5134f9bb3f34a0ab08ce75049ae5bd4fa93c9805af214910839ac9b0f95092065f866223",
-          "sha256": "bda126f058e04673ba1fd60bd832226cfc3815517e72d9fff3ab2cdae03fb090",
-          "sha1": "5dd42893b637afe7aceccace2e07dac495e30e18",
-          "md5": "ff8159eda06ccafbd80641c49e1cbc59"
+          "size": 111834,
+          "sha512": "5393f473f8bdcf51d103ba8cc3d0cf77ef989a145b50329a6e5bb02d5f4d0729491db7d595b0f323fdae92b11420e8a6b6f00ded5b8cb88e864f425ae55c5f87",
+          "sha256": "8cb6a6b26a8775630c4cc6337ff7b0bbf4863a2392188bf7354235ba640116a6",
+          "sha1": "d7ec04bd26992c2cabf3cb284aba6cbfca698e6c",
+          "md5": "b85dcfad5f7b356f393ccf08936f71e1"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
           "version": {
-            "requires": "1.8"
+            "requires": "1.9"
           }
         },
         {
@@ -75,14 +75,14 @@
           "group": "com.zhuchao.android",
           "module": "libMediaUtils",
           "version": {
-            "requires": "1.7"
+            "requires": "1.8"
           }
         },
         {
           "group": "com.zhuchao.android",
           "module": "libPlayerUtils",
           "version": {
-            "requires": "2.6"
+            "requires": "2.5"
           }
         }
       ],
@@ -90,11 +90,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 109590,
-          "sha512": "e2d3a1aab5a4c2262efdcc37732c5288faa17734beb7caa1aa37d36c5134f9bb3f34a0ab08ce75049ae5bd4fa93c9805af214910839ac9b0f95092065f866223",
-          "sha256": "bda126f058e04673ba1fd60bd832226cfc3815517e72d9fff3ab2cdae03fb090",
-          "sha1": "5dd42893b637afe7aceccace2e07dac495e30e18",
-          "md5": "ff8159eda06ccafbd80641c49e1cbc59"
+          "size": 111834,
+          "sha512": "5393f473f8bdcf51d103ba8cc3d0cf77ef989a145b50329a6e5bb02d5f4d0729491db7d595b0f323fdae92b11420e8a6b6f00ded5b8cb88e864f425ae55c5f87",
+          "sha256": "8cb6a6b26a8775630c4cc6337ff7b0bbf4863a2392188bf7354235ba640116a6",
+          "sha1": "d7ec04bd26992c2cabf3cb284aba6cbfca698e6c",
+          "md5": "b85dcfad5f7b356f393ccf08936f71e1"
         }
       ]
     }

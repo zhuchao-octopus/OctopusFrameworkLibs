@@ -42,11 +42,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 46789,
-          "sha512": "0567fbb834c02372a6119b3daecc5a6f04485ab8731f8f66c69a2456057e9781d39188094a10fc1ff58156b8b0f91bce273125a780a3929591525c46e00a6455",
-          "sha256": "2bd4c976276ba3bb24893201a7b5e54dbaa02a2ee03ba663a25caa792a520f2a",
-          "sha1": "13ae325a671e914565c062e951f2f28341aeb2c7",
-          "md5": "09cec0082b562eeec8bc0c23dcfa072a"
+          "size": 47840,
+          "sha512": "03506875c67cbc3451dcaa59ffa73784350a790bf24eecdf2315d758d1e462a88128dfedddbfc8a7394dfcfb164750c3396b13e079b49a1776ddb0a467baf457",
+          "sha256": "63ae564e260f65df853e4b1ec323e34a3d073de96d0283a2c9101bb847920e3c",
+          "sha1": "228887ede0382757da6665eb071c8f14f2b496af",
+          "md5": "bb49091e81ccae21960cd0c635d1db7e"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
           "version": {
-            "requires": "1.8"
+            "requires": "1.9"
           }
         },
         {
@@ -92,11 +92,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 46789,
-          "sha512": "0567fbb834c02372a6119b3daecc5a6f04485ab8731f8f66c69a2456057e9781d39188094a10fc1ff58156b8b0f91bce273125a780a3929591525c46e00a6455",
-          "sha256": "2bd4c976276ba3bb24893201a7b5e54dbaa02a2ee03ba663a25caa792a520f2a",
-          "sha1": "13ae325a671e914565c062e951f2f28341aeb2c7",
-          "md5": "09cec0082b562eeec8bc0c23dcfa072a"
+          "size": 47840,
+          "sha512": "03506875c67cbc3451dcaa59ffa73784350a790bf24eecdf2315d758d1e462a88128dfedddbfc8a7394dfcfb164750c3396b13e079b49a1776ddb0a467baf457",
+          "sha256": "63ae564e260f65df853e4b1ec323e34a3d073de96d0283a2c9101bb847920e3c",
+          "sha1": "228887ede0382757da6665eb071c8f14f2b496af",
+          "md5": "bb49091e81ccae21960cd0c635d1db7e"
         }
       ]
     }

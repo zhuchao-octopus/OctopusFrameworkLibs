@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.5.aar",
           "url": "libPlayerUtils-2.5.aar",
-          "size": 212758,
-          "sha512": "62661def4f1ab8559d548c7ec0d9d0c2d1933b2596a0054490b91097ef76338e12ca3992eb702725e04cb403685d5f2c4ae240dbad50d35f7bf873a5a1f79e02",
-          "sha256": "2c08596ddfc7e4b5d1954a9a3d45d24e5c86b37ddbb6da14a85b4da35cce1a28",
-          "sha1": "885b740309014b0585ca5d3bef937817b7c684d7",
-          "md5": "cc7c6988dd55fb62d069ec21d319280f"
+          "size": 214789,
+          "sha512": "bf7dcd1029478e8f5899acf703a01a37d7e42a048fa8fb52811ac1d5f13c2d855ccd209515166d9c90e26d9afda615bc8e8f156c07be1d9442a0441bc1473533",
+          "sha256": "b97bb593e98873e697948e31a0120f4463472a22009f843318239adfa441b573",
+          "sha1": "f2bf47378930ef6d512cac3108b84602e6585e10",
+          "md5": "af5380b31ef149e071de247d76161f37"
         }
       ]
     },
@@ -45,9 +45,16 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libDecodeCore",
+          "module": "libEventInterface",
           "version": {
-            "requires": "1.1"
+            "requires": "1.6"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "1.9"
           }
         },
         {
@@ -55,20 +62,6 @@
           "module": "libINetUtils",
           "version": {
             "requires": "2.0"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libCallbackEvent",
-          "version": {
-            "requires": "1.4"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libFileUtils",
-          "version": {
-            "requires": "1.7"
           }
         },
         {
@@ -83,11 +76,11 @@
         {
           "name": "libPlayerUtils-2.5.aar",
           "url": "libPlayerUtils-2.5.aar",
-          "size": 212758,
-          "sha512": "62661def4f1ab8559d548c7ec0d9d0c2d1933b2596a0054490b91097ef76338e12ca3992eb702725e04cb403685d5f2c4ae240dbad50d35f7bf873a5a1f79e02",
-          "sha256": "2c08596ddfc7e4b5d1954a9a3d45d24e5c86b37ddbb6da14a85b4da35cce1a28",
-          "sha1": "885b740309014b0585ca5d3bef937817b7c684d7",
-          "md5": "cc7c6988dd55fb62d069ec21d319280f"
+          "size": 214789,
+          "sha512": "bf7dcd1029478e8f5899acf703a01a37d7e42a048fa8fb52811ac1d5f13c2d855ccd209515166d9c90e26d9afda615bc8e8f156c07be1d9442a0441bc1473533",
+          "sha256": "b97bb593e98873e697948e31a0120f4463472a22009f843318239adfa441b573",
+          "sha1": "f2bf47378930ef6d512cac3108b84602e6585e10",
+          "md5": "af5380b31ef149e071de247d76161f37"
         }
       ]
     }

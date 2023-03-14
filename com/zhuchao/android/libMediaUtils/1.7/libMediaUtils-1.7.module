@@ -26,11 +26,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 32841,
-          "sha512": "4764c87d35f36981244f0071d409211b95de7b5754167dbd3e0e3dca816fc30110ece6d6715fed4fcf61a897d717ab4228e286c308c594ba739ae6b3164fca6b",
-          "sha256": "b5afef8026dd726aa8bca6ac6a96df8a8d24d006f6e928ab7934767a367ec4ab",
-          "sha1": "c6ca5fbf31f62545c7f257b38ea165378da77b0f",
-          "md5": "12ec7f650b5b7da213879f0050c360cc"
+          "size": 33104,
+          "sha512": "03d7d4d906afcfa2c251da80fd83f1c2bc3d80080f48d966f3d795493acc464e1cc1e48d02e464a81272e94a3622fd53521ae36bc8b373b4153b6d49d22e1c64",
+          "sha256": "56287ebb2b424fb280f0702843c70aa641478f4b31a719c9e4107ad4405a92f2",
+          "sha1": "7561cd53809d4f104ba9d1353a7933fd6a6c3a74",
+          "md5": "6872e3032b92cd99cb8f9234e909d745"
         }
       ]
     },
@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
           "version": {
-            "requires": "1.8"
+            "requires": "1.9"
           }
         },
         {
@@ -90,11 +90,11 @@
         {
           "name": "libMediaUtils-1.7.aar",
           "url": "libMediaUtils-1.7.aar",
-          "size": 32841,
-          "sha512": "4764c87d35f36981244f0071d409211b95de7b5754167dbd3e0e3dca816fc30110ece6d6715fed4fcf61a897d717ab4228e286c308c594ba739ae6b3164fca6b",
-          "sha256": "b5afef8026dd726aa8bca6ac6a96df8a8d24d006f6e928ab7934767a367ec4ab",
-          "sha1": "c6ca5fbf31f62545c7f257b38ea165378da77b0f",
-          "md5": "12ec7f650b5b7da213879f0050c360cc"
+          "size": 33104,
+          "sha512": "03d7d4d906afcfa2c251da80fd83f1c2bc3d80080f48d966f3d795493acc464e1cc1e48d02e464a81272e94a3622fd53521ae36bc8b373b4153b6d49d22e1c64",
+          "sha256": "56287ebb2b424fb280f0702843c70aa641478f4b31a719c9e4107ad4405a92f2",
+          "sha1": "7561cd53809d4f104ba9d1353a7933fd6a6c3a74",
+          "md5": "6872e3032b92cd99cb8f9234e909d745"
         }
       ]
     }
