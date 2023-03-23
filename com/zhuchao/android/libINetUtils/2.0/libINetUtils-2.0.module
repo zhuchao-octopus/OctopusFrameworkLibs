@@ -42,11 +42,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 47840,
-          "sha512": "03506875c67cbc3451dcaa59ffa73784350a790bf24eecdf2315d758d1e462a88128dfedddbfc8a7394dfcfb164750c3396b13e079b49a1776ddb0a467baf457",
-          "sha256": "63ae564e260f65df853e4b1ec323e34a3d073de96d0283a2c9101bb847920e3c",
-          "sha1": "228887ede0382757da6665eb071c8f14f2b496af",
-          "md5": "bb49091e81ccae21960cd0c635d1db7e"
+          "size": 48824,
+          "sha512": "1905d681983e009b6454d9ded4a0af576bdaaab6bc024920d1a2c1687b7361b27595239194a369925839674b459acca9a47879dd9e7b99c1c0de06c3b2e38097",
+          "sha256": "dd05f5e361e2826c35f1c69ebe261181835586f97b6d6141cc9533eabcde8f51",
+          "sha1": "74ef02f704e9b180526ccbe2aee8313a68c8689b",
+          "md5": "dd59fdb939d326a68a46191de0ecd1bf"
         }
       ]
     },
@@ -74,6 +74,13 @@
           }
         },
         {
+          "group": "com.google.firebase",
+          "module": "firebase-crashlytics-buildtools",
+          "version": {
+            "requires": "2.8.1"
+          }
+        },
+        {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
@@ -92,11 +99,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 47840,
-          "sha512": "03506875c67cbc3451dcaa59ffa73784350a790bf24eecdf2315d758d1e462a88128dfedddbfc8a7394dfcfb164750c3396b13e079b49a1776ddb0a467baf457",
-          "sha256": "63ae564e260f65df853e4b1ec323e34a3d073de96d0283a2c9101bb847920e3c",
-          "sha1": "228887ede0382757da6665eb071c8f14f2b496af",
-          "md5": "bb49091e81ccae21960cd0c635d1db7e"
+          "size": 48824,
+          "sha512": "1905d681983e009b6454d9ded4a0af576bdaaab6bc024920d1a2c1687b7361b27595239194a369925839674b459acca9a47879dd9e7b99c1c0de06c3b2e38097",
+          "sha256": "dd05f5e361e2826c35f1c69ebe261181835586f97b6d6141cc9533eabcde8f51",
+          "sha1": "74ef02f704e9b180526ccbe2aee8313a68c8689b",
+          "md5": "dd59fdb939d326a68a46191de0ecd1bf"
         }
       ]
     }
