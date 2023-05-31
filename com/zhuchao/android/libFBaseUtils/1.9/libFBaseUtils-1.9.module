@@ -36,17 +36,24 @@
           "version": {
             "requires": "2.10.1"
           }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-crashlytics-buildtools",
+          "version": {
+            "requires": "2.8.1"
+          }
         }
       ],
       "files": [
         {
           "name": "libFBaseUtils-1.9.aar",
           "url": "libFBaseUtils-1.9.aar",
-          "size": 105808,
-          "sha512": "cf62a9aa2e1d9a3cd05cd90f71abbd3aabde0652cd8c92c154843b016d3b6ad4b23ce42616ed07e072d40115d5a8018eea986fe568a0819db3a15d5c35904441",
-          "sha256": "45a4932877bf0a67a3614a51ad346f9bf861b18440f25c37aa3127d0e14d95ba",
-          "sha1": "6d79a22ae28b09c538845005ddae5d6af28de86f",
-          "md5": "b6aa74e23e98f3a85d37d505b6862ad1"
+          "size": 107250,
+          "sha512": "21b8bccde2a1237bda400f0f40ed1a29a5fe38b894cc7c9a06cd4fafd394a82bb6dff2688d2ac5c0908c16b2ef3d604a2a83744b31c2cfb53f3de3669c4bd930",
+          "sha256": "3c2fe4c46211ac5e98dcca7cb329f63b6bc0cd17bc96914387b571943b2533bd",
+          "sha1": "0363cec4545f139727315bdebc7fa954e3a7e1e0",
+          "md5": "f4ea894a2deee55d3810e933b0e52725"
         }
       ]
     },
@@ -86,17 +93,24 @@
           "version": {
             "requires": "2.10.1"
           }
+        },
+        {
+          "group": "com.google.firebase",
+          "module": "firebase-crashlytics-buildtools",
+          "version": {
+            "requires": "2.8.1"
+          }
         }
       ],
       "files": [
         {
           "name": "libFBaseUtils-1.9.aar",
           "url": "libFBaseUtils-1.9.aar",
-          "size": 105808,
-          "sha512": "cf62a9aa2e1d9a3cd05cd90f71abbd3aabde0652cd8c92c154843b016d3b6ad4b23ce42616ed07e072d40115d5a8018eea986fe568a0819db3a15d5c35904441",
-          "sha256": "45a4932877bf0a67a3614a51ad346f9bf861b18440f25c37aa3127d0e14d95ba",
-          "sha1": "6d79a22ae28b09c538845005ddae5d6af28de86f",
-          "md5": "b6aa74e23e98f3a85d37d505b6862ad1"
+          "size": 107250,
+          "sha512": "21b8bccde2a1237bda400f0f40ed1a29a5fe38b894cc7c9a06cd4fafd394a82bb6dff2688d2ac5c0908c16b2ef3d604a2a83744b31c2cfb53f3de3669c4bd930",
+          "sha256": "3c2fe4c46211ac5e98dcca7cb329f63b6bc0cd17bc96914387b571943b2533bd",
+          "sha1": "0363cec4545f139727315bdebc7fa954e3a7e1e0",
+          "md5": "f4ea894a2deee55d3810e933b0e52725"
         }
       ]
     }

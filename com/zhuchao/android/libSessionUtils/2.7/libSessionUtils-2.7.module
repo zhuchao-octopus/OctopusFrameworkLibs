@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 116267,
-          "sha512": "a690f7664027c7fe3bf654a39c12a90860eb86019a2bf5edd649c7e51b2356da59c60df40a5466a3fdc44355df859d0e22fd2343563c93a027f04a4f44603a67",
-          "sha256": "dd5ae6e576d3bfc74dbc9d9f41cc3466f674a41bc2ea1b32401071ba14dc936b",
-          "sha1": "0024de91dd3b63508fdcb0c1150d3c4d47b5bf06",
-          "md5": "00e0e843f2e4850514624c7ffd3fc7a1"
+          "size": 117551,
+          "sha512": "9498ed1cd8a3453c07cfd0244232ad6997c5e1af3b8ad10f0bd25946a290ad53b3916bf44e47db8126f2ecb1291f52f5f026401f7d520700f968ecb7081ea7a3",
+          "sha256": "58fefd94bc26f03b53b650dca1ea6b695eacd9301df8727f18753737913c3acc",
+          "sha1": "ec9545c1c5cfdf43adb2e8a4c20477f03f8acfd3",
+          "md5": "b311be3653566650be307be5d6dfbb30"
         }
       ]
     },
@@ -82,7 +82,7 @@
           "group": "com.zhuchao.android",
           "module": "libPlayerUtils",
           "version": {
-            "requires": "2.5"
+            "requires": "2.7"
           }
         }
       ],
@@ -90,11 +90,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 116267,
-          "sha512": "a690f7664027c7fe3bf654a39c12a90860eb86019a2bf5edd649c7e51b2356da59c60df40a5466a3fdc44355df859d0e22fd2343563c93a027f04a4f44603a67",
-          "sha256": "dd5ae6e576d3bfc74dbc9d9f41cc3466f674a41bc2ea1b32401071ba14dc936b",
-          "sha1": "0024de91dd3b63508fdcb0c1150d3c4d47b5bf06",
-          "md5": "00e0e843f2e4850514624c7ffd3fc7a1"
+          "size": 117551,
+          "sha512": "9498ed1cd8a3453c07cfd0244232ad6997c5e1af3b8ad10f0bd25946a290ad53b3916bf44e47db8126f2ecb1291f52f5f026401f7d520700f968ecb7081ea7a3",
+          "sha256": "58fefd94bc26f03b53b650dca1ea6b695eacd9301df8727f18753737913c3acc",
+          "sha1": "ec9545c1c5cfdf43adb2e8a4c20477f03f8acfd3",
+          "md5": "b311be3653566650be307be5d6dfbb30"
         }
       ]
     }

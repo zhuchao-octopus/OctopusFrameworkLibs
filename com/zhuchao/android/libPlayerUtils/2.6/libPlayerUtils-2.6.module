@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 213850,
-          "sha512": "8f9ff7a3b89230fe74453f6ed1482389a0628e0289998b04a2c245d9436ce0503414708697ecc37d40b3800d332ae2c5277e7d0a7e691edfed5588bd7f473c6e",
-          "sha256": "32cf4056376e52e770a20ba5a8336a3f7560bfd55f5d3a0840db017eef7e53f6",
-          "sha1": "9c49c0e023c0621cc77b07709e4e96c9df5a0ad6",
-          "md5": "c80ad17623515cc2b4cf0c4623ebe995"
+          "size": 214925,
+          "sha512": "78ea8e00a3503ae4ccb1245e2984c2c0c560130a9e6f50dcbadd58b2fb5614406dab9abf134529eec779f2db8e0dbcda7395c71096a910203e78782116284b25",
+          "sha256": "4e59508c1aa3d0076db4b603f064cc81abd52aaac058da488acc19afd7857e50",
+          "sha1": "daa31792157333c1f4e1e7e0d84a2854d3c76225",
+          "md5": "a5fa1c2885896c4c3db682769cea0b7b"
         }
       ]
     },
@@ -43,13 +43,6 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
-        {
-          "group": "com.zhuchao.android",
-          "module": "libDecodeCore",
-          "version": {
-            "requires": "1.3"
-          }
-        },
         {
           "group": "com.zhuchao.android",
           "module": "libEventInterface",
@@ -83,11 +76,11 @@
         {
           "name": "libPlayerUtils-2.6.aar",
           "url": "libPlayerUtils-2.6.aar",
-          "size": 213850,
-          "sha512": "8f9ff7a3b89230fe74453f6ed1482389a0628e0289998b04a2c245d9436ce0503414708697ecc37d40b3800d332ae2c5277e7d0a7e691edfed5588bd7f473c6e",
-          "sha256": "32cf4056376e52e770a20ba5a8336a3f7560bfd55f5d3a0840db017eef7e53f6",
-          "sha1": "9c49c0e023c0621cc77b07709e4e96c9df5a0ad6",
-          "md5": "c80ad17623515cc2b4cf0c4623ebe995"
+          "size": 214925,
+          "sha512": "78ea8e00a3503ae4ccb1245e2984c2c0c560130a9e6f50dcbadd58b2fb5614406dab9abf134529eec779f2db8e0dbcda7395c71096a910203e78782116284b25",
+          "sha256": "4e59508c1aa3d0076db4b603f064cc81abd52aaac058da488acc19afd7857e50",
+          "sha1": "daa31792157333c1f4e1e7e0d84a2854d3c76225",
+          "md5": "a5fa1c2885896c4c3db682769cea0b7b"
         }
       ]
     }

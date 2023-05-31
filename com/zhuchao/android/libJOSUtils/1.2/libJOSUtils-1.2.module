@@ -26,11 +26,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 52936,
-          "sha512": "95343534aeecd010f4a5a51371c9936d3208097031961af1fd446f82625c0bc0d356c356b35a64a9ae5e8b6c52cd554d483bf14e4f6d3a2b3cce2c6416a9ed91",
-          "sha256": "50246f073755a5693c20d666d5aee87da4c35a26d54391a6941a9173abb5cc09",
-          "sha1": "6a7702f4d1b86070e4babbbc6d69599fd6fa55e4",
-          "md5": "a55cdf03f266ce302c65920a7e1e004c"
+          "size": 55980,
+          "sha512": "a67f2a5e232d81d9ea77991167055657896e3d1c7e7f24426d699fc9075d71d7afc72594d45e70f99999ada45986672ba23068ee98440ce3b0e99ea9bc5e46db",
+          "sha256": "8453890cfbe9731a4a92e5f28e0b3f7565f8cc6dc31dfec00d42499a75a80bfd",
+          "sha1": "d1a7afdb4f9b485febe88ddc90b6a64116950b3e",
+          "md5": "36f081a0c439b92d498f474a652eaaec"
         }
       ]
     },
@@ -56,17 +56,24 @@
           "version": {
             "requires": "1.9"
           }
+        },
+        {
+          "group": "com.google.android.things",
+          "module": "androidthings",
+          "version": {
+            "requires": "1.0"
+          }
         }
       ],
       "files": [
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 52936,
-          "sha512": "95343534aeecd010f4a5a51371c9936d3208097031961af1fd446f82625c0bc0d356c356b35a64a9ae5e8b6c52cd554d483bf14e4f6d3a2b3cce2c6416a9ed91",
-          "sha256": "50246f073755a5693c20d666d5aee87da4c35a26d54391a6941a9173abb5cc09",
-          "sha1": "6a7702f4d1b86070e4babbbc6d69599fd6fa55e4",
-          "md5": "a55cdf03f266ce302c65920a7e1e004c"
+          "size": 55980,
+          "sha512": "a67f2a5e232d81d9ea77991167055657896e3d1c7e7f24426d699fc9075d71d7afc72594d45e70f99999ada45986672ba23068ee98440ce3b0e99ea9bc5e46db",
+          "sha256": "8453890cfbe9731a4a92e5f28e0b3f7565f8cc6dc31dfec00d42499a75a80bfd",
+          "sha1": "d1a7afdb4f9b485febe88ddc90b6a64116950b3e",
+          "md5": "36f081a0c439b92d498f474a652eaaec"
         }
       ]
     }

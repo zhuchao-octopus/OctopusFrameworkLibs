@@ -82,7 +82,7 @@
           "group": "com.zhuchao.android",
           "module": "libPlayerUtils",
           "version": {
-            "requires": "2.5"
+            "requires": "2.7"
           }
         }
       ],

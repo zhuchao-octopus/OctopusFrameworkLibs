@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.7.aar",
           "url": "libPlayerUtils-2.7.aar",
-          "size": 214078,
-          "sha512": "c87fbd1817a1aadba7279d174f9e066a64540549af0b94de552200f4ffca0a58f5281bbcabcfc3b5282be93355457e050741794571487caad958caba0b50a115",
-          "sha256": "d9015224da1a84374defe9f2c32b71c5406f509ae2f55c91cb3d5cb98222bfbe",
-          "sha1": "98203eb152970cd2a09afbf784b2775666a7824a",
-          "md5": "a645c08660bd4b16b42201efa2d44df9"
+          "size": 214968,
+          "sha512": "f2567a7d9e4c129f977f460ebf410a7a5025d4be917fb6c6ea5b1f186c9d4e6a71eaa573817c543d84a9e72c017f6181635265736904576c816a5a4c6e0c6a0d",
+          "sha256": "9e61cd0853cf72cbc67cc1b8d42435f5e191e8735df8b2511106475693da6adf",
+          "sha1": "b7dae9659cb5fb8c730553ecee8f2b8d524d2999",
+          "md5": "1f7835e37b91f0c9838c82328fcb46d1"
         }
       ]
     },
@@ -43,20 +43,6 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
-        {
-          "group": "org.videolan.android",
-          "module": "libvlc-all",
-          "version": {
-            "requires": "4.0.0-eap8"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libDecodeCore",
-          "version": {
-            "requires": "1.3"
-          }
-        },
         {
           "group": "com.zhuchao.android",
           "module": "libEventInterface",
@@ -90,11 +76,11 @@
         {
           "name": "libPlayerUtils-2.7.aar",
           "url": "libPlayerUtils-2.7.aar",
-          "size": 214078,
-          "sha512": "c87fbd1817a1aadba7279d174f9e066a64540549af0b94de552200f4ffca0a58f5281bbcabcfc3b5282be93355457e050741794571487caad958caba0b50a115",
-          "sha256": "d9015224da1a84374defe9f2c32b71c5406f509ae2f55c91cb3d5cb98222bfbe",
-          "sha1": "98203eb152970cd2a09afbf784b2775666a7824a",
-          "md5": "a645c08660bd4b16b42201efa2d44df9"
+          "size": 214968,
+          "sha512": "f2567a7d9e4c129f977f460ebf410a7a5025d4be917fb6c6ea5b1f186c9d4e6a71eaa573817c543d84a9e72c017f6181635265736904576c816a5a4c6e0c6a0d",
+          "sha256": "9e61cd0853cf72cbc67cc1b8d42435f5e191e8735df8b2511106475693da6adf",
+          "sha1": "b7dae9659cb5fb8c730553ecee8f2b8d524d2999",
+          "md5": "1f7835e37b91f0c9838c82328fcb46d1"
         }
       ]
     }

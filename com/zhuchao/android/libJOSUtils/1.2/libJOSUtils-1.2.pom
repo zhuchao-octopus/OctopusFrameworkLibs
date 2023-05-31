@@ -24,5 +24,11 @@
       <version>1.9</version>
       <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>com.google.android.things</groupId>
+      <artifactId>androidthings</artifactId>
+      <version>1.0</version>
+      <scope>runtime</scope>
+    </dependency>
   </dependencies>
 </project>

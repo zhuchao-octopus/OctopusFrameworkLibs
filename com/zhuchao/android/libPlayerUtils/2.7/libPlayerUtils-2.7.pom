@@ -13,18 +13,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>org.videolan.android</groupId>
-      <artifactId>libvlc-all</artifactId>
-      <version>4.0.0-eap8</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.zhuchao.android</groupId>
-      <artifactId>libDecodeCore</artifactId>
-      <version>1.3</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
       <groupId>com.zhuchao.android</groupId>
       <artifactId>libEventInterface</artifactId>
       <version>1.6</version>
