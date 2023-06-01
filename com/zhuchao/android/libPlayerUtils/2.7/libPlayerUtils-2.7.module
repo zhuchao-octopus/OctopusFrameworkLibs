@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.6"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.7.aar",
           "url": "libPlayerUtils-2.7.aar",
-          "size": 214985,
-          "sha512": "8ff542c678b9ffca1fe9c0ea70a68ee800e39e6276abe0ae429ad325a752e29907fe9ef6f9e1331f45a2e7ef10f91a4d27d4d248a1e56489c0e55b5813241440",
-          "sha256": "05a2d74ea3dd7b3a2ea493be0149b79733b2097d6ab15d52777901f656f9d8be",
-          "sha1": "ca2e8c36190bda3537d5a22cf7c56c3b532f3b8b",
-          "md5": "53143101802efc723d1005c046ed85f0"
+          "size": 202268,
+          "sha512": "830eab93e4e9b8ce2c7c0390ce950cd5a136fc8e2a085c9c3429da1bc15d7616c46f2fe9cea9b7cbbff6ec29fba4e811382af68af2451f31be047883b092e089",
+          "sha256": "43d822fe2f8dfbc1260acbf209af0733849bacb1de56969b51f31c7f6fd09635",
+          "sha1": "50f3435281fa0c12fe39ddb5c565882eea47cede",
+          "md5": "6d49f12d05c69a6ab5d966f329afb036"
         }
       ]
     },
@@ -69,11 +69,51 @@
         {
           "name": "libPlayerUtils-2.7.aar",
           "url": "libPlayerUtils-2.7.aar",
-          "size": 214985,
-          "sha512": "8ff542c678b9ffca1fe9c0ea70a68ee800e39e6276abe0ae429ad325a752e29907fe9ef6f9e1331f45a2e7ef10f91a4d27d4d248a1e56489c0e55b5813241440",
-          "sha256": "05a2d74ea3dd7b3a2ea493be0149b79733b2097d6ab15d52777901f656f9d8be",
-          "sha1": "ca2e8c36190bda3537d5a22cf7c56c3b532f3b8b",
-          "md5": "53143101802efc723d1005c046ed85f0"
+          "size": 202268,
+          "sha512": "830eab93e4e9b8ce2c7c0390ce950cd5a136fc8e2a085c9c3429da1bc15d7616c46f2fe9cea9b7cbbff6ec29fba4e811382af68af2451f31be047883b092e089",
+          "sha256": "43d822fe2f8dfbc1260acbf209af0733849bacb1de56969b51f31c7f6fd09635",
+          "sha1": "50f3435281fa0c12fe39ddb5c565882eea47cede",
+          "md5": "6d49f12d05c69a6ab5d966f329afb036"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libPlayerUtils-2.7-sources.jar",
+          "url": "libPlayerUtils-2.7-sources.jar",
+          "size": 17832,
+          "sha512": "bedb1503172e30208e0f49dbbb033aaf26f776d82538a77c34acd8072cb24a342258932e2522c0e483372acd097f59d57be35f09bf58c015d5be8ed8696b223c",
+          "sha256": "ffdbd06e9594dd27d5ed917e7994c2c01ae480bb1285d62336205c25c2c22d05",
+          "sha1": "61fb434839d2d1b4b685b924c7bcecdc2173e8ea",
+          "md5": "d057e0e01d9b6ef3419e9313d6bb3db5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libPlayerUtils-2.7-javadoc.jar",
+          "url": "libPlayerUtils-2.7-javadoc.jar",
+          "size": 346509,
+          "sha512": "0447387a70822ebf6153be1c627c3d38e4db07eb994bae93fd223565957bce8aac7c9a104c8b34d0b8f7502ebc9fc3c7325fbb4cb1181b14d688331265ef96d9",
+          "sha256": "55c8579f8235a4679c2275bf3bfbf93a574faba2804354e3926d7dacd0f16e0a",
+          "sha1": "e481b445c1f2b38093382cd61735adaf69ee655a",
+          "md5": "7ba1dcbd188f523fac571c31ebc23890"
         }
       ]
     }

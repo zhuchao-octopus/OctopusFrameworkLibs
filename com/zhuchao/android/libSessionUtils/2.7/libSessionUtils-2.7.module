@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.6"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 117626,
-          "sha512": "11406d4ba5ee19e300ec0d088ac9e78d18672d329ddb4b9a0657957dbc0357625e204056ae9a88f381b97b747ae1011ba3688ba6fcd92088c2f86b00227a7228",
-          "sha256": "029f1209835ccdc7f70d7d3c9673b7bcb161523215d6147505d932b9e7828324",
-          "sha1": "14993b412b48acec837d56a53aded9a6744a21e5",
-          "md5": "31aeaa74f7b2ab50115ab0539105d79c"
+          "size": 104716,
+          "sha512": "5d145173f90867b07172f8e8324b2241e9faf7d2cf9bd4af2684bb37079f971dfad893377079a4f335988a78ee6bbcdd5e9e42505184f00866dffb03289e6e04",
+          "sha256": "fa05981dbb476258542123b3b8e9e8d087bd5257463a8fdad65497d67162fa7a",
+          "sha1": "25a159c388a0749f9a5d6db0d31033744a395968",
+          "md5": "34f949e7f93b457a1af6e791928052a6"
         }
       ]
     },
@@ -83,11 +83,51 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 117626,
-          "sha512": "11406d4ba5ee19e300ec0d088ac9e78d18672d329ddb4b9a0657957dbc0357625e204056ae9a88f381b97b747ae1011ba3688ba6fcd92088c2f86b00227a7228",
-          "sha256": "029f1209835ccdc7f70d7d3c9673b7bcb161523215d6147505d932b9e7828324",
-          "sha1": "14993b412b48acec837d56a53aded9a6744a21e5",
-          "md5": "31aeaa74f7b2ab50115ab0539105d79c"
+          "size": 104716,
+          "sha512": "5d145173f90867b07172f8e8324b2241e9faf7d2cf9bd4af2684bb37079f971dfad893377079a4f335988a78ee6bbcdd5e9e42505184f00866dffb03289e6e04",
+          "sha256": "fa05981dbb476258542123b3b8e9e8d087bd5257463a8fdad65497d67162fa7a",
+          "sha1": "25a159c388a0749f9a5d6db0d31033744a395968",
+          "md5": "34f949e7f93b457a1af6e791928052a6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.7-sources.jar",
+          "url": "libSessionUtils-2.7-sources.jar",
+          "size": 39785,
+          "sha512": "d5751e5b409e2a700b5b85237b3b136720d6289181f263888be475c8b0fbef229e1591323effcf70d72bac5b9739dcc101e95e337a51a728e4b24fd0320eb113",
+          "sha256": "865914f667df882d0540e579af5dc8c41737cdbb78f94fcb12656bf2d7ccaede",
+          "sha1": "498c1a994788bd2fffc0d301242ae5a4e8b722db",
+          "md5": "755f5042344c35421b943c01d7557e03"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.7-javadoc.jar",
+          "url": "libSessionUtils-2.7-javadoc.jar",
+          "size": 381106,
+          "sha512": "c0911ddeccbace0ee047ea9b457376c719ccef390dcbd43198b2e7eb8bec4de4b6e07b60b637023586ad670382ee0f82ec48a548cdbafec58cd6918b3eadbebf",
+          "sha256": "471914ba6003f750d534adfc585a8191ab599b9d025f488197ff35d0ec82e2c4",
+          "sha1": "54eec3be85c5af8b3df24f538a93876088212409",
+          "md5": "74964a45881aae27c824edb42aef98f4"
         }
       ]
     }
