@@ -75,7 +75,7 @@
           "group": "com.zhuchao.android",
           "module": "libJOSUtils",
           "version": {
-            "requires": "1.2"
+            "requires": "1.3"
           }
         },
         {
