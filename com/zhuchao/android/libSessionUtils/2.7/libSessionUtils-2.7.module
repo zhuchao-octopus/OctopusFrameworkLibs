@@ -47,7 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
           "version": {
-            "requires": "1.9"
+            "requires": "2.0"
           }
         },
         {
@@ -123,11 +123,11 @@
         {
           "name": "libSessionUtils-2.7-javadoc.jar",
           "url": "libSessionUtils-2.7-javadoc.jar",
-          "size": 381106,
-          "sha512": "c0911ddeccbace0ee047ea9b457376c719ccef390dcbd43198b2e7eb8bec4de4b6e07b60b637023586ad670382ee0f82ec48a548cdbafec58cd6918b3eadbebf",
-          "sha256": "471914ba6003f750d534adfc585a8191ab599b9d025f488197ff35d0ec82e2c4",
-          "sha1": "54eec3be85c5af8b3df24f538a93876088212409",
-          "md5": "74964a45881aae27c824edb42aef98f4"
+          "size": 381100,
+          "sha512": "c88850f4d4c707c06fa4a09f9332c02d809d03df23b2df8bb6a60109c1e90a31a7bec8fa041b2a8bc2334d1995faeb6e1ea7638f4ba08f65f4fe57e95c80a109",
+          "sha256": "bf855f016de81d0786194efb70046f2772e5b50ff50cb285e3dc2c0a4c31b10d",
+          "sha1": "b5b29f9a788b47a4b905d2bae7079c94de6b30c9",
+          "md5": "7b5e7ec7344b5259322ed13f7aefff1c"
         }
       ]
     }

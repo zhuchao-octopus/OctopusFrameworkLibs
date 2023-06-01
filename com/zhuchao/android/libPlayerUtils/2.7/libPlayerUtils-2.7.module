@@ -47,7 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
           "version": {
-            "requires": "1.9"
+            "requires": "2.0"
           }
         },
         {
