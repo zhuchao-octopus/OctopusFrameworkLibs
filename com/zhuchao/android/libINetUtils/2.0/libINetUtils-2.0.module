@@ -42,11 +42,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 49002,
-          "sha512": "7aea28c89a31d261ba155dd24e246dce540678e4a45bbc0f4fa6c4f33cbb08a09767908e2fc8972d292bc2e6e4876a12698e076228ea411b83fc0751164be172",
-          "sha256": "3f417003cf42228bd203119dcc4cd85f68f09bbd40cfc0026ba15ae26624fb09",
-          "sha1": "9a6e75468ff031492e778183ebc955eb742e717c",
-          "md5": "eaa6e18741821aab36bb317b55036961"
+          "size": 49044,
+          "sha512": "2ef862e450acdc6237318529c19753904ab7dc0b511657a70af9fc50e9cc9a37e1e447df557b699099fbcab7dd5bee1ef11c5e7b1ead27af8e232bcd354a368b",
+          "sha256": "bd8de57d954053280986010d02b4814ba74d0cf8efc2fe85af10dffc4c75643e",
+          "sha1": "f77c75a73e30f976426810833c9efbe41bad3a6a",
+          "md5": "b248a0de149c5f8500766ebdd81cf714"
         }
       ]
     },
@@ -59,13 +59,6 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
-        {
-          "group": "com.zhuchao.android",
-          "module": "libEventInterface",
-          "version": {
-            "requires": "1.6"
-          }
-        },
         {
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
@@ -99,11 +92,11 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 49002,
-          "sha512": "7aea28c89a31d261ba155dd24e246dce540678e4a45bbc0f4fa6c4f33cbb08a09767908e2fc8972d292bc2e6e4876a12698e076228ea411b83fc0751164be172",
-          "sha256": "3f417003cf42228bd203119dcc4cd85f68f09bbd40cfc0026ba15ae26624fb09",
-          "sha1": "9a6e75468ff031492e778183ebc955eb742e717c",
-          "md5": "eaa6e18741821aab36bb317b55036961"
+          "size": 49044,
+          "sha512": "2ef862e450acdc6237318529c19753904ab7dc0b511657a70af9fc50e9cc9a37e1e447df557b699099fbcab7dd5bee1ef11c5e7b1ead27af8e232bcd354a368b",
+          "sha256": "bd8de57d954053280986010d02b4814ba74d0cf8efc2fe85af10dffc4c75643e",
+          "sha1": "f77c75a73e30f976426810833c9efbe41bad3a6a",
+          "md5": "b248a0de149c5f8500766ebdd81cf714"
         }
       ]
     }

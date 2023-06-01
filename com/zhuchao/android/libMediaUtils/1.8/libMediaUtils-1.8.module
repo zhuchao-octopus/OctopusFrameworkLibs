@@ -26,11 +26,11 @@
         {
           "name": "libMediaUtils-1.8.aar",
           "url": "libMediaUtils-1.8.aar",
-          "size": 33648,
-          "sha512": "3ae853ef33cfc19f8a98a3c5c9608029abc85ad3982e992fd410ba96f3cd56195fabffdbb1e5f928c33a2efe8cafeb2493f4310d14b8e49021d0d442145d4989",
-          "sha256": "50796e026be00caca39e61de137a3239b584958b8d7999ef400bdd53db94194e",
-          "sha1": "f1877cebc98a258175c32d5dc5fcfac5ed9fcde5",
-          "md5": "7e304f78ff597c1a752215fc501f6472"
+          "size": 33654,
+          "sha512": "e44702c82c7b70597742b6d935f1fe1a6ac1748e96094d4df00aa0605200f3321fb9850775d6166095c8f75aef01e60a90c80627db4f8a3662e7c3a71c374761",
+          "sha256": "2d8db1b9e3474515baf06990da5f5d5279edc3a69579785d7f0e42e4a624dde6",
+          "sha1": "1bcb2b7d59b7a9272bd2c0666e953e934fc84315",
+          "md5": "93b78869a70ba30a7e8ad6ca44f6b97e"
         }
       ]
     },
@@ -43,13 +43,6 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
-        {
-          "group": "com.zhuchao.android",
-          "module": "libEventInterface",
-          "version": {
-            "requires": "1.6"
-          }
-        },
         {
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
@@ -90,11 +83,11 @@
         {
           "name": "libMediaUtils-1.8.aar",
           "url": "libMediaUtils-1.8.aar",
-          "size": 33648,
-          "sha512": "3ae853ef33cfc19f8a98a3c5c9608029abc85ad3982e992fd410ba96f3cd56195fabffdbb1e5f928c33a2efe8cafeb2493f4310d14b8e49021d0d442145d4989",
-          "sha256": "50796e026be00caca39e61de137a3239b584958b8d7999ef400bdd53db94194e",
-          "sha1": "f1877cebc98a258175c32d5dc5fcfac5ed9fcde5",
-          "md5": "7e304f78ff597c1a752215fc501f6472"
+          "size": 33654,
+          "sha512": "e44702c82c7b70597742b6d935f1fe1a6ac1748e96094d4df00aa0605200f3321fb9850775d6166095c8f75aef01e60a90c80627db4f8a3662e7c3a71c374761",
+          "sha256": "2d8db1b9e3474515baf06990da5f5d5279edc3a69579785d7f0e42e4a624dde6",
+          "sha1": "1bcb2b7d59b7a9272bd2c0666e953e934fc84315",
+          "md5": "93b78869a70ba30a7e8ad6ca44f6b97e"
         }
       ]
     }

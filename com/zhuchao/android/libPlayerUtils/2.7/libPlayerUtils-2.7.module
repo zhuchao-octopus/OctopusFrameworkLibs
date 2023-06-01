@@ -26,11 +26,11 @@
         {
           "name": "libPlayerUtils-2.7.aar",
           "url": "libPlayerUtils-2.7.aar",
-          "size": 214968,
-          "sha512": "f2567a7d9e4c129f977f460ebf410a7a5025d4be917fb6c6ea5b1f186c9d4e6a71eaa573817c543d84a9e72c017f6181635265736904576c816a5a4c6e0c6a0d",
-          "sha256": "9e61cd0853cf72cbc67cc1b8d42435f5e191e8735df8b2511106475693da6adf",
-          "sha1": "b7dae9659cb5fb8c730553ecee8f2b8d524d2999",
-          "md5": "1f7835e37b91f0c9838c82328fcb46d1"
+          "size": 214985,
+          "sha512": "8ff542c678b9ffca1fe9c0ea70a68ee800e39e6276abe0ae429ad325a752e29907fe9ef6f9e1331f45a2e7ef10f91a4d27d4d248a1e56489c0e55b5813241440",
+          "sha256": "05a2d74ea3dd7b3a2ea493be0149b79733b2097d6ab15d52777901f656f9d8be",
+          "sha1": "ca2e8c36190bda3537d5a22cf7c56c3b532f3b8b",
+          "md5": "53143101802efc723d1005c046ed85f0"
         }
       ]
     },
@@ -43,13 +43,6 @@
         "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
-        {
-          "group": "com.zhuchao.android",
-          "module": "libEventInterface",
-          "version": {
-            "requires": "1.6"
-          }
-        },
         {
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
@@ -76,11 +69,11 @@
         {
           "name": "libPlayerUtils-2.7.aar",
           "url": "libPlayerUtils-2.7.aar",
-          "size": 214968,
-          "sha512": "f2567a7d9e4c129f977f460ebf410a7a5025d4be917fb6c6ea5b1f186c9d4e6a71eaa573817c543d84a9e72c017f6181635265736904576c816a5a4c6e0c6a0d",
-          "sha256": "9e61cd0853cf72cbc67cc1b8d42435f5e191e8735df8b2511106475693da6adf",
-          "sha1": "b7dae9659cb5fb8c730553ecee8f2b8d524d2999",
-          "md5": "1f7835e37b91f0c9838c82328fcb46d1"
+          "size": 214985,
+          "sha512": "8ff542c678b9ffca1fe9c0ea70a68ee800e39e6276abe0ae429ad325a752e29907fe9ef6f9e1331f45a2e7ef10f91a4d27d4d248a1e56489c0e55b5813241440",
+          "sha256": "05a2d74ea3dd7b3a2ea493be0149b79733b2097d6ab15d52777901f656f9d8be",
+          "sha1": "ca2e8c36190bda3537d5a22cf7c56c3b532f3b8b",
+          "md5": "53143101802efc723d1005c046ed85f0"
         }
       ]
     }
