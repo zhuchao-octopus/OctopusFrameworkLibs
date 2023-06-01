@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "7.6"
     }
   },
   "variants": [
@@ -49,11 +49,11 @@
         {
           "name": "libFBaseUtils-1.9.aar",
           "url": "libFBaseUtils-1.9.aar",
-          "size": 107250,
-          "sha512": "21b8bccde2a1237bda400f0f40ed1a29a5fe38b894cc7c9a06cd4fafd394a82bb6dff2688d2ac5c0908c16b2ef3d604a2a83744b31c2cfb53f3de3669c4bd930",
-          "sha256": "3c2fe4c46211ac5e98dcca7cb329f63b6bc0cd17bc96914387b571943b2533bd",
-          "sha1": "0363cec4545f139727315bdebc7fa954e3a7e1e0",
-          "md5": "f4ea894a2deee55d3810e933b0e52725"
+          "size": 111747,
+          "sha512": "0b723663a6d8a1b6d7f23f018b6ffab61fb8f18071b7b631417065c230bfb9dfc3405354dbf6d53af046fdc3e983fbb1b5a2fa5aabb0632bc85a831508c09bce",
+          "sha256": "6b1a8228c4a44475fe57b1618ef89f54416551de1452720c1e355f8a472bdc61",
+          "sha1": "38bcb237bb21f36c2aa7266ffa6c2cb6b41ad10c",
+          "md5": "539646d97f9b9f05b8025fef02e41437"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "libFBaseUtils-1.9.aar",
           "url": "libFBaseUtils-1.9.aar",
-          "size": 107250,
-          "sha512": "21b8bccde2a1237bda400f0f40ed1a29a5fe38b894cc7c9a06cd4fafd394a82bb6dff2688d2ac5c0908c16b2ef3d604a2a83744b31c2cfb53f3de3669c4bd930",
-          "sha256": "3c2fe4c46211ac5e98dcca7cb329f63b6bc0cd17bc96914387b571943b2533bd",
-          "sha1": "0363cec4545f139727315bdebc7fa954e3a7e1e0",
-          "md5": "f4ea894a2deee55d3810e933b0e52725"
+          "size": 111747,
+          "sha512": "0b723663a6d8a1b6d7f23f018b6ffab61fb8f18071b7b631417065c230bfb9dfc3405354dbf6d53af046fdc3e983fbb1b5a2fa5aabb0632bc85a831508c09bce",
+          "sha256": "6b1a8228c4a44475fe57b1618ef89f54416551de1452720c1e355f8a472bdc61",
+          "sha1": "38bcb237bb21f36c2aa7266ffa6c2cb6b41ad10c",
+          "md5": "539646d97f9b9f05b8025fef02e41437"
         }
       ]
     }

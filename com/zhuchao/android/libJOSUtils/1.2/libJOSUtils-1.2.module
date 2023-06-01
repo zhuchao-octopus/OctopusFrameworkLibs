@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "7.6"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 55980,
-          "sha512": "a67f2a5e232d81d9ea77991167055657896e3d1c7e7f24426d699fc9075d71d7afc72594d45e70f99999ada45986672ba23068ee98440ce3b0e99ea9bc5e46db",
-          "sha256": "8453890cfbe9731a4a92e5f28e0b3f7565f8cc6dc31dfec00d42499a75a80bfd",
-          "sha1": "d1a7afdb4f9b485febe88ddc90b6a64116950b3e",
-          "md5": "36f081a0c439b92d498f474a652eaaec"
+          "size": 50513,
+          "sha512": "4c27f4de204d2cf82f2f97bc0a0ab93e226727be6d132f118dd122bf94ef309f593efa4cafa7c4a659fd7a6516aca7a0ecd4264521fb2ae9cdf3944872b1782a",
+          "sha256": "8673bf432dd20b35db6e345e9a7bf0e546ac5ddd6b4d65301f94397eb27c7fc0",
+          "sha1": "e1c375e537bc65501ee2f2f6f06e46234f2f924e",
+          "md5": "41442487a776743a2e3b093a8b707c43"
         }
       ]
     },
@@ -69,11 +69,11 @@
         {
           "name": "libJOSUtils-1.2.aar",
           "url": "libJOSUtils-1.2.aar",
-          "size": 55980,
-          "sha512": "a67f2a5e232d81d9ea77991167055657896e3d1c7e7f24426d699fc9075d71d7afc72594d45e70f99999ada45986672ba23068ee98440ce3b0e99ea9bc5e46db",
-          "sha256": "8453890cfbe9731a4a92e5f28e0b3f7565f8cc6dc31dfec00d42499a75a80bfd",
-          "sha1": "d1a7afdb4f9b485febe88ddc90b6a64116950b3e",
-          "md5": "36f081a0c439b92d498f474a652eaaec"
+          "size": 50513,
+          "sha512": "4c27f4de204d2cf82f2f97bc0a0ab93e226727be6d132f118dd122bf94ef309f593efa4cafa7c4a659fd7a6516aca7a0ecd4264521fb2ae9cdf3944872b1782a",
+          "sha256": "8673bf432dd20b35db6e345e9a7bf0e546ac5ddd6b4d65301f94397eb27c7fc0",
+          "sha1": "e1c375e537bc65501ee2f2f6f06e46234f2f924e",
+          "md5": "41442487a776743a2e3b093a8b707c43"
         }
       ]
     }
