@@ -69,7 +69,7 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "5.0.0-alpha.8"
+            "requires": "5.0.0-alpha.11"
           }
         },
         {
@@ -147,7 +147,7 @@
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "5.0.0-alpha.8"
+            "requires": "5.0.0-alpha.11"
           }
         },
         {
