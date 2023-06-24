@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.6"
+      "version": "8.0"
     }
   },
   "variants": [
@@ -22,31 +22,15 @@
         "org.gradle.libraryelements": "aar",
         "org.gradle.usage": "java-api"
       },
-      "dependencies": [
-        {
-          "group": "com.squareup.okhttp3",
-          "module": "okhttp",
-          "version": {
-            "requires": "5.0.0-alpha.8"
-          }
-        },
-        {
-          "group": "com.squareup.okhttp3",
-          "module": "logging-interceptor",
-          "version": {
-            "requires": "5.0.0-alpha.11"
-          }
-        }
-      ],
       "files": [
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 49044,
-          "sha512": "2ef862e450acdc6237318529c19753904ab7dc0b511657a70af9fc50e9cc9a37e1e447df557b699099fbcab7dd5bee1ef11c5e7b1ead27af8e232bcd354a368b",
-          "sha256": "bd8de57d954053280986010d02b4814ba74d0cf8efc2fe85af10dffc4c75643e",
-          "sha1": "f77c75a73e30f976426810833c9efbe41bad3a6a",
-          "md5": "b248a0de149c5f8500766ebdd81cf714"
+          "size": 37479,
+          "sha512": "9e317bcf3651ccc2997f97f61500fd921c0af0449ef68d3140c03320884d0ec1f398b760f5b30bbfa37eed8b9f28742a03099388ef189615a4e6f5e561e59a82",
+          "sha256": "c504bd0f072071a5f15f42da9f1c8c08240d1d6619d18e887805497fb52552c1",
+          "sha1": "c4593a755b5861b0004a11334f47b2da14e016aa",
+          "md5": "edf785e9a1bb5a728aa1f8a426cff05d"
         }
       ]
     },
@@ -63,28 +47,7 @@
           "group": "com.zhuchao.android",
           "module": "libFBaseUtils",
           "version": {
-            "requires": "1.9"
-          }
-        },
-        {
-          "group": "com.google.firebase",
-          "module": "firebase-crashlytics-buildtools",
-          "version": {
-            "requires": "2.8.1"
-          }
-        },
-        {
-          "group": "com.squareup.okhttp3",
-          "module": "okhttp",
-          "version": {
-            "requires": "5.0.0-alpha.8"
-          }
-        },
-        {
-          "group": "com.squareup.okhttp3",
-          "module": "logging-interceptor",
-          "version": {
-            "requires": "5.0.0-alpha.11"
+            "requires": "2.0"
           }
         }
       ],
@@ -92,11 +55,31 @@
         {
           "name": "libINetUtils-2.0.aar",
           "url": "libINetUtils-2.0.aar",
-          "size": 49044,
-          "sha512": "2ef862e450acdc6237318529c19753904ab7dc0b511657a70af9fc50e9cc9a37e1e447df557b699099fbcab7dd5bee1ef11c5e7b1ead27af8e232bcd354a368b",
-          "sha256": "bd8de57d954053280986010d02b4814ba74d0cf8efc2fe85af10dffc4c75643e",
-          "sha1": "f77c75a73e30f976426810833c9efbe41bad3a6a",
-          "md5": "b248a0de149c5f8500766ebdd81cf714"
+          "size": 37479,
+          "sha512": "9e317bcf3651ccc2997f97f61500fd921c0af0449ef68d3140c03320884d0ec1f398b760f5b30bbfa37eed8b9f28742a03099388ef189615a4e6f5e561e59a82",
+          "sha256": "c504bd0f072071a5f15f42da9f1c8c08240d1d6619d18e887805497fb52552c1",
+          "sha1": "c4593a755b5861b0004a11334f47b2da14e016aa",
+          "md5": "edf785e9a1bb5a728aa1f8a426cff05d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libINetUtils-2.0-sources.jar",
+          "url": "libINetUtils-2.0-sources.jar",
+          "size": 14696,
+          "sha512": "cfb695bdd1db6a433bcccbb6565b89a726c7c0f7af0766ae8779a7d5e119e66bb3f817862f5ad06bbb274d24fc40c7e9c168c16ce0002c0fb28fff26380007cd",
+          "sha256": "5659e87fe1fa80c5b58faedbfb09a8f9e4114794839f1f35556d97922c1c21fb",
+          "sha1": "6f619f59c7d9156de72355f0b94e5a4a1aec6297",
+          "md5": "45b4f204adf09ca9fafac54be202ed71"
         }
       ]
     }

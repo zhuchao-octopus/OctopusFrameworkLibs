@@ -84,11 +84,11 @@
         {
           "name": "libFBaseUtils-2.0.aar",
           "url": "libFBaseUtils-2.0.aar",
-          "size": 99291,
-          "sha512": "497db88ba9c0e5c05c32bb61907b7e3f3ac1025d75811892c1780dfc997942712830f0cbb5a4152f75ce384cc2af7a841d179e95739cdee9eeee8094d60626f4",
-          "sha256": "23ef580554d74482577916d7d4dcfe32c8e4e4ce3d28fc92c78ba930bcba1f1d",
-          "sha1": "dbbc9a6429cdf401e25a5af32a720bfc5c6b981e",
-          "md5": "2b1bc8c13188bbf5449146ba61b8a0c9"
+          "size": 99581,
+          "sha512": "74e7db135656c94f289b1c68a6dd7dbfdc1dac2e0bc629a4d87898230b7ad9164bc457af60444f9a434c74f4d3dd8c0d535c0c14b2d199b3423bc9e434311a95",
+          "sha256": "8ad436a90b6ef083e8eaeeefbd7881e7991ff0b0a1913d8461f32d0f753ca8ba",
+          "sha1": "86d7184f5d7af477fd17eb7d4b7124db81d65080",
+          "md5": "8dfd324d17f12a301c39ce5219965316"
         }
       ]
     },
@@ -162,11 +162,11 @@
         {
           "name": "libFBaseUtils-2.0.aar",
           "url": "libFBaseUtils-2.0.aar",
-          "size": 99291,
-          "sha512": "497db88ba9c0e5c05c32bb61907b7e3f3ac1025d75811892c1780dfc997942712830f0cbb5a4152f75ce384cc2af7a841d179e95739cdee9eeee8094d60626f4",
-          "sha256": "23ef580554d74482577916d7d4dcfe32c8e4e4ce3d28fc92c78ba930bcba1f1d",
-          "sha1": "dbbc9a6429cdf401e25a5af32a720bfc5c6b981e",
-          "md5": "2b1bc8c13188bbf5449146ba61b8a0c9"
+          "size": 99581,
+          "sha512": "74e7db135656c94f289b1c68a6dd7dbfdc1dac2e0bc629a4d87898230b7ad9164bc457af60444f9a434c74f4d3dd8c0d535c0c14b2d199b3423bc9e434311a95",
+          "sha256": "8ad436a90b6ef083e8eaeeefbd7881e7991ff0b0a1913d8461f32d0f753ca8ba",
+          "sha1": "86d7184f5d7af477fd17eb7d4b7124db81d65080",
+          "md5": "8dfd324d17f12a301c39ce5219965316"
         }
       ]
     },
@@ -182,31 +182,11 @@
         {
           "name": "libFBaseUtils-2.0-sources.jar",
           "url": "libFBaseUtils-2.0-sources.jar",
-          "size": 53956,
-          "sha512": "07184736a03144e168ed77c8eabf622f0d6848eed3a6e8003931a376d1b2a42efbf85820a6b065f77a10b9ef38b82e0dd5887702f1ca29093c814abfd57fa42b",
-          "sha256": "e0e9d9b1efdab4b2558b406fb1a7c134eb47cae7cbb0b4d3cc30652f4275ab72",
-          "sha1": "f65052ac82b6edfc9da12a32fbf1d51d4b58ba38",
-          "md5": "4e463174d20a44d1dcd56fdc10fc3099"
-        }
-      ]
-    },
-    {
-      "name": "releaseVariantReleaseJavaDocPublication",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "javadoc",
-        "org.gradle.usage": "java-runtime"
-      },
-      "files": [
-        {
-          "name": "libFBaseUtils-2.0-javadoc.jar",
-          "url": "libFBaseUtils-2.0-javadoc.jar",
-          "size": 478109,
-          "sha512": "1b7dd7dd2ee32af0fc17e891ef383ec68b938734e15490a053eba1ae27cea6e3dba5df442241994fbeb74934db6f84b3a1d5ae30d58b39b3594c16b3117cc95c",
-          "sha256": "0b853a9e8b6e6711751be3f5740a0847a9f4f189202aafd576930e989d78a471",
-          "sha1": "dc2ffd70a140a80a2cb12731a41009309304deb4",
-          "md5": "1dff875247587973877a1cc7fef1ac19"
+          "size": 54242,
+          "sha512": "d0c338f3f9da026ae5d087c55120c65e20633f943de876e5a4a0aae9d3a8b02f5348bf64b700cfb09d30b36995d6b21917cc01665b614190c1cd43499d222450",
+          "sha256": "efd3b946efae3b6c4bc1957e13e545ccfb1ebc0d5d6303835baa672485aac1b7",
+          "sha1": "4c2015f6cbb84b17640a1d97ad37f5ef2cde77a0",
+          "md5": "8f81eeb5c46ee18af12c5363b4d208e2"
         }
       ]
     }

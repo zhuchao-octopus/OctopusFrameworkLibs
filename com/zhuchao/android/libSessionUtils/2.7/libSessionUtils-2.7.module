@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 104716,
-          "sha512": "5d145173f90867b07172f8e8324b2241e9faf7d2cf9bd4af2684bb37079f971dfad893377079a4f335988a78ee6bbcdd5e9e42505184f00866dffb03289e6e04",
-          "sha256": "fa05981dbb476258542123b3b8e9e8d087bd5257463a8fdad65497d67162fa7a",
-          "sha1": "25a159c388a0749f9a5d6db0d31033744a395968",
-          "md5": "34f949e7f93b457a1af6e791928052a6"
+          "size": 105095,
+          "sha512": "6db350706c6694a8c37c6b2984dde96d01a182a1ce217523f7d2ffdcfb251019ac229215b985ef0bec6c176411218117ef268060817a65b301243265e7576dfb",
+          "sha256": "991776b9847d09cc01baea1f0f33a861de4e8122ed65fc44b14c18049bc96f68",
+          "sha1": "c59bdc9092abc17c3f985a575b6be4a6a0ea53c3",
+          "md5": "dae1bfc74187b95afca46319ed15dc7c"
         }
       ]
     },
@@ -75,7 +75,7 @@
           "group": "com.zhuchao.android",
           "module": "libPlayerUtils",
           "version": {
-            "requires": "2.7"
+            "requires": "2.8"
           }
         }
       ],
@@ -83,11 +83,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 104716,
-          "sha512": "5d145173f90867b07172f8e8324b2241e9faf7d2cf9bd4af2684bb37079f971dfad893377079a4f335988a78ee6bbcdd5e9e42505184f00866dffb03289e6e04",
-          "sha256": "fa05981dbb476258542123b3b8e9e8d087bd5257463a8fdad65497d67162fa7a",
-          "sha1": "25a159c388a0749f9a5d6db0d31033744a395968",
-          "md5": "34f949e7f93b457a1af6e791928052a6"
+          "size": 105095,
+          "sha512": "6db350706c6694a8c37c6b2984dde96d01a182a1ce217523f7d2ffdcfb251019ac229215b985ef0bec6c176411218117ef268060817a65b301243265e7576dfb",
+          "sha256": "991776b9847d09cc01baea1f0f33a861de4e8122ed65fc44b14c18049bc96f68",
+          "sha1": "c59bdc9092abc17c3f985a575b6be4a6a0ea53c3",
+          "md5": "dae1bfc74187b95afca46319ed15dc7c"
         }
       ]
     },
@@ -103,31 +103,11 @@
         {
           "name": "libSessionUtils-2.7-sources.jar",
           "url": "libSessionUtils-2.7-sources.jar",
-          "size": 39785,
-          "sha512": "d5751e5b409e2a700b5b85237b3b136720d6289181f263888be475c8b0fbef229e1591323effcf70d72bac5b9739dcc101e95e337a51a728e4b24fd0320eb113",
-          "sha256": "865914f667df882d0540e579af5dc8c41737cdbb78f94fcb12656bf2d7ccaede",
-          "sha1": "498c1a994788bd2fffc0d301242ae5a4e8b722db",
-          "md5": "755f5042344c35421b943c01d7557e03"
-        }
-      ]
-    },
-    {
-      "name": "releaseVariantReleaseJavaDocPublication",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "javadoc",
-        "org.gradle.usage": "java-runtime"
-      },
-      "files": [
-        {
-          "name": "libSessionUtils-2.7-javadoc.jar",
-          "url": "libSessionUtils-2.7-javadoc.jar",
-          "size": 381100,
-          "sha512": "c88850f4d4c707c06fa4a09f9332c02d809d03df23b2df8bb6a60109c1e90a31a7bec8fa041b2a8bc2334d1995faeb6e1ea7638f4ba08f65f4fe57e95c80a109",
-          "sha256": "bf855f016de81d0786194efb70046f2772e5b50ff50cb285e3dc2c0a4c31b10d",
-          "sha1": "b5b29f9a788b47a4b905d2bae7079c94de6b30c9",
-          "md5": "7b5e7ec7344b5259322ed13f7aefff1c"
+          "size": 40002,
+          "sha512": "414d516c96b9ea845eefbec105b8e1548412cd28e2ea7947c151e2ee5bfa5f724149d10fde0a4dff5239a41151f854727d3fb6a471b91c38db10ec04b39a2408",
+          "sha256": "1eb51cb422089b66ecf03c971e52c6662b3f862f8cde410f2b1d1eff563347e4",
+          "sha1": "4617f5156d946e1206a4f854a9c6644341c11a89",
+          "md5": "549268ef48bcaa46420d617330cb4d5d"
         }
       ]
     }
