@@ -27,14 +27,14 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.7.0"
+            "requires": "1.9.0"
           }
         },
         {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.6.0-alpha01"
+            "requires": "1.6.1"
           }
         },
         {
@@ -105,14 +105,14 @@
           "group": "androidx.core",
           "module": "core-ktx",
           "version": {
-            "requires": "1.7.0"
+            "requires": "1.9.0"
           }
         },
         {
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.6.0-alpha01"
+            "requires": "1.6.1"
           }
         },
         {

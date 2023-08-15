@@ -89,11 +89,11 @@
         {
           "name": "libPlayerUtils-2.8-sources.jar",
           "url": "libPlayerUtils-2.8-sources.jar",
-          "size": 18171,
-          "sha512": "535a4c43e4fc9dcf7a3ab69d1a84b7bbb8f9ca2e66400aca9e75c855bcd6b31c8795fb66a2167a89976cb74fe1dc977c69b2a6c26e3d1c9cd0879921287820b8",
-          "sha256": "e2d7252d8b68b71e830be4abb3ca7c57ee71bbc8fe39fd5339201ad1ef8f9e83",
-          "sha1": "0afaf46b5dc9aa68a88bda8d034f30ce8835bc11",
-          "md5": "483ae75b86f5ff10984c428292c1c9cd"
+          "size": 18231,
+          "sha512": "add16073dfc3a1581f80700ed78c70884435bdd458389754c1a6f2c41d6d3c75496e23f2ae98711db2fa568b64383e4361af2360ca0057e8879025a1bf35d751",
+          "sha256": "be05dfa981bd4dff984b901aba32ee040745ffaf8e24827c1495575f341f9604",
+          "sha1": "7a63eb3d2eb04a3cd24fd9e8b079b54bdf812621",
+          "md5": "e5d6b8a2a7d31667fda9a8c2be9e4591"
         }
       ]
     }

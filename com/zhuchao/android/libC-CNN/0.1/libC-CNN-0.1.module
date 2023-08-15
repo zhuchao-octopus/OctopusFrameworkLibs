@@ -26,11 +26,11 @@
         {
           "name": "libC-CNN-0.1.aar",
           "url": "libC-CNN-0.1.aar",
-          "size": 128969,
-          "sha512": "e888d7307b0385d0886124e396e30e97b1f1a32ee1183556169019c5d5ea7bde2b8c384919cce7d49383b67003b4c7ae93ec4f09ece27bef1bda8fa7a1aa1e89",
-          "sha256": "eba12eafc15ff00fb1652f3cb7aaeead3ee33635b7cd50f5b5475b0ff2c3dc85",
-          "sha1": "e93d2edf76a92b239a4ebff943b77e05a6fca1c2",
-          "md5": "cb50f499558af0ee0238bffbdd1a1bfd"
+          "size": 129061,
+          "sha512": "5cb90c10a472c8ae127fc33bf498b5c0edc63049ed628d314a654323c1a5fd06620bd1ab95beb8bdca3771c61d4403cf45ecdfd50b0687b7be08f3fd87aad4e1",
+          "sha256": "fa0330248b819dbfb1b53c75776f8e6ea5532f8444fd039daf57774eb2f54f9a",
+          "sha1": "12d502aa94e6e9d174c99de48b05c7f82edb4f6a",
+          "md5": "ba20a2f09ea8b90277012c149fb84dad"
         }
       ]
     },
@@ -62,11 +62,11 @@
         {
           "name": "libC-CNN-0.1.aar",
           "url": "libC-CNN-0.1.aar",
-          "size": 128969,
-          "sha512": "e888d7307b0385d0886124e396e30e97b1f1a32ee1183556169019c5d5ea7bde2b8c384919cce7d49383b67003b4c7ae93ec4f09ece27bef1bda8fa7a1aa1e89",
-          "sha256": "eba12eafc15ff00fb1652f3cb7aaeead3ee33635b7cd50f5b5475b0ff2c3dc85",
-          "sha1": "e93d2edf76a92b239a4ebff943b77e05a6fca1c2",
-          "md5": "cb50f499558af0ee0238bffbdd1a1bfd"
+          "size": 129061,
+          "sha512": "5cb90c10a472c8ae127fc33bf498b5c0edc63049ed628d314a654323c1a5fd06620bd1ab95beb8bdca3771c61d4403cf45ecdfd50b0687b7be08f3fd87aad4e1",
+          "sha256": "fa0330248b819dbfb1b53c75776f8e6ea5532f8444fd039daf57774eb2f54f9a",
+          "sha1": "12d502aa94e6e9d174c99de48b05c7f82edb4f6a",
+          "md5": "ba20a2f09ea8b90277012c149fb84dad"
         }
       ]
     },
