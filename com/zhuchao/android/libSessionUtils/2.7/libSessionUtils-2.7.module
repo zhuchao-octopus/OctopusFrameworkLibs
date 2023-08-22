@@ -26,11 +26,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 105530,
-          "sha512": "f310ad9a5530903928b9e5299a1a44a963c85c9e9f33e1e093aa86a49ebc62dddacfd5fc1559c110d8ac4470379d089ffbddf949e12cb0f290777349526006c7",
-          "sha256": "bcf538d1db8495605401fe56a0d51acdb0841bc025944586e5f43dd4ca753241",
-          "sha1": "a8c76a48978978c90a35ffa5bb69727b14abcb8f",
-          "md5": "1835f5a619f3aa306783067007a27781"
+          "size": 105663,
+          "sha512": "4fc8bc77c6baa9bd4738289cb63c4d3bf455f190a9d6a7ebaf54f58c122c64901965c2367203a7b865b5f5b6f17d14510e4fb5230201567315b2b515bb4b0f76",
+          "sha256": "56600108beb3b5b64f3819af68bd767a7ab5a78fd220bbc068118e358ec5aa9c",
+          "sha1": "2ac94476d5cc186fb96c84a795304db3df0ecad9",
+          "md5": "f547ce392427d20f639226e0e57b7ea9"
         }
       ]
     },
@@ -83,11 +83,11 @@
         {
           "name": "libSessionUtils-2.7.aar",
           "url": "libSessionUtils-2.7.aar",
-          "size": 105530,
-          "sha512": "f310ad9a5530903928b9e5299a1a44a963c85c9e9f33e1e093aa86a49ebc62dddacfd5fc1559c110d8ac4470379d089ffbddf949e12cb0f290777349526006c7",
-          "sha256": "bcf538d1db8495605401fe56a0d51acdb0841bc025944586e5f43dd4ca753241",
-          "sha1": "a8c76a48978978c90a35ffa5bb69727b14abcb8f",
-          "md5": "1835f5a619f3aa306783067007a27781"
+          "size": 105663,
+          "sha512": "4fc8bc77c6baa9bd4738289cb63c4d3bf455f190a9d6a7ebaf54f58c122c64901965c2367203a7b865b5f5b6f17d14510e4fb5230201567315b2b515bb4b0f76",
+          "sha256": "56600108beb3b5b64f3819af68bd767a7ab5a78fd220bbc068118e358ec5aa9c",
+          "sha1": "2ac94476d5cc186fb96c84a795304db3df0ecad9",
+          "md5": "f547ce392427d20f639226e0e57b7ea9"
         }
       ]
     },
@@ -103,11 +103,11 @@
         {
           "name": "libSessionUtils-2.7-sources.jar",
           "url": "libSessionUtils-2.7-sources.jar",
-          "size": 40173,
-          "sha512": "b25c99962a0bb3bed9114631c4405f2f929f095b7d5ee4d0b0653e8b3a6d2a12511b222342558e73ae5668a9d2ba6c01775a88dab12669b1b87794cd40287d3b",
-          "sha256": "9f44781b1c02127113e015e9ad2fd2b57e2e2342a88ad5bbdc2c6244812aea18",
-          "sha1": "692ae39ca7878daf6b79b652dc26d556ff3bbb61",
-          "md5": "bf0aa434b0fc1ddf40c7dbc8038d4d76"
+          "size": 40294,
+          "sha512": "7ba8cc2ee89966468e616627512ef61c591f483311184521c3b7de111354b8491752b9a12a8d9768c8de0867b12a66429c17c89f8bdba4772d603df6c01492b4",
+          "sha256": "ade975b7867697c9e6da0dc3f94d9f2d23e493a059460c0652135029c369d0b9",
+          "sha1": "4aae5f7ee335252b907d8265b4fc4601c4dc38eb",
+          "md5": "0a1dd5391f42bd71e644fffdaa557229"
         }
       ]
     }
