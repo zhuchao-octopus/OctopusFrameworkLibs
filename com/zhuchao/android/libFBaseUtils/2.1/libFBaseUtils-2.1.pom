@@ -24,6 +24,12 @@
   </dependencyManagement>
   <dependencies>
     <dependency>
+      <groupId>androidx.core</groupId>
+      <artifactId>core</artifactId>
+      <version>1.12.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>androidx.appcompat</groupId>
       <artifactId>appcompat</artifactId>
       <version>1.6.1</version>
@@ -64,12 +70,6 @@
       <artifactId>logging-interceptor</artifactId>
       <version>5.0.0-alpha.11</version>
       <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.core</groupId>
-      <artifactId>core</artifactId>
-      <version>1.12.0</version>
-      <scope>runtime</scope>
     </dependency>
   </dependencies>
 </project>
