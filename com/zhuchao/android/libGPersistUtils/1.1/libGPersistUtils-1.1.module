@@ -1,0 +1,81 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libGPersistUtils",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libGPersistUtils-1.1.aar",
+          "url": "libGPersistUtils-1.1.aar",
+          "size": 194033,
+          "sha512": "4dcbc1a384c74078f1ca1a59bc5b3f40b63f45bbfbe191d870daff852c41a50640c021c20a1a412e2706af77e8a39cd3462eadc946d1b5cd31cda2f8ada359fb",
+          "sha256": "6c2e98e8a99216a533ef42aafa7dafac96a88987599a51bccfb77a1f3472ccf5",
+          "sha1": "16d2a5a4d629c1e643dc56fad66ba41f073e96e2",
+          "md5": "cd763b4997fa11c9b16852c96d9c8e64"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libGPersistUtils-1.1.aar",
+          "url": "libGPersistUtils-1.1.aar",
+          "size": 194033,
+          "sha512": "4dcbc1a384c74078f1ca1a59bc5b3f40b63f45bbfbe191d870daff852c41a50640c021c20a1a412e2706af77e8a39cd3462eadc946d1b5cd31cda2f8ada359fb",
+          "sha256": "6c2e98e8a99216a533ef42aafa7dafac96a88987599a51bccfb77a1f3472ccf5",
+          "sha1": "16d2a5a4d629c1e643dc56fad66ba41f073e96e2",
+          "md5": "cd763b4997fa11c9b16852c96d9c8e64"
+        }
+      ]
+    }
+  ]
+}

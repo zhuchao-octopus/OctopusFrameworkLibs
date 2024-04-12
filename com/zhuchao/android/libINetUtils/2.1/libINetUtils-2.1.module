@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libINetUtils",
+    "version": "2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libINetUtils-2.1.aar",
+          "url": "libINetUtils-2.1.aar",
+          "size": 37505,
+          "sha512": "26fa9b13a6e94e0ddc7965945b57ddbe558f4e4ce58f556217ed5c4698239b5ff94b0cca63a5b392d9b34498e2bb0b950bd7d3e0963ff392d1354b1724fe5b2d",
+          "sha256": "9424523279351026c6f0aabcbf6bf116e496202767ae09ce5d6d1d7b2200d58f",
+          "sha1": "9db6a1805dae646209a0178afa19d1134d173152",
+          "md5": "21a6a9ee145372b7f1f62fa7f9f570bc"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libINetUtils-2.1.aar",
+          "url": "libINetUtils-2.1.aar",
+          "size": 37505,
+          "sha512": "26fa9b13a6e94e0ddc7965945b57ddbe558f4e4ce58f556217ed5c4698239b5ff94b0cca63a5b392d9b34498e2bb0b950bd7d3e0963ff392d1354b1724fe5b2d",
+          "sha256": "9424523279351026c6f0aabcbf6bf116e496202767ae09ce5d6d1d7b2200d58f",
+          "sha1": "9db6a1805dae646209a0178afa19d1134d173152",
+          "md5": "21a6a9ee145372b7f1f62fa7f9f570bc"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libINetUtils-2.1-sources.jar",
+          "url": "libINetUtils-2.1-sources.jar",
+          "size": 14696,
+          "sha512": "cfb695bdd1db6a433bcccbb6565b89a726c7c0f7af0766ae8779a7d5e119e66bb3f817862f5ad06bbb274d24fc40c7e9c168c16ce0002c0fb28fff26380007cd",
+          "sha256": "5659e87fe1fa80c5b58faedbfb09a8f9e4114794839f1f35556d97922c1c21fb",
+          "sha1": "6f619f59c7d9156de72355f0b94e5a4a1aec6297",
+          "md5": "45b4f204adf09ca9fafac54be202ed71"
+        }
+      ]
+    }
+  ]
+}

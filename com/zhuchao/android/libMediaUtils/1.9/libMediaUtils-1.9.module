@@ -1,0 +1,115 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libMediaUtils",
+    "version": "1.9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libMediaUtils-1.9.aar",
+          "url": "libMediaUtils-1.9.aar",
+          "size": 20971,
+          "sha512": "f38110373416d86921286205ac8811e9e18ab8d2b9e509348e6a303671559f589aa67153eeb32fd1e41b968b9291c4aa2b62b0b1975b60026874892e78c16373",
+          "sha256": "d27127ef8c4d10ad8e2b779b68204194c8794d30f6d24d926c936c44e74f7e14",
+          "sha1": "fc671abc0315b0a744d8641b17beab1ed3e7a86e",
+          "md5": "9dee91c60ac6def6ba5d24ef643f0a99"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libGPersistUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJOSUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayerUtils",
+          "version": {
+            "requires": "2.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libMediaUtils-1.9.aar",
+          "url": "libMediaUtils-1.9.aar",
+          "size": 20971,
+          "sha512": "f38110373416d86921286205ac8811e9e18ab8d2b9e509348e6a303671559f589aa67153eeb32fd1e41b968b9291c4aa2b62b0b1975b60026874892e78c16373",
+          "sha256": "d27127ef8c4d10ad8e2b779b68204194c8794d30f6d24d926c936c44e74f7e14",
+          "sha1": "fc671abc0315b0a744d8641b17beab1ed3e7a86e",
+          "md5": "9dee91c60ac6def6ba5d24ef643f0a99"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libMediaUtils-1.9-sources.jar",
+          "url": "libMediaUtils-1.9-sources.jar",
+          "size": 11020,
+          "sha512": "c090863d2ea145fd1ac1b7e6ea848b1ca69a2f33491c0fcb78434ae61f8d0681efef534a1ab41d987dde074f82ea3b07640d25a76f37187bbdba03fde00450cd",
+          "sha256": "8928fe486f7f27f8dc10d23e4faa483ea5fbc75a95c280d41070ad652df1fe28",
+          "sha1": "6cfa83cce5922bcddf3a47fa90481bba3ca717f5",
+          "md5": "4adfa51c22277d7b94a1311b8110894e"
+        }
+      ]
+    }
+  ]
+}

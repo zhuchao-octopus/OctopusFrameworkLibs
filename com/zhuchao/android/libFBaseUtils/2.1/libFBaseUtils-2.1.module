@@ -1,0 +1,198 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFBaseUtils",
+    "version": "2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.7.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.6"
+          }
+        },
+        {
+          "group": "com.google.android.things",
+          "module": "androidthings",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "5.0.0-alpha.11"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "5.0.0-alpha.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFBaseUtils-2.1.aar",
+          "url": "libFBaseUtils-2.1.aar",
+          "size": 102043,
+          "sha512": "77ca084ab65e2c890cd654f96ae77497f862240024bf9fb7ad396b73b59249aa9743067ef037b8299e5be49ecce8c448cb14bd7794b9b113ab210d5c3eeac04e",
+          "sha256": "21ff413b3440f22e2a55de18c58ad691d26ae679bef481be8efc3b80e5a7543a",
+          "sha1": "9f8acb60ee59a4753a3ee2d367ce09e0e2cb32fb",
+          "md5": "56ec5c84732eb492f7f5b167cc5eea2d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "1.8.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.7.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.6"
+          }
+        },
+        {
+          "group": "com.google.android.things",
+          "module": "androidthings",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "com.google.code.gson",
+          "module": "gson",
+          "version": {
+            "requires": "2.10.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "5.0.0-alpha.11"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "5.0.0-alpha.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFBaseUtils-2.1.aar",
+          "url": "libFBaseUtils-2.1.aar",
+          "size": 102043,
+          "sha512": "77ca084ab65e2c890cd654f96ae77497f862240024bf9fb7ad396b73b59249aa9743067ef037b8299e5be49ecce8c448cb14bd7794b9b113ab210d5c3eeac04e",
+          "sha256": "21ff413b3440f22e2a55de18c58ad691d26ae679bef481be8efc3b80e5a7543a",
+          "sha1": "9f8acb60ee59a4753a3ee2d367ce09e0e2cb32fb",
+          "md5": "56ec5c84732eb492f7f5b167cc5eea2d"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libFBaseUtils-2.1-sources.jar",
+          "url": "libFBaseUtils-2.1-sources.jar",
+          "size": 54772,
+          "sha512": "230e890beb4b34a532937d7b7a7e186f879542b715582ff81f22d774d87ed3cd031e66369405ad14412ed0d3d822f214b440cf22a84b65d8ca5b09aecdaae275",
+          "sha256": "12f9f11dc041bff88eade6b5d1dbfb6dd1d26984477e06ebd0a0b2ad51a6350d",
+          "sha1": "9f724c9c505457cb246be586cd5f94c3515131d1",
+          "md5": "eaaedfcde45f08f37ff9562048c71571"
+        }
+      ]
+    }
+  ]
+}

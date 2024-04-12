@@ -10,24 +10,23 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "7.4"
+      "version": "8.2"
     }
   },
   "variants": [
     {
-      "name": "releaseVariantReleaseApiPublication",
+      "name": "releaseApiElements-published",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-api"
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         }
       ],
@@ -35,28 +34,27 @@
         {
           "name": "libOpenComputerVision-1.0.aar",
           "url": "libOpenComputerVision-1.0.aar",
-          "size": 55821739,
-          "sha512": "c507c6fed47b7815dc2c69dff29b037362502035a1ebd7e24053527137408bfa887b67498ba81f77c81c800b858110a94784acfd799176ed1412a605ecf75f91",
-          "sha256": "aa434a9bddade8c87451d5124814d63361fe90b94195d76cb70fb0ad8c56c0d5",
-          "sha1": "efe51bdb480888c7f4d52a54e87d563534c0b242",
-          "md5": "05959c6c6d7a68eb7bfbac153f4932c1"
+          "size": 45701403,
+          "sha512": "7f468a774b7e6bc30461997bcec844edf200578ec7088a2eda4cecea6d16851f7cdc541ec4d532b084a6c612050868966346e59793e570e128670c2cb923cfd0",
+          "sha256": "d36f21432104b19215b0737b7df91ac00cf59109e4fe78d806a6db156f0229b1",
+          "sha1": "58281dce58ecb75cc1000e76c32dc30d4dcd8086",
+          "md5": "52c6c388cc8b151f70a214495adc2b34"
         }
       ]
     },
     {
-      "name": "releaseVariantReleaseRuntimePublication",
+      "name": "releaseRuntimeElements-published",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.libraryelements": "aar",
-        "org.gradle.usage": "java-runtime"
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
       },
       "dependencies": [
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.7.20"
+            "requires": "1.8.10"
           }
         }
       ],
@@ -64,11 +62,11 @@
         {
           "name": "libOpenComputerVision-1.0.aar",
           "url": "libOpenComputerVision-1.0.aar",
-          "size": 55821739,
-          "sha512": "c507c6fed47b7815dc2c69dff29b037362502035a1ebd7e24053527137408bfa887b67498ba81f77c81c800b858110a94784acfd799176ed1412a605ecf75f91",
-          "sha256": "aa434a9bddade8c87451d5124814d63361fe90b94195d76cb70fb0ad8c56c0d5",
-          "sha1": "efe51bdb480888c7f4d52a54e87d563534c0b242",
-          "md5": "05959c6c6d7a68eb7bfbac153f4932c1"
+          "size": 45701403,
+          "sha512": "7f468a774b7e6bc30461997bcec844edf200578ec7088a2eda4cecea6d16851f7cdc541ec4d532b084a6c612050868966346e59793e570e128670c2cb923cfd0",
+          "sha256": "d36f21432104b19215b0737b7df91ac00cf59109e4fe78d806a6db156f0229b1",
+          "sha1": "58281dce58ecb75cc1000e76c32dc30d4dcd8086",
+          "md5": "52c6c388cc8b151f70a214495adc2b34"
         }
       ]
     }

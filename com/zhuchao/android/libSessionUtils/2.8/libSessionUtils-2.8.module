@@ -1,0 +1,122 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libSessionUtils",
+    "version": "2.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.8.aar",
+          "url": "libSessionUtils-2.8.aar",
+          "size": 105913,
+          "sha512": "3da51f553e2750a9bd736f12604dfa3dff929e88b260d020a7ddd5a496b277a448469bd9481910982febca89de74ef938debdf1118fba7912251c8d196105bd2",
+          "sha256": "26fbffd98ed799566a56b2d933a906c0b9dfc81fb5f0946a5959cdc52ee8243b",
+          "sha1": "319f1c62d670e6c5fc755b5092ce4d380a28d22e",
+          "md5": "0cb01a6584d19d2381ab95468b28ebba"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJOSUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libMediaUtils",
+          "version": {
+            "requires": "1.9"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libPlayerUtils",
+          "version": {
+            "requires": "2.9"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libGPersistUtils",
+          "version": {
+            "requires": "1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libSessionUtils-2.8.aar",
+          "url": "libSessionUtils-2.8.aar",
+          "size": 105913,
+          "sha512": "3da51f553e2750a9bd736f12604dfa3dff929e88b260d020a7ddd5a496b277a448469bd9481910982febca89de74ef938debdf1118fba7912251c8d196105bd2",
+          "sha256": "26fbffd98ed799566a56b2d933a906c0b9dfc81fb5f0946a5959cdc52ee8243b",
+          "sha1": "319f1c62d670e6c5fc755b5092ce4d380a28d22e",
+          "md5": "0cb01a6584d19d2381ab95468b28ebba"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libSessionUtils-2.8-sources.jar",
+          "url": "libSessionUtils-2.8-sources.jar",
+          "size": 40430,
+          "sha512": "4ad1afc1d9cb2ad8502b22469bf465ab78fef96212326bce21227e906b089e402d7031c9e9b90df0b90b3d37f1cd2e32745cc48a3892c7678e29dd5ed181a129",
+          "sha256": "8dc0ac452a4dd182faacf09f1d4602c75dc7372c3c529b6421931b4a379da823",
+          "sha1": "ad2d6d899e10dfefb7436b4ad12c45b0c9152e75",
+          "md5": "6b3b6d0bf03742b0e5e43766136eb5b4"
+        }
+      ]
+    }
+  ]
+}

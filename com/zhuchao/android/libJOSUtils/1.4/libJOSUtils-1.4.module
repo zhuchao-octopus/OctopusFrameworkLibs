@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libJOSUtils",
+    "version": "1.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libJOSUtils-1.4.aar",
+          "url": "libJOSUtils-1.4.aar",
+          "size": 12490651,
+          "sha512": "b413ef25fed0f8041c39186e44de42e158ed05578e8d8716ca1d323c51666d280049d720f0b9f433851600892f592ef4346ec234631c5f4ea2d1cfd0441b2401",
+          "sha256": "c16f7f79e6a1288ba0b160afc9bfc5f2214f30468541c98b736560bd726057cc",
+          "sha1": "480de80dce7c08182c770f5c7e0462ae9b5aab00",
+          "md5": "98dee1c44853e30ca409be659176b47b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libJOSUtils-1.4.aar",
+          "url": "libJOSUtils-1.4.aar",
+          "size": 12490651,
+          "sha512": "b413ef25fed0f8041c39186e44de42e158ed05578e8d8716ca1d323c51666d280049d720f0b9f433851600892f592ef4346ec234631c5f4ea2d1cfd0441b2401",
+          "sha256": "c16f7f79e6a1288ba0b160afc9bfc5f2214f30468541c98b736560bd726057cc",
+          "sha1": "480de80dce7c08182c770f5c7e0462ae9b5aab00",
+          "md5": "98dee1c44853e30ca409be659176b47b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libJOSUtils-1.4-sources.jar",
+          "url": "libJOSUtils-1.4-sources.jar",
+          "size": 136439,
+          "sha512": "9770a189f42a4420c852a3df8fd29ad4565a11cd507408f87086827835dc9ae2b01dbc43eae7386f4fd4cea4280a201eaf5bed8f760d5a5d59ac84e19324d7b0",
+          "sha256": "8001be2bd01e4a230d6178dae6b69cc413726796e52f15e95f87acd99f6d558c",
+          "sha1": "9050cb825374da2a13fa4943cd309e1381e607c7",
+          "md5": "00c52f4430059c029be57241cda696ca"
+        }
+      ]
+    }
+  ]
+}

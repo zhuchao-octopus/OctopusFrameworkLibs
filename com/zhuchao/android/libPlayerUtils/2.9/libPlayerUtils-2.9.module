@@ -1,0 +1,101 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libPlayerUtils",
+    "version": "2.9",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libPlayerUtils-2.9.aar",
+          "url": "libPlayerUtils-2.9.aar",
+          "size": 202718,
+          "sha512": "c43ea105f4a72149ac396517473327d98c1b091d1b7f3ab154eba35017542d49c2ca33ee6711925ab68fb531ed63d9e9fac1712ef8ada948418b9534a70bba18",
+          "sha256": "170607df310f917262a649c989a87040ee6a10c5540b3cdafebb9bce42fd66d9",
+          "sha1": "23cd038ebc80d4b1fd505795f5a82fc5c9422737",
+          "md5": "663aad7520f50208e383f3ba1dda8617"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFBaseUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libINetUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libJOSUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libPlayerUtils-2.9.aar",
+          "url": "libPlayerUtils-2.9.aar",
+          "size": 202718,
+          "sha512": "c43ea105f4a72149ac396517473327d98c1b091d1b7f3ab154eba35017542d49c2ca33ee6711925ab68fb531ed63d9e9fac1712ef8ada948418b9534a70bba18",
+          "sha256": "170607df310f917262a649c989a87040ee6a10c5540b3cdafebb9bce42fd66d9",
+          "sha1": "23cd038ebc80d4b1fd505795f5a82fc5c9422737",
+          "md5": "663aad7520f50208e383f3ba1dda8617"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libPlayerUtils-2.9-sources.jar",
+          "url": "libPlayerUtils-2.9-sources.jar",
+          "size": 18231,
+          "sha512": "add16073dfc3a1581f80700ed78c70884435bdd458389754c1a6f2c41d6d3c75496e23f2ae98711db2fa568b64383e4361af2360ca0057e8879025a1bf35d751",
+          "sha256": "be05dfa981bd4dff984b901aba32ee040745ffaf8e24827c1495575f341f9604",
+          "sha1": "7a63eb3d2eb04a3cd24fd9e8b079b54bdf812621",
+          "md5": "e5d6b8a2a7d31667fda9a8c2be9e4591"
+        }
+      ]
+    }
+  ]
+}

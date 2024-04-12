@@ -1,0 +1,94 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libC-CNN",
+    "version": "0.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libC-CNN-0.2.aar",
+          "url": "libC-CNN-0.2.aar",
+          "size": 124868,
+          "sha512": "c4bf49eee5767dd990ac9597e4e33934ce120ede3c849000a57db71b082777d96043f825d4231f0f90cc2c1b6ce260dd14a779df77738c398b84c1394e02b42b",
+          "sha256": "66b82e283228513c77dead1900e39ad9723fbfc241f3ec1f06dd4b8eaf1518f6",
+          "sha1": "d6c74a06203c5af7063dc1811cfff246c3b90698",
+          "md5": "5e6c62d288327252917097fd88c74d43"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.8.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libC-CNN-0.2.aar",
+          "url": "libC-CNN-0.2.aar",
+          "size": 124868,
+          "sha512": "c4bf49eee5767dd990ac9597e4e33934ce120ede3c849000a57db71b082777d96043f825d4231f0f90cc2c1b6ce260dd14a779df77738c398b84c1394e02b42b",
+          "sha256": "66b82e283228513c77dead1900e39ad9723fbfc241f3ec1f06dd4b8eaf1518f6",
+          "sha1": "d6c74a06203c5af7063dc1811cfff246c3b90698",
+          "md5": "5e6c62d288327252917097fd88c74d43"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libC-CNN-0.2-sources.jar",
+          "url": "libC-CNN-0.2-sources.jar",
+          "size": 1027,
+          "sha512": "cc070fb2c88bf2e38e4a8f1064219c8ba8db835f383fb4129674b700dd7ed875d36dbfbd432b8ce9f0e2d73b908d507724c71b413f35fcd42b3e050684d0300e",
+          "sha256": "37a03f3dbfafd62c5c0d300f0aa8bafc80bca0804dce32f5984000cc35cd909d",
+          "sha1": "a07bd466318ed3cbff57fe26ff0168aba35af7bd",
+          "md5": "12d629ffe697bf886552762d6536cc3d"
+        }
+      ]
+    }
+  ]
+}
