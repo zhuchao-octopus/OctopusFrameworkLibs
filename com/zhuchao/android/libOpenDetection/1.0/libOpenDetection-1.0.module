@@ -34,11 +34,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 40381227,
-          "sha512": "e7f300d627c7640a6fb4a8e1406e8941d7560dceda8603863bdbb9d26fec73c07d99fcc500324b162b93c703aeae058d465a48d850df9433de1e11a322c94fbb",
-          "sha256": "a2f0cb4c223753c7af1614c71113056f210da7d3195187e532da51d8147e4425",
-          "sha1": "5d7e48159313ca42952f863b632791f120e2b8a7",
-          "md5": "d3ca5f6ddd41c2c47f077f50abf75b91"
+          "size": 14144402,
+          "sha512": "4405bd5ac1d62b4f0f75030aa4f1b5c03c0cdefc7701ac92f6a0dd8cb56d910d3f0c817c431026acca3c25782c43d0905cd3c445a4291edce4b3ed055df3e7aa",
+          "sha256": "afc92252da0ebc27aac3d5d77d1011df7db721eefe9df70b5db39a0c3d479738",
+          "sha1": "79cc844c49eb92d60c9b593628c094f4d5add90b",
+          "md5": "3d1d1a3096d1849356539c2ac5672ec6"
         }
       ]
     },
@@ -52,9 +52,9 @@
       "dependencies": [
         {
           "group": "com.zhuchao.android",
-          "module": "libFBaseUtils",
+          "module": "libBaseUtils",
           "version": {
-            "requires": "2.1"
+            "requires": "2.2"
           }
         },
         {
@@ -79,13 +79,6 @@
           }
         },
         {
-          "group": "org.bytedeco",
-          "module": "javacv-platform",
-          "version": {
-            "requires": "1.5.8"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
@@ -97,11 +90,11 @@
         {
           "name": "libOpenDetection-1.0.aar",
           "url": "libOpenDetection-1.0.aar",
-          "size": 40381227,
-          "sha512": "e7f300d627c7640a6fb4a8e1406e8941d7560dceda8603863bdbb9d26fec73c07d99fcc500324b162b93c703aeae058d465a48d850df9433de1e11a322c94fbb",
-          "sha256": "a2f0cb4c223753c7af1614c71113056f210da7d3195187e532da51d8147e4425",
-          "sha1": "5d7e48159313ca42952f863b632791f120e2b8a7",
-          "md5": "d3ca5f6ddd41c2c47f077f50abf75b91"
+          "size": 14144402,
+          "sha512": "4405bd5ac1d62b4f0f75030aa4f1b5c03c0cdefc7701ac92f6a0dd8cb56d910d3f0c817c431026acca3c25782c43d0905cd3c445a4291edce4b3ed055df3e7aa",
+          "sha256": "afc92252da0ebc27aac3d5d77d1011df7db721eefe9df70b5db39a0c3d479738",
+          "sha1": "79cc844c49eb92d60c9b593628c094f4d5add90b",
+          "md5": "3d1d1a3096d1849356539c2ac5672ec6"
         }
       ]
     }

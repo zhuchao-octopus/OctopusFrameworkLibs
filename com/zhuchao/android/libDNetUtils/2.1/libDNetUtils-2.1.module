@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libDNetUtils",
+    "version": "2.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libDNetUtils-2.1.aar",
+          "url": "libDNetUtils-2.1.aar",
+          "size": 37486,
+          "sha512": "f2dd7076d2c1263d684623b7a7957f190bfa7750b1568750ace5dce78fc9bef26e5451795a2f2c0b9785eb24e6f09d07dfc337c3370e6f360603afe017d14c23",
+          "sha256": "107a7175b49da19229302127831d3a253010b01f8352e1c795dc9fad1c342bd6",
+          "sha1": "73ab22b3bf887b112c00271d12b0cbd8c14e5014",
+          "md5": "32dd9e972b7cef5c74f19d66266d2d88"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libDNetUtils-2.1.aar",
+          "url": "libDNetUtils-2.1.aar",
+          "size": 37486,
+          "sha512": "f2dd7076d2c1263d684623b7a7957f190bfa7750b1568750ace5dce78fc9bef26e5451795a2f2c0b9785eb24e6f09d07dfc337c3370e6f360603afe017d14c23",
+          "sha256": "107a7175b49da19229302127831d3a253010b01f8352e1c795dc9fad1c342bd6",
+          "sha1": "73ab22b3bf887b112c00271d12b0cbd8c14e5014",
+          "md5": "32dd9e972b7cef5c74f19d66266d2d88"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libDNetUtils-2.1-sources.jar",
+          "url": "libDNetUtils-2.1-sources.jar",
+          "size": 14549,
+          "sha512": "67b9a4c70195cc2a53683f4f54adbd0ee83409e4489ce559065c96185e965e12211e8f76f66d9484f04dd38f0ee37323eea64689a71bdcaa788e7d089617a0d7",
+          "sha256": "4d21bcb47fe28bceb5e12db776bb21892dde92612cc9d5a59167505b673f0a24",
+          "sha1": "adc15f4116ce3c99d515dcf2801cd6323717c4ad",
+          "md5": "b148993d5cdb0898a657df1388dcd921"
+        }
+      ]
+    }
+  ]
+}

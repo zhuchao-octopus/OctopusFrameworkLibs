@@ -1,0 +1,108 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libGXPlayerUtils",
+    "version": "3.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libGXPlayerUtils-3.0.aar",
+          "url": "libGXPlayerUtils-3.0.aar",
+          "size": 205472,
+          "sha512": "6d207dc858206e33e3cc10db4a879a00277ace94d542d41e7102d2f48ea4e7e51364661993a01bbab393c6513108c8c9833811bb29bfe2d7c3a6dafea359842e",
+          "sha256": "84d13b31dcf50c9c2f3d606f57330e0ab98165df5e0c72090f9b39aa2e8bc093",
+          "sha1": "6b3aee8a2e35152c5da9e652f4f1881fd45756de",
+          "md5": "b9036f93665e77df8eb6503ee15e065c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libDNetUtils",
+          "version": {
+            "requires": "2.1"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libFOSUtils",
+          "version": {
+            "requires": "1.4"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.1.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libGXPlayerUtils-3.0.aar",
+          "url": "libGXPlayerUtils-3.0.aar",
+          "size": 205472,
+          "sha512": "6d207dc858206e33e3cc10db4a879a00277ace94d542d41e7102d2f48ea4e7e51364661993a01bbab393c6513108c8c9833811bb29bfe2d7c3a6dafea359842e",
+          "sha256": "84d13b31dcf50c9c2f3d606f57330e0ab98165df5e0c72090f9b39aa2e8bc093",
+          "sha1": "6b3aee8a2e35152c5da9e652f4f1881fd45756de",
+          "md5": "b9036f93665e77df8eb6503ee15e065c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libGXPlayerUtils-3.0-sources.jar",
+          "url": "libGXPlayerUtils-3.0-sources.jar",
+          "size": 19898,
+          "sha512": "03189c2a1bf71e91ef1b4ee44e0f9951dec0105ff288250a100c3d336f53fd6c23f74cbff9a5a232193355af18685258c7e0ca851a2ab47a107bcd2eea981542",
+          "sha256": "3a14b4dfa86647bb5873b4ad677855ecc69661988aee3c30e151c4a2fde9a841",
+          "sha1": "6321acf15bcb27e00d3e09680ac6a452e3dbb2a3",
+          "md5": "4861c25f136c33b1fda59de9b0beebdb"
+        }
+      ]
+    }
+  ]
+}

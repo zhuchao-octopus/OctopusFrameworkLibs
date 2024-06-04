@@ -1,0 +1,133 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libCameraUtils",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libCameraUtils-1.0.aar",
+          "url": "libCameraUtils-1.0.aar",
+          "size": 28232,
+          "sha512": "96b175f49927592e01c211d42316c5fac014311749771a75eda62bc2f9272821fb8a97c0bb3b0de5e9e7fbbdd1532dcf477949bd140bb91a1a65452df8088f5c",
+          "sha256": "f90347d6b00cc02bc7ee0803a4b4f31fee396c02fd86bb4491121efda290449b",
+          "sha1": "09f1fe52f6ce2184e1f563f89fea3b173e1ab479",
+          "md5": "7fec9d7077830560767b2e4d29eabd50"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-bom",
+          "version": {
+            "requires": "1.8.0"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          },
+          "endorseStrictVersions": true
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.legacy",
+          "module": "legacy-support-v4",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.6"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core",
+          "version": {
+            "requires": "1.12.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libCameraUtils-1.0.aar",
+          "url": "libCameraUtils-1.0.aar",
+          "size": 28232,
+          "sha512": "96b175f49927592e01c211d42316c5fac014311749771a75eda62bc2f9272821fb8a97c0bb3b0de5e9e7fbbdd1532dcf477949bd140bb91a1a65452df8088f5c",
+          "sha256": "f90347d6b00cc02bc7ee0803a4b4f31fee396c02fd86bb4491121efda290449b",
+          "sha1": "09f1fe52f6ce2184e1f563f89fea3b173e1ab479",
+          "md5": "7fec9d7077830560767b2e4d29eabd50"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libCameraUtils-1.0-sources.jar",
+          "url": "libCameraUtils-1.0-sources.jar",
+          "size": 14167,
+          "sha512": "0a233b9ec52f7c476891c9b664c6c7bc1b554f86a54bcb387cfde656060ce00dc7aac23a5610150d57cbd888d4c42e7649efb4da70cf02a7a83dde80cb281c63",
+          "sha256": "5dbd16963d45c8e749ee46c2a7440dbebaf916515df0ed4ff81f1efbb3ae24f8",
+          "sha1": "4e8cb55c10331767368e01f3976aac9caec62d79",
+          "md5": "d7acc4a3baf9a62b8219334e0c3ff0c8"
+        }
+      ]
+    }
+  ]
+}
