@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.2"
+      "version": "8.2.1"
     }
   },
   "variants": [
@@ -26,11 +26,11 @@
         {
           "name": "libFOSUtils-1.4.aar",
           "url": "libFOSUtils-1.4.aar",
-          "size": 268206,
-          "sha512": "b84472edd8c76797d38897db98304e1eefcbb8f3737915dfe9228a6ad96a698ac72254a07e75ebcf503b5c363757250a829fe2fa12c669d55103961034c3d91b",
-          "sha256": "39170fe344b7d7ca432608fc399a5e7c33309d9a6810b7d65ead84377a161a04",
-          "sha1": "6fabca510f84b805d3775bd8ee080dae716499ea",
-          "md5": "db422eb8a97310eadc450b5bcad83115"
+          "size": 166399,
+          "sha512": "b4568ba4788bca4081d2f44804e1745f9655aed6865817e2ab70e3ea83368367c56b46bdceaab8b07e7d17be9a655d7729a6196c2f39f42bf7f096cbb3cf3129",
+          "sha256": "4083cbe3078765bfa05be54fdeeaecdb4f364656efbad76c7cb51232080601e8",
+          "sha1": "db086110732d27ccfbfc5a90db675c0f92fe68ab",
+          "md5": "49da4fe0479b8916bc56b4e48e6ede83"
         }
       ]
     },
@@ -55,11 +55,11 @@
         {
           "name": "libFOSUtils-1.4.aar",
           "url": "libFOSUtils-1.4.aar",
-          "size": 268206,
-          "sha512": "b84472edd8c76797d38897db98304e1eefcbb8f3737915dfe9228a6ad96a698ac72254a07e75ebcf503b5c363757250a829fe2fa12c669d55103961034c3d91b",
-          "sha256": "39170fe344b7d7ca432608fc399a5e7c33309d9a6810b7d65ead84377a161a04",
-          "sha1": "6fabca510f84b805d3775bd8ee080dae716499ea",
-          "md5": "db422eb8a97310eadc450b5bcad83115"
+          "size": 166399,
+          "sha512": "b4568ba4788bca4081d2f44804e1745f9655aed6865817e2ab70e3ea83368367c56b46bdceaab8b07e7d17be9a655d7729a6196c2f39f42bf7f096cbb3cf3129",
+          "sha256": "4083cbe3078765bfa05be54fdeeaecdb4f364656efbad76c7cb51232080601e8",
+          "sha1": "db086110732d27ccfbfc5a90db675c0f92fe68ab",
+          "md5": "49da4fe0479b8916bc56b4e48e6ede83"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "libFOSUtils-1.4-sources.jar",
           "url": "libFOSUtils-1.4-sources.jar",
-          "size": 135355,
-          "sha512": "3a62af510413ead73e4be3a2f2e23df12653940f576bee3a312cc7d0dedb4a57f7a6be99a943d6eda6d29f7dc6098ffa6bf61601673b8be9b93d8bdb77535ac5",
-          "sha256": "38d3ad0ad1f2c37e613764a88b5d3b400c7a3b3bbd6032fd841e0fd6292b5a5b",
-          "sha1": "27f43f9c3f6ed41ff73bd27685fb7b6065164b90",
-          "md5": "87218e6b33b2d7c932f67dc8441343a1"
+          "size": 71126,
+          "sha512": "ac6d600c78b167c4b7dc3143ab18a9e142c79f06c22ab63c920f76310ad8d30cddc274eee7da523f65cd55bc9c026f6f1774ca9b1bd76fbdccc4b5217317ebde",
+          "sha256": "7dbb4269ce6956dad645335ecb6c687253f6d81cf009b87defd0a7eaab01fca9",
+          "sha1": "ba6f75f9cf70a130b80a96581cc509727da658e3",
+          "md5": "507674349fef13ec19f6a94e358add68"
         }
       ]
     }

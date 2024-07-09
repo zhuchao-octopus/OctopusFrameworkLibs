@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.2"
+      "version": "8.2.1"
     }
   },
   "variants": [
@@ -26,7 +26,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.8.10"
+            "requires": "1.8.20"
           }
         }
       ],
@@ -61,7 +61,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib-jdk8",
           "version": {
-            "requires": "1.8.10"
+            "requires": "1.8.20"
           }
         }
       ],
@@ -74,6 +74,28 @@
           "sha256": "eff7835cb29749198af1d5a7e8390c8e21136bdffb6d4e9941b18cddaaacbcd0",
           "sha1": "0ce58d598e735c2bd7eaeed634cc36e94089716d",
           "md5": "4f206abccd79cf5caf6f21d8075daa88"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "libFPersistUtils-1.2-sources.jar",
+          "url": "libFPersistUtils-1.2-sources.jar",
+          "size": 9001,
+          "sha512": "37746a9ab2e523f3f6ac1fe29562ce5c332e4977c64e4e6bc5df1d84e340bb4d8116559dc85627084ef597ad1e345a25e7fb437fba067508b7604911fc0727bf",
+          "sha256": "522a21afeff0a5ac04ae73cec0a231f7cc770f1ca1e36d7b291345ce01e20853",
+          "sha1": "515329b65cdeeedfc65fa78201563c19b99261c6",
+          "md5": "90f95f21f57d4741aa94ef07581800a6"
         }
       ]
     }

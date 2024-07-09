@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.2"
+      "version": "8.2.1"
     }
   },
   "variants": [
@@ -69,21 +69,21 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.11.0"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "5.0.0-alpha.11"
+            "requires": "5.0.0-alpha.14"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.11"
+            "requires": "5.0.0-alpha.14"
           }
         }
       ],
@@ -91,11 +91,11 @@
         {
           "name": "libBaseUtils-2.2.aar",
           "url": "libBaseUtils-2.2.aar",
-          "size": 117409,
-          "sha512": "9139472e8e25e23cc56defa7cd0ce6905c742996e6ae37ecf35efbfdb4d917f1c7d3f51b9b080350710d9b90af908b16c2d8aa37b9356b4ca75322d5d5dbf075",
-          "sha256": "ee02888913bfb4175790462b885e1bb3f0c85c4f65bfc19c22f7fc643816e763",
-          "sha1": "177ac542f4c72aa7d0c136842f11966db6d5bdf2",
-          "md5": "cab98a638f898f965b02d826a09be619"
+          "size": 117404,
+          "sha512": "63addafae3924eaaae683b0c2c5beb7ddcf681d2ec47afeb3d04d52dd8013f6bff6ed14b057eb5620eee0c8a240977d8a42f2eb2c794b08627b4689e595c4b2d",
+          "sha256": "fd55ad38c024c07b9c0877a009dfc2f4c348169b56e4b248ed80247ef7020fa1",
+          "sha1": "83ede1a79c103d5b31682339c558e4d6459d6c38",
+          "md5": "2e4788d7a1c9e729a61181e0fb6e44cf"
         }
       ]
     },
@@ -112,7 +112,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-bom",
           "version": {
-            "requires": "1.8.0"
+            "requires": "2.0.0"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -165,21 +165,21 @@
           "group": "com.google.code.gson",
           "module": "gson",
           "version": {
-            "requires": "2.10.1"
+            "requires": "2.11.0"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "okhttp",
           "version": {
-            "requires": "5.0.0-alpha.11"
+            "requires": "5.0.0-alpha.14"
           }
         },
         {
           "group": "com.squareup.okhttp3",
           "module": "logging-interceptor",
           "version": {
-            "requires": "5.0.0-alpha.11"
+            "requires": "5.0.0-alpha.14"
           }
         }
       ],
@@ -187,11 +187,11 @@
         {
           "name": "libBaseUtils-2.2.aar",
           "url": "libBaseUtils-2.2.aar",
-          "size": 117409,
-          "sha512": "9139472e8e25e23cc56defa7cd0ce6905c742996e6ae37ecf35efbfdb4d917f1c7d3f51b9b080350710d9b90af908b16c2d8aa37b9356b4ca75322d5d5dbf075",
-          "sha256": "ee02888913bfb4175790462b885e1bb3f0c85c4f65bfc19c22f7fc643816e763",
-          "sha1": "177ac542f4c72aa7d0c136842f11966db6d5bdf2",
-          "md5": "cab98a638f898f965b02d826a09be619"
+          "size": 117404,
+          "sha512": "63addafae3924eaaae683b0c2c5beb7ddcf681d2ec47afeb3d04d52dd8013f6bff6ed14b057eb5620eee0c8a240977d8a42f2eb2c794b08627b4689e595c4b2d",
+          "sha256": "fd55ad38c024c07b9c0877a009dfc2f4c348169b56e4b248ed80247ef7020fa1",
+          "sha1": "83ede1a79c103d5b31682339c558e4d6459d6c38",
+          "md5": "2e4788d7a1c9e729a61181e0fb6e44cf"
         }
       ]
     },
@@ -207,11 +207,11 @@
         {
           "name": "libBaseUtils-2.2-sources.jar",
           "url": "libBaseUtils-2.2-sources.jar",
-          "size": 66116,
-          "sha512": "07bacf1216daddb707d72e249119edc1b9b20d48f1956b5906da9b69086dea67ff1ee74509570746df5d769762f703f627095bd5168b5fdd02c604ea7b8953a3",
-          "sha256": "fa41613bd6d7ca7c9e75e3b3f2eb2c1b3d682170bb7cca4b737e374fb6583f7a",
-          "sha1": "8927e40b8b0583eda60fbd6fef96591d77f331c6",
-          "md5": "f1ec54d4b1503dcd7a36e6b0145fb6ff"
+          "size": 66127,
+          "sha512": "84564966383d39c71e585dc085e1b5d0deae6e03a31d5f33a1a5b9c772f0d039d81255df9f08c1309ff9df72c5f6c09a1f21b4de8efa2db744c44518d8ea8fbd",
+          "sha256": "1a9bc9e9dbf449846a06c574eb5cf7d01a578b4cffd59cd9dfa802a6ed110580",
+          "sha1": "c004da1252f1d38df0443892f08d512582e3f8d2",
+          "md5": "c8c535ce04df27a41bb0187c902a14f8"
         }
       ]
     }
