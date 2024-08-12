@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.2.1"
+      "version": "8.7"
     }
   },
   "variants": [
@@ -44,6 +44,20 @@
       },
       "dependencies": [
         {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "androidx.media",
+          "module": "media",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
@@ -73,20 +87,6 @@
         },
         {
           "group": "com.zhuchao.android",
-          "module": "libCameraUtils",
-          "version": {
-            "requires": "1.0"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
-          "module": "libOpenDetection",
-          "version": {
-            "requires": "1.1"
-          }
-        },
-        {
-          "group": "com.zhuchao.android",
           "module": "libGXPlayerUtils",
           "version": {
             "requires": "3.0"
@@ -97,20 +97,6 @@
           "module": "libFPersistUtils",
           "version": {
             "requires": "1.2"
-          }
-        },
-        {
-          "group": "androidx.appcompat",
-          "module": "appcompat",
-          "version": {
-            "requires": "1.6.1"
-          }
-        },
-        {
-          "group": "androidx.media",
-          "module": "media",
-          "version": {
-            "requires": "1.6.0"
           }
         }
       ],
