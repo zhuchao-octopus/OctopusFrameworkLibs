@@ -1,0 +1,138 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libOpenDetection",
+    "version": "1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenDetection-1.1.aar",
+          "url": "libOpenDetection-1.1.aar",
+          "size": 21327,
+          "sha512": "bf836073fcc64adeff791dd99d288d1fef46d3933e333879336ec10133bd8c726282bb313dc50ea345ccae01cc33d29b3d9d6e8ac328422b6b153ce8a9406ab0",
+          "sha256": "aefa380a109bc252b43e103d48f1e29b1f18dcdd0cf5bf6e82e967ff69412016",
+          "sha1": "2c63f7e5892b70f8e9e94de5553daac23d46dc96",
+          "md5": "829418a890f6f109d515ddcc3014d2da"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOpenComputerVision",
+          "version": {
+            "requires": "1.1"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.7.0-alpha02"
+          }
+        },
+        {
+          "group": "androidx.exifinterface",
+          "module": "exifinterface",
+          "version": {
+            "requires": "1.3.6"
+          }
+        },
+        {
+          "group": "org.tensorflow",
+          "module": "tensorflow-lite",
+          "version": {
+            "requires": "2.16.1"
+          }
+        },
+        {
+          "group": "org.tensorflow",
+          "module": "tensorflow-lite-gpu",
+          "version": {
+            "requires": "2.16.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenDetection-1.1.aar",
+          "url": "libOpenDetection-1.1.aar",
+          "size": 21327,
+          "sha512": "bf836073fcc64adeff791dd99d288d1fef46d3933e333879336ec10133bd8c726282bb313dc50ea345ccae01cc33d29b3d9d6e8ac328422b6b153ce8a9406ab0",
+          "sha256": "aefa380a109bc252b43e103d48f1e29b1f18dcdd0cf5bf6e82e967ff69412016",
+          "sha1": "2c63f7e5892b70f8e9e94de5553daac23d46dc96",
+          "md5": "829418a890f6f109d515ddcc3014d2da"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "libOpenDetection-1.1-sources.jar",
+          "url": "libOpenDetection-1.1-sources.jar",
+          "size": 10507,
+          "sha512": "f7e9e8a7480341f978658cfa52dae88ff28cf62d4edcfb9ce0beb57a317609cfc98b2fe888dc77e2dd2efa1463a00d09a38126f014505f8aa2dfd4294ebe0ca9",
+          "sha256": "ea12b93c0f984053ed24f39fc1f02ce1c351a30e9c325b74eaa249d0c89f48c0",
+          "sha1": "b8d43f8317310fb5d23f364f2eb266f8c168b2cc",
+          "md5": "47c32181f33452ac1bacf05d11de0b3f"
+        }
+      ]
+    }
+  ]
+}

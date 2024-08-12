@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.2.1"
+      "version": "8.7"
     }
   },
   "variants": [
@@ -91,11 +91,11 @@
         {
           "name": "libBaseUtils-2.2.aar",
           "url": "libBaseUtils-2.2.aar",
-          "size": 117404,
-          "sha512": "63addafae3924eaaae683b0c2c5beb7ddcf681d2ec47afeb3d04d52dd8013f6bff6ed14b057eb5620eee0c8a240977d8a42f2eb2c794b08627b4689e595c4b2d",
-          "sha256": "fd55ad38c024c07b9c0877a009dfc2f4c348169b56e4b248ed80247ef7020fa1",
-          "sha1": "83ede1a79c103d5b31682339c558e4d6459d6c38",
-          "md5": "2e4788d7a1c9e729a61181e0fb6e44cf"
+          "size": 119650,
+          "sha512": "a094b29ad65a2edd18e0bb5c64a723b22f1cb5da024ad1b676670942d4115e7367fc751be37f11464ac13fbc4f2295734b83373e1976c3424607de7180af5e0b",
+          "sha256": "91a631cf13982e7bc92cd3c01b93e2f4d70707f69eab1962db3eef3d2afceab6",
+          "sha1": "c2467e705da5404436f58fe311a1d0f84e8059eb",
+          "md5": "8969cb7cef030abe558ae7377a51add7"
         }
       ]
     },
@@ -187,11 +187,11 @@
         {
           "name": "libBaseUtils-2.2.aar",
           "url": "libBaseUtils-2.2.aar",
-          "size": 117404,
-          "sha512": "63addafae3924eaaae683b0c2c5beb7ddcf681d2ec47afeb3d04d52dd8013f6bff6ed14b057eb5620eee0c8a240977d8a42f2eb2c794b08627b4689e595c4b2d",
-          "sha256": "fd55ad38c024c07b9c0877a009dfc2f4c348169b56e4b248ed80247ef7020fa1",
-          "sha1": "83ede1a79c103d5b31682339c558e4d6459d6c38",
-          "md5": "2e4788d7a1c9e729a61181e0fb6e44cf"
+          "size": 119650,
+          "sha512": "a094b29ad65a2edd18e0bb5c64a723b22f1cb5da024ad1b676670942d4115e7367fc751be37f11464ac13fbc4f2295734b83373e1976c3424607de7180af5e0b",
+          "sha256": "91a631cf13982e7bc92cd3c01b93e2f4d70707f69eab1962db3eef3d2afceab6",
+          "sha1": "c2467e705da5404436f58fe311a1d0f84e8059eb",
+          "md5": "8969cb7cef030abe558ae7377a51add7"
         }
       ]
     },
@@ -207,11 +207,11 @@
         {
           "name": "libBaseUtils-2.2-sources.jar",
           "url": "libBaseUtils-2.2-sources.jar",
-          "size": 66127,
-          "sha512": "84564966383d39c71e585dc085e1b5d0deae6e03a31d5f33a1a5b9c772f0d039d81255df9f08c1309ff9df72c5f6c09a1f21b4de8efa2db744c44518d8ea8fbd",
-          "sha256": "1a9bc9e9dbf449846a06c574eb5cf7d01a578b4cffd59cd9dfa802a6ed110580",
-          "sha1": "c004da1252f1d38df0443892f08d512582e3f8d2",
-          "md5": "c8c535ce04df27a41bb0187c902a14f8"
+          "size": 67642,
+          "sha512": "af01c205f7545e71fffd36726b49a511cfcfb78ad192c966fdd7b864cba8fe189cc5ee6e1f1ef0c8f3cbe5ed3e0063c8155632492be72496251eaf088e9557e6",
+          "sha256": "5e7a6d88453dc0845b8a0daf2d11ced694b964db36b625691b9c53f7159ae744",
+          "sha1": "abb379dad260ca103aa1b797ea938a7a7a4aea75",
+          "md5": "4e81aebd88b9b2e37efebe86e5e35383"
         }
       ]
     }
