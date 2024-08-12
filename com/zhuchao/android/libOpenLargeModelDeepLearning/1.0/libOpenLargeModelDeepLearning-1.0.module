@@ -1,0 +1,108 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libOpenLargeModelDeepLearning",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libOpenLargeModelDeepLearning-1.0.aar",
+          "url": "libOpenLargeModelDeepLearning-1.0.aar",
+          "size": 2096740,
+          "sha512": "6aa9a73fe871a3d6ecb594f62559270b2d127567bac3273b1fb46aba4bd7ed1df14df6b761a64579c18aa3cd621a4cafc8e4c95e33b97fddd36ea98bd4398911",
+          "sha256": "6ee7f831a205d25cd9d2815111370f76f8bc4129a76673742f85cf1e2874c348",
+          "sha1": "a757bf528e983d0cf62499636324d6dc3f6f483a",
+          "md5": "00f598e2309b81fb93f4fc987360c705"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.6.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2"
+          }
+        },
+        {
+          "group": "com.zhuchao.android",
+          "module": "libOpenComputerVision",
+          "version": {
+            "requires": "1.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libOpenLargeModelDeepLearning-1.0.aar",
+          "url": "libOpenLargeModelDeepLearning-1.0.aar",
+          "size": 2096740,
+          "sha512": "6aa9a73fe871a3d6ecb594f62559270b2d127567bac3273b1fb46aba4bd7ed1df14df6b761a64579c18aa3cd621a4cafc8e4c95e33b97fddd36ea98bd4398911",
+          "sha256": "6ee7f831a205d25cd9d2815111370f76f8bc4129a76673742f85cf1e2874c348",
+          "sha1": "a757bf528e983d0cf62499636324d6dc3f6f483a",
+          "md5": "00f598e2309b81fb93f4fc987360c705"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libOpenLargeModelDeepLearning-1.0-sources.jar",
+          "url": "libOpenLargeModelDeepLearning-1.0-sources.jar",
+          "size": 1062,
+          "sha512": "6d4fd93729c7c3994432bf8379afa031d82464e07dc65eb0e7569b6016a226ff99b25331aab2b105e9c5d495b791f74813582220c02e0abfc5beba84c481e58c",
+          "sha256": "20eae7400e96e196374cc00862be9c7a51e5b278aca0d6f503c75cecd5acd126",
+          "sha1": "8396d041dacfc0d93ada57d3704a4a4f868748c0",
+          "md5": "ca067171fed9e42ab2705a7136af4660"
+        }
+      ]
+    }
+  ]
+}
