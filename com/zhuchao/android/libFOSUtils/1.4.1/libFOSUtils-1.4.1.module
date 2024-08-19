@@ -26,11 +26,11 @@
         {
           "name": "libFOSUtils-1.4.1.aar",
           "url": "libFOSUtils-1.4.1.aar",
-          "size": 207695,
-          "sha512": "ccf3f84ed02db3a764cd4bdc898e1852a16be9f05f890cc9193650e473f84ff135c5bf42136e8e70294949ded4141fcf26637a3c4b332bc2414eef2262cd61e6",
-          "sha256": "012732801ded266493a2757a740713bb723bbdb9e53474e5f2671d0c696367bb",
-          "sha1": "f8564bc1f8dd31e0962c147264dd121b5ff055af",
-          "md5": "f461e8d4102591eff3c92656c3eed617"
+          "size": 208146,
+          "sha512": "8ab5708457e203525e4eb108a2ff841eb350971f11c6346c926c941e1569caf45286f103e7aad3f82fe6f0755d6b395c3edcb3005c5ed140f68e9ef9840f3a7a",
+          "sha256": "2157d2d053d436899d4a8adf0a86f91cd7152cbcf22aa3eaff0a44f152003bc2",
+          "sha1": "7ae9bd0fd31f13c48ccc303d4b889067ed5b5797",
+          "md5": "b12d2fd6043ba6e974baca8817829ba3"
         }
       ]
     },
@@ -55,11 +55,11 @@
         {
           "name": "libFOSUtils-1.4.1.aar",
           "url": "libFOSUtils-1.4.1.aar",
-          "size": 207695,
-          "sha512": "ccf3f84ed02db3a764cd4bdc898e1852a16be9f05f890cc9193650e473f84ff135c5bf42136e8e70294949ded4141fcf26637a3c4b332bc2414eef2262cd61e6",
-          "sha256": "012732801ded266493a2757a740713bb723bbdb9e53474e5f2671d0c696367bb",
-          "sha1": "f8564bc1f8dd31e0962c147264dd121b5ff055af",
-          "md5": "f461e8d4102591eff3c92656c3eed617"
+          "size": 208146,
+          "sha512": "8ab5708457e203525e4eb108a2ff841eb350971f11c6346c926c941e1569caf45286f103e7aad3f82fe6f0755d6b395c3edcb3005c5ed140f68e9ef9840f3a7a",
+          "sha256": "2157d2d053d436899d4a8adf0a86f91cd7152cbcf22aa3eaff0a44f152003bc2",
+          "sha1": "7ae9bd0fd31f13c48ccc303d4b889067ed5b5797",
+          "md5": "b12d2fd6043ba6e974baca8817829ba3"
         }
       ]
     },
@@ -75,11 +75,11 @@
         {
           "name": "libFOSUtils-1.4.1-sources.jar",
           "url": "libFOSUtils-1.4.1-sources.jar",
-          "size": 77195,
-          "sha512": "86c2112ce1b63494bd32c6b96997fb534ee3aacf57a22f8c7a9ce754fe031775aa3ee458354a3ab2008d3cc7f82edb0b44a6f71a69e5c19fdea8f8729f0cc8a1",
-          "sha256": "3e47ed67003d297e65bf5bb0a884550b6b4211cff60c123583394fbd487036a3",
-          "sha1": "3e7c23f1fa61deeb0b436e60426e63e3e359be49",
-          "md5": "da411cdc368248a4cc306b65ed1e0d69"
+          "size": 77318,
+          "sha512": "42aba4cf2db8a8ef808dfa8118c702e55c074d344b3660031a9475afa8597e0de2a97fc777119e6f1a0e61dd9988bdfff8885669959441ddecad231a73cddaaf",
+          "sha256": "5ef0d98af6aec4537769f834924e7aa02581896c9cce61d069a604ff7496aeac",
+          "sha1": "6e2fd072fc931432ad0e83b4b1dcf146e810832d",
+          "md5": "8ac917df118ba0cc6767a7027013d327"
         }
       ]
     }
