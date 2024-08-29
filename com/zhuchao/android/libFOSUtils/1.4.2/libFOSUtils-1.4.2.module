@@ -1,0 +1,87 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.zhuchao.android",
+    "module": "libFOSUtils",
+    "version": "1.4.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "libFOSUtils-1.4.2.aar",
+          "url": "libFOSUtils-1.4.2.aar",
+          "size": 207611,
+          "sha512": "695e5eef52ee0a45919107a104be51055fecac9fdafccac3a7b57642942097ec10cb2aca74413c70578a332deda197d09c15b30fef474df01aa6bb5422fcaf7e",
+          "sha256": "59ab988701ee67b1b3804187a26a1be839f8c2cda559b1568881cf0beeab299a",
+          "sha1": "ad75d22f376b6999d2d23ecbb25a2ce4ca98e146",
+          "md5": "7185b643b5dc384a68e8e057ea6a40af"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.zhuchao.android",
+          "module": "libBaseUtils",
+          "version": {
+            "requires": "2.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "libFOSUtils-1.4.2.aar",
+          "url": "libFOSUtils-1.4.2.aar",
+          "size": 207611,
+          "sha512": "695e5eef52ee0a45919107a104be51055fecac9fdafccac3a7b57642942097ec10cb2aca74413c70578a332deda197d09c15b30fef474df01aa6bb5422fcaf7e",
+          "sha256": "59ab988701ee67b1b3804187a26a1be839f8c2cda559b1568881cf0beeab299a",
+          "sha1": "ad75d22f376b6999d2d23ecbb25a2ce4ca98e146",
+          "md5": "7185b643b5dc384a68e8e057ea6a40af"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "libFOSUtils-1.4.2-sources.jar",
+          "url": "libFOSUtils-1.4.2-sources.jar",
+          "size": 77041,
+          "sha512": "8894c17fd767c411c3c5e9dafcf12af28d7eeede23a3621a5e23e9e431127ffc969414462c7b40011f5e7b6c23194f119063341496fbb5e4914b4ab075018ed5",
+          "sha256": "e7322a104d9d8ac91ec18fd638614afac1a6a769e0849cda6507b1be5018718d",
+          "sha1": "0c39064548029ae7a930533c65cc0fe3609a2688",
+          "md5": "c8e8b4bcdd1ef6fddfe38cdaca1caa1a"
+        }
+      ]
+    }
+  ]
+}

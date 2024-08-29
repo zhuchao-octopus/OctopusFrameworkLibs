@@ -61,7 +61,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2"
+            "requires": "2.2.1"
           }
         },
         {

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.2.1"
+      "version": "8.7"
     }
   },
   "variants": [
@@ -54,7 +54,7 @@
           "group": "com.zhuchao.android",
           "module": "libBaseUtils",
           "version": {
-            "requires": "2.2"
+            "requires": "2.2.1"
           }
         },
         {

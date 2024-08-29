@@ -3,12 +3,13 @@
   <groupId>com.zhuchao.android</groupId>
   <artifactId>libFOSUtils</artifactId>
   <versioning>
-    <latest>1.4.1</latest>
-    <release>1.4.1</release>
+    <latest>1.4.2</latest>
+    <release>1.4.2</release>
     <versions>
       <version>1.4</version>
       <version>1.4.1</version>
+      <version>1.4.2</version>
     </versions>
-    <lastUpdated>20240819060838</lastUpdated>
+    <lastUpdated>20240822123849</lastUpdated>
   </versioning>
 </metadata>
