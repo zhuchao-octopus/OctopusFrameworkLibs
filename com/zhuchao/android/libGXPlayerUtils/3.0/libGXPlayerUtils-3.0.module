@@ -26,11 +26,11 @@
         {
           "name": "libGXPlayerUtils-3.0.aar",
           "url": "libGXPlayerUtils-3.0.aar",
-          "size": 205472,
-          "sha512": "6d207dc858206e33e3cc10db4a879a00277ace94d542d41e7102d2f48ea4e7e51364661993a01bbab393c6513108c8c9833811bb29bfe2d7c3a6dafea359842e",
-          "sha256": "84d13b31dcf50c9c2f3d606f57330e0ab98165df5e0c72090f9b39aa2e8bc093",
-          "sha1": "6b3aee8a2e35152c5da9e652f4f1881fd45756de",
-          "md5": "b9036f93665e77df8eb6503ee15e065c"
+          "size": 206509,
+          "sha512": "1ddbc2659ebc03a3b215127778b3c121fb85630e501cd94556427c9c808c50efb88c7585598f4f2ff56f873310aab26fa4a65d279557739480cf5db8b8229bc2",
+          "sha256": "187368c9a0e85584286fb8b921f9e2d5879def81d24eaa058a4752f889a1099b",
+          "sha1": "ae9bfdc46b8499ca353f495d02205ed71e3fb12a",
+          "md5": "9b296c76062dd4a43a7ef8caaf187ef1"
         }
       ]
     },
@@ -61,7 +61,7 @@
           "group": "com.zhuchao.android",
           "module": "libFOSUtils",
           "version": {
-            "requires": "1.4.1"
+            "requires": "1.4.2"
           }
         },
         {
@@ -76,11 +76,11 @@
         {
           "name": "libGXPlayerUtils-3.0.aar",
           "url": "libGXPlayerUtils-3.0.aar",
-          "size": 205472,
-          "sha512": "6d207dc858206e33e3cc10db4a879a00277ace94d542d41e7102d2f48ea4e7e51364661993a01bbab393c6513108c8c9833811bb29bfe2d7c3a6dafea359842e",
-          "sha256": "84d13b31dcf50c9c2f3d606f57330e0ab98165df5e0c72090f9b39aa2e8bc093",
-          "sha1": "6b3aee8a2e35152c5da9e652f4f1881fd45756de",
-          "md5": "b9036f93665e77df8eb6503ee15e065c"
+          "size": 206509,
+          "sha512": "1ddbc2659ebc03a3b215127778b3c121fb85630e501cd94556427c9c808c50efb88c7585598f4f2ff56f873310aab26fa4a65d279557739480cf5db8b8229bc2",
+          "sha256": "187368c9a0e85584286fb8b921f9e2d5879def81d24eaa058a4752f889a1099b",
+          "sha1": "ae9bfdc46b8499ca353f495d02205ed71e3fb12a",
+          "md5": "9b296c76062dd4a43a7ef8caaf187ef1"
         }
       ]
     },
@@ -96,11 +96,11 @@
         {
           "name": "libGXPlayerUtils-3.0-sources.jar",
           "url": "libGXPlayerUtils-3.0-sources.jar",
-          "size": 19898,
-          "sha512": "03189c2a1bf71e91ef1b4ee44e0f9951dec0105ff288250a100c3d336f53fd6c23f74cbff9a5a232193355af18685258c7e0ca851a2ab47a107bcd2eea981542",
-          "sha256": "3a14b4dfa86647bb5873b4ad677855ecc69661988aee3c30e151c4a2fde9a841",
-          "sha1": "6321acf15bcb27e00d3e09680ac6a452e3dbb2a3",
-          "md5": "4861c25f136c33b1fda59de9b0beebdb"
+          "size": 20600,
+          "sha512": "09c88fb205d119a53d051f4a2aa85a5536355de8034725ffbc9e8098b7e560af8cdcc42512fd237f3dbe977554db2e6c106eec687467a1276705c1f11ee37cdf",
+          "sha256": "63f55f1e071287f51ada122697845744cffb0639ff25cc6ccc0208a9de214fcc",
+          "sha1": "41f78ef33bccb5a4e1e3b38c675e441801175696",
+          "md5": "057cf4e5fd72881dcb51d66c5cbf7359"
         }
       ]
     }
